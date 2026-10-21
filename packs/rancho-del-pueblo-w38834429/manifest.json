@@ -3,7 +3,7 @@
  "course_id": "rancho-del-pueblo-w38834429",
  "name": "Rancho Del Pueblo Golf Course",
  "city": "San Jose, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T04:34:13",
  "verified": false,
  "sources": {
@@ -369,6 +369,6 @@
    "osm_hole_way": "1449280186"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

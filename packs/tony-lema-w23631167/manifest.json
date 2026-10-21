@@ -3,7 +3,7 @@
  "course_id": "tony-lema-w23631167",
  "name": "Tony Lema Golf Course",
  "city": "Monarch Bay Drive, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:06:40",
  "verified": false,
  "sources": {
@@ -635,6 +635,6 @@
    "osm_hole_way": "689177000"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

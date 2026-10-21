@@ -3,7 +3,7 @@
  "course_id": "lincoln-park-r2142043",
  "name": "Lincoln Park Golf Course",
  "city": "34th Avenue, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:50:23",
  "verified": false,
  "sources": {
@@ -667,6 +667,6 @@
    "osm_hole_way": "688991987"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

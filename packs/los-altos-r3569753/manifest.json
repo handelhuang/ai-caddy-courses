@@ -3,7 +3,7 @@
  "course_id": "los-altos-r3569753",
  "name": "Los Altos Golf & Country Club",
  "city": "Los Altos, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:58:57",
  "verified": false,
  "sources": {
@@ -649,6 +649,6 @@
    "osm_hole_way": "838843943"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

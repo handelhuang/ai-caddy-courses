@@ -3,7 +3,7 @@
  "course_id": "castlewood-country-club-valley-w43985778",
  "name": "Castlewood Country Club - Valley Course",
  "city": "",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:25:30",
  "verified": false,
  "sources": {
@@ -671,6 +671,6 @@
    "osm_hole_way": "692275387"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

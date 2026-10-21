@@ -3,7 +3,7 @@
  "course_id": "corica-park-w40224423",
  "name": "Corica Park Golf Course",
  "city": "Alameda, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:10:08",
  "verified": false,
  "sources": {
@@ -669,6 +669,6 @@
    "osm_hole_way": "1435145516"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

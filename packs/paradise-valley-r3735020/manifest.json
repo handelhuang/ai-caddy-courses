@@ -3,7 +3,7 @@
  "course_id": "paradise-valley-r3735020",
  "name": "Paradise Valley Golf Course",
  "city": "Fairfield, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T06:45:26",
  "verified": false,
  "sources": {
@@ -716,6 +716,6 @@
    "osm_hole_way": "1458125102"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

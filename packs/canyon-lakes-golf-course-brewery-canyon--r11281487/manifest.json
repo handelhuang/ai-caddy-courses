@@ -3,7 +3,7 @@
  "course_id": "canyon-lakes-golf-course-brewery-canyon--r11281487",
  "name": "Canyon Lakes Golf Course & Brewery;Canyon Lakes Golf Club",
  "city": "San Ramon, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T06:08:18",
  "verified": false,
  "sources": {
@@ -669,6 +669,6 @@
    "osm_hole_way": "1218256913"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

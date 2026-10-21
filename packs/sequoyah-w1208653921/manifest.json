@@ -3,7 +3,7 @@
  "course_id": "sequoyah-w1208653921",
  "name": "Sequoyah Country Club",
  "city": "Oakland, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:12:28",
  "verified": false,
  "sources": {
@@ -653,6 +653,6 @@
    "osm_hole_way": "1208664851"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

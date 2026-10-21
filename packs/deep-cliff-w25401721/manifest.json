@@ -3,7 +3,7 @@
  "course_id": "deep-cliff-w25401721",
  "name": "Deep Cliff Golf Course",
  "city": "Cupertino, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T04:30:28",
  "verified": false,
  "sources": {
@@ -665,6 +665,6 @@
    "osm_hole_way": "825945188"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

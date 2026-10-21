@@ -3,7 +3,7 @@
  "course_id": "olympic-club-lake-w1417078425",
  "name": "Olympic Club Lake Course",
  "city": "San Francisco, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T04:18:45",
  "verified": false,
  "sources": {
@@ -710,6 +710,6 @@
    "osm_hole_way": "680757298"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

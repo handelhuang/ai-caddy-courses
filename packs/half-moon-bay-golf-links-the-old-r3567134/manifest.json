@@ -3,7 +3,7 @@
  "course_id": "half-moon-bay-golf-links-the-old-r3567134",
  "name": "Half Moon Bay Golf Links - The Old Course",
  "city": "Half Moon Bay, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T18:30:30",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    35,
-    92
+    34.6,
+    92.5
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    75,
-    106
+    74.6,
+    105.8
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    98,
-    112
+    97.9,
+    111.5
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    98,
-    119
+    97.9,
+    119.2
    ],
    "counts": {
     "fairway": 2,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    64,
-    115
+    64.3,
+    114.6
    ],
    "counts": {
     "fairway": 2,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    69,
-    114
+    68.7,
+    114.5
    ],
    "counts": {
     "fairway": 2,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    79,
-    113
+    79.1,
+    112.7
    ],
    "counts": {
     "fairway": 1,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    58,
-    110
+    58.1,
+    110.3
    ],
    "counts": {
     "fairway": 1,
@@ -329,8 +329,8 @@
     }
    },
    "elevation_ft": [
-    43,
-    92
+    42.7,
+    92.5
    ],
    "counts": {
     "fairway": 1,
@@ -363,8 +363,8 @@
     }
    },
    "elevation_ft": [
-    35,
-    90
+    34.6,
+    90.4
    ],
    "counts": {
     "fairway": 1,
@@ -397,8 +397,8 @@
     }
    },
    "elevation_ft": [
-    46,
-    94
+    45.8,
+    94.1
    ],
    "counts": {
     "fairway": 1,
@@ -431,8 +431,8 @@
     }
    },
    "elevation_ft": [
-    68,
-    98
+    68.4,
+    97.9
    ],
    "counts": {
     "fairway": 1,
@@ -465,8 +465,8 @@
     }
    },
    "elevation_ft": [
-    74,
-    98
+    73.7,
+    97.5
    ],
    "counts": {
     "fairway": 1,
@@ -499,8 +499,8 @@
     }
    },
    "elevation_ft": [
-    70,
-    103
+    69.5,
+    103.0
    ],
    "counts": {
     "fairway": 1,
@@ -535,8 +535,8 @@
     }
    },
    "elevation_ft": [
-    44,
-    96
+    44.4,
+    95.8
    ],
    "counts": {
     "fairway": 1,
@@ -571,8 +571,8 @@
     }
    },
    "elevation_ft": [
-    35,
-    90
+    34.9,
+    90.3
    ],
    "counts": {
     "fairway": 2,
@@ -605,8 +605,8 @@
     }
    },
    "elevation_ft": [
-    36,
-    81
+    36.1,
+    81.2
    ],
    "counts": {
     "fairway": 1,
@@ -639,8 +639,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    81
+    -2.3,
+    81.0
    ],
    "counts": {
     "fairway": 2,
@@ -652,5 +652,7 @@
    },
    "osm_hole_way": "803454374"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
+ "elevation_format": 2
 }

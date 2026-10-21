@@ -3,7 +3,7 @@
  "course_id": "sharp-park-w309007558",
  "name": "Sharp Park Golf Course",
  "city": "San Francisco, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T04:15:38",
  "verified": false,
  "sources": {
@@ -654,6 +654,6 @@
    "osm_hole_way": "1043782596"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

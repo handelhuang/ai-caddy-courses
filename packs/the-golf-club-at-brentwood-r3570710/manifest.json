@@ -3,7 +3,7 @@
  "course_id": "the-golf-club-at-brentwood-r3570710",
  "name": "The Golf Club at Brentwood",
  "city": "Brentwood, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T06:37:21",
  "verified": false,
  "sources": {
@@ -735,6 +735,6 @@
    "osm_hole_way": "1564542344"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

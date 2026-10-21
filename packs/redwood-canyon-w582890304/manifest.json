@@ -3,7 +3,7 @@
  "course_id": "redwood-canyon-w582890304",
  "name": "Redwood Canyon Golf Course",
  "city": "Castro Valley, CA",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:12:39",
  "verified": false,
  "sources": {
@@ -657,6 +657,6 @@
    "osm_hole_way": "1155702169"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }

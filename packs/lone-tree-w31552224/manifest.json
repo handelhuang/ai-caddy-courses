@@ -3,7 +3,7 @@
  "course_id": "lone-tree-w31552224",
  "name": "Lone Tree Golf Course",
  "city": "",
- "version": "2026.10.21.2",
+ "version": "2026.10.21.3",
  "built_at": "2026-10-21T05:41:44",
  "verified": false,
  "sources": {
@@ -631,6 +631,6 @@
    "osm_hole_way": "1037826842"
   }
  ],
- "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_refreshed": "2026-10-21T19:37:25Z",
  "elevation_format": 2
 }
