@@ -1,0 +1,130 @@
+{
+ "format": 1,
+ "course_id": "half-moon-bay-golf-links-the-ocean-r19305773",
+ "name": "Half Moon Bay Golf Links - The Ocean Course",
+ "city": "",
+ "version": "2026.10.21.1",
+ "built_at": "2026-10-21T05:55:53",
+ "verified": false,
+ "sources": {
+  "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
+  "elevation": "USGS 3DEP (public domain)",
+  "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
+  "scorecard": "Pars estimated from hole length; the player confirms them"
+ },
+ "readiness": "Limited",
+ "readiness_counts": {
+  "Ready": 0,
+  "Usable with gaps": 0,
+  "Limited": 9
+ },
+ "build_seconds": 0.0,
+ "par": 36,
+ "par_source": "map",
+ "holes_count": 9,
+ "osm": "relation/19305773",
+ "center": [
+  37.429183,
+  -122.434218
+ ],
+ "tee_sets": [
+  {
+   "name": "Default",
+   "yards": 0,
+   "rating": null,
+   "slope": null
+  }
+ ],
+ "holes": [
+  {
+   "hole": 1,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 1 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 2,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 2 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 3,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 3 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 4,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 4 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 5,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 5 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 6,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 6 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 7,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 7 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 8,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 8 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  },
+  {
+   "hole": 9,
+   "par": 4,
+   "score": 0,
+   "readiness": "Limited",
+   "reasons": [
+    "Hole 9 has no hole line in OpenStreetMap"
+   ],
+   "fallback": "distances unavailable until mapped"
+  }
+ ]
+}

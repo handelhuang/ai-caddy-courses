@@ -1,0 +1,378 @@
+{
+ "format": 1,
+ "course_id": "buchanan-fields-w31345297",
+ "name": "Buchanan Fields Golf Course",
+ "city": "Concord",
+ "version": "2026.10.21.1",
+ "built_at": "2026-10-21T05:36:59",
+ "verified": false,
+ "sources": {
+  "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
+  "elevation": "USGS 3DEP (public domain)",
+  "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
+  "scorecard": "Pars estimated from hole length; the player confirms them"
+ },
+ "readiness": "Usable with gaps",
+ "readiness_counts": {
+  "Ready": 9,
+  "Usable with gaps": 0,
+  "Limited": 0
+ },
+ "build_seconds": 41.1,
+ "par": 31,
+ "par_source": "estimated",
+ "holes_count": 9,
+ "osm": "way/31345297",
+ "center": [
+  37.980091,
+  -122.062272
+ ],
+ "tee_sets": [
+  {
+   "name": "Default",
+   "yards": 1867,
+   "rating": null,
+   "slope": null
+  }
+ ],
+ "holes": [
+  {
+   "hole": 1,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 279,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 279-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      0.0
+     ],
+     "plays": 279,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    18,
+    31
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 84,
+    "canopy_trees": 20,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344629"
+  },
+  {
+   "hole": 2,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 146,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 146-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      0.0
+     ],
+     "plays": 146,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    16,
+    28
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 0,
+    "canopy_trees": 0,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344630"
+  },
+  {
+   "hole": 3,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 154,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 154-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      0.0
+     ],
+     "plays": 154,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    16,
+    28
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 1,
+    "woods": 12,
+    "canopy_trees": 8,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344631"
+  },
+  {
+   "hole": 4,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 328,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 328-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line",
+    "Elevation data missing or invalid"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      0.0
+     ],
+     "plays": 328,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    0,
+    0
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 1,
+    "woods": 115,
+    "canopy_trees": 29,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344632"
+  },
+  {
+   "hole": 5,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 124,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 124-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      -0.0
+     ],
+     "plays": 124,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    19,
+    39
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 0,
+    "woods": 52,
+    "canopy_trees": 17,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344633"
+  },
+  {
+   "hole": 6,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 130,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 130-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      0.0
+     ],
+     "plays": 130,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    19,
+    43
+   ],
+   "counts": {
+    "fairway": 3,
+    "bunkers_near_green": 0,
+    "water": 0,
+    "woods": 53,
+    "canopy_trees": 16,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344634"
+  },
+  {
+   "hole": 7,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 270,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 270-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      0.0
+     ],
+     "plays": 270,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    18,
+    33
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 0,
+    "water": 0,
+    "woods": 90,
+    "canopy_trees": 17,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344635"
+  },
+  {
+   "hole": 8,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 296,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 296-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      0.0
+     ],
+     "plays": 296,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    18,
+    34
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 1,
+    "woods": 83,
+    "canopy_trees": 24,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344636"
+  },
+  {
+   "hole": 9,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 140,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 140-yd hole line; please confirm",
+    "No tee boxes mapped near the start of the hole line; tees placed on the line"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      0.0
+     ],
+     "plays": 140,
+     "error": 0,
+     "tee_box": null
+    }
+   },
+   "elevation_ft": [
+    19,
+    34
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 50,
+    "canopy_trees": 12,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1136344637"
+  }
+ ]
+}

@@ -1,0 +1,690 @@
+{
+ "format": 1,
+ "course_id": "the-golf-club-at-boulder-ridge-w37679515",
+ "name": "The Golf Club at Boulder Ridge",
+ "city": "San Jose, CA",
+ "version": "2026.10.21.1",
+ "built_at": "2026-10-21T04:29:42",
+ "verified": false,
+ "sources": {
+  "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
+  "elevation": "USGS 3DEP (public domain)",
+  "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
+  "scorecard": "Pars estimated from hole length; the player confirms them"
+ },
+ "readiness": "Ready",
+ "readiness_counts": {
+  "Ready": 18,
+  "Usable with gaps": 0,
+  "Limited": 0
+ },
+ "build_seconds": 104.4,
+ "par": 72,
+ "par_source": "estimated",
+ "holes_count": 18,
+ "osm": "way/37679515",
+ "center": [
+  37.233221,
+  -121.862556
+ ],
+ "tee_sets": [
+  {
+   "name": "Default",
+   "yards": 6781,
+   "rating": null,
+   "slope": null
+  }
+ ],
+ "holes": [
+  {
+   "hole": 1,
+   "par": 5,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 480,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 5 estimated from the 480-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      -0.0
+     ],
+     "plays": 480,
+     "error": 0,
+     "tee_box": "1187969406"
+    }
+   },
+   "elevation_ft": [
+    221,
+    500
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 1,
+    "woods": 12,
+    "canopy_trees": 12,
+    "tee_boxes": 6
+   },
+   "osm_hole_way": "1187949833"
+  },
+  {
+   "hole": 2,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 208,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 208-yd hole line; please confirm",
+    "Elevation data missing or invalid"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.1,
+      0.0
+     ],
+     "plays": 208,
+     "error": 0,
+     "tee_box": "1187980208"
+    }
+   },
+   "elevation_ft": [
+    0,
+    0
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 1,
+    "woods": 27,
+    "canopy_trees": 27,
+    "tee_boxes": 8
+   },
+   "osm_hole_way": "1187949834"
+  },
+  {
+   "hole": 3,
+   "par": 5,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 527,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 5 estimated from the 527-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.2,
+      0.1
+     ],
+     "plays": 527,
+     "error": 0,
+     "tee_box": "1187980202"
+    }
+   },
+   "elevation_ft": [
+    220,
+    531
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 1,
+    "woods": 4,
+    "canopy_trees": 4,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949835"
+  },
+  {
+   "hole": 4,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 441,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 441-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.1,
+      0.0
+     ],
+     "plays": 441,
+     "error": 0,
+     "tee_box": "1188191976"
+    }
+   },
+   "elevation_ft": [
+    317,
+    539
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 1,
+    "canopy_trees": 1,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949836"
+  },
+  {
+   "hole": 5,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 374,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 374-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.1,
+      -0.0
+     ],
+     "plays": 374,
+     "error": 0,
+     "tee_box": "1188191983"
+    }
+   },
+   "elevation_ft": [
+    244,
+    543
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 10,
+    "canopy_trees": 10,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949837"
+  },
+  {
+   "hole": 6,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 387,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 387-yd hole line; please confirm",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.1,
+      -0.0
+     ],
+     "plays": 387,
+     "error": 0,
+     "tee_box": "1188191992"
+    }
+   },
+   "elevation_ft": [
+    220,
+    491
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 1,
+    "woods": 9,
+    "canopy_trees": 9,
+    "tee_boxes": 4
+   },
+   "osm_hole_way": "1187949838"
+  },
+  {
+   "hole": 7,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 221,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 221-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      0.0
+     ],
+     "plays": 221,
+     "error": 0,
+     "tee_box": "1188192001"
+    }
+   },
+   "elevation_ft": [
+    217,
+    453
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 8,
+    "canopy_trees": 8,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949839"
+  },
+  {
+   "hole": 8,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 389,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 389-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      0.0
+     ],
+     "plays": 389,
+     "error": 0,
+     "tee_box": "1188193879"
+    }
+   },
+   "elevation_ft": [
+    214,
+    453
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 39,
+    "canopy_trees": 39,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949840"
+  },
+  {
+   "hole": 9,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 374,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 374-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.2,
+      -0.0
+     ],
+     "plays": 374,
+     "error": 0,
+     "tee_box": "1188193886"
+    }
+   },
+   "elevation_ft": [
+    334,
+    496
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 1,
+    "woods": 14,
+    "canopy_trees": 14,
+    "tee_boxes": 13
+   },
+   "osm_hole_way": "1187949841"
+  },
+  {
+   "hole": 10,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 380,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 380-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.4,
+      0.1
+     ],
+     "plays": 380,
+     "error": 0,
+     "tee_box": "1188194963"
+    }
+   },
+   "elevation_ft": [
+    201,
+    488
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 16,
+    "canopy_trees": 16,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949842"
+  },
+  {
+   "hole": 11,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 217,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 217-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.2,
+      0.0
+     ],
+     "plays": 217,
+     "error": 0,
+     "tee_box": "1188194968"
+    }
+   },
+   "elevation_ft": [
+    263,
+    438
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 30,
+    "canopy_trees": 30,
+    "tee_boxes": 14
+   },
+   "osm_hole_way": "1187949843"
+  },
+  {
+   "hole": 12,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 411,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 411-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.2,
+      -0.0
+     ],
+     "plays": 411,
+     "error": 0,
+     "tee_box": "1188197741"
+    }
+   },
+   "elevation_ft": [
+    197,
+    502
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 16,
+    "canopy_trees": 16,
+    "tee_boxes": 6
+   },
+   "osm_hole_way": "1187949844"
+  },
+  {
+   "hole": 13,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 367,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 367-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      -0.0
+     ],
+     "plays": 367,
+     "error": 0,
+     "tee_box": "1188197752"
+    }
+   },
+   "elevation_ft": [
+    213,
+    466
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 7,
+    "canopy_trees": 7,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949845"
+  },
+  {
+   "hole": 14,
+   "par": 3,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 163,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 3 estimated from the 163-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.1,
+      0.0
+     ],
+     "plays": 163,
+     "error": 0,
+     "tee_box": "1188198696"
+    }
+   },
+   "elevation_ft": [
+    225,
+    440
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 9,
+    "canopy_trees": 9,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949846"
+  },
+  {
+   "hole": 15,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 394,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 394-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      -0.0
+     ],
+     "plays": 394,
+     "error": 0,
+     "tee_box": "1188198706"
+    }
+   },
+   "elevation_ft": [
+    207,
+    502
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 4,
+    "water": 0,
+    "woods": 16,
+    "canopy_trees": 16,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1187949847"
+  },
+  {
+   "hole": 16,
+   "par": 5,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 495,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 5 estimated from the 495-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.0,
+      -0.0
+     ],
+     "plays": 495,
+     "error": 0,
+     "tee_box": "1188198717"
+    }
+   },
+   "elevation_ft": [
+    198,
+    501
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 2,
+    "canopy_trees": 2,
+    "tee_boxes": 8
+   },
+   "osm_hole_way": "1187949848"
+  },
+  {
+   "hole": 17,
+   "par": 4,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 433,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 4 estimated from the 433-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.1,
+      -0.0
+     ],
+     "plays": 433,
+     "error": 0,
+     "tee_box": "1188197761"
+    }
+   },
+   "elevation_ft": [
+    213,
+    502
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 4,
+    "water": 0,
+    "woods": 3,
+    "canopy_trees": 3,
+    "tee_boxes": 9
+   },
+   "osm_hole_way": "1187949849"
+  },
+  {
+   "hole": 18,
+   "par": 5,
+   "par_estimated": true,
+   "hcp": null,
+   "line_yards": 520,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Par 5 estimated from the 520-yd hole line; please confirm"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.0,
+      0.0
+     ],
+     "plays": 520,
+     "error": 0,
+     "tee_box": "1188200673"
+    }
+   },
+   "elevation_ft": [
+    191,
+    501
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 11,
+    "canopy_trees": 11,
+    "tee_boxes": 6
+   },
+   "osm_hole_way": "1187949850"
+  }
+ ]
+}

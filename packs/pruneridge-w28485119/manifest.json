@@ -1,0 +1,350 @@
+{
+ "format": 1,
+ "course_id": "pruneridge-w28485119",
+ "name": "Pruneridge Golf Club",
+ "city": "",
+ "version": "2026.10.21.1",
+ "built_at": "2026-10-21T04:35:24",
+ "verified": false,
+ "sources": {
+  "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
+  "elevation": "USGS 3DEP (public domain)",
+  "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
+  "scorecard": "OpenStreetMap hole tags"
+ },
+ "readiness": "Usable with gaps",
+ "readiness_counts": {
+  "Ready": 9,
+  "Usable with gaps": 0,
+  "Limited": 0
+ },
+ "build_seconds": 52.3,
+ "par": 30,
+ "par_source": "map",
+ "holes_count": 9,
+ "osm": "way/28485119",
+ "center": [
+  37.332475,
+  -121.96505
+ ],
+ "tee_sets": [
+  {
+   "name": "Default",
+   "yards": 1630,
+   "rating": null,
+   "slope": null
+  }
+ ],
+ "holes": [
+  {
+   "hole": 1,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 148,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.3,
+      0.0
+     ],
+     "plays": 148,
+     "error": 0,
+     "tee_box": "825634128"
+    }
+   },
+   "elevation_ft": [
+    106,
+    116
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 17,
+    "canopy_trees": 17,
+    "tee_boxes": 3
+   },
+   "osm_hole_way": "825634135"
+  },
+  {
+   "hole": 2,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 102,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      0.3,
+      0.0
+     ],
+     "plays": 102,
+     "error": 0,
+     "tee_box": "825634148"
+    }
+   },
+   "elevation_ft": [
+    108,
+    116
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 22,
+    "canopy_trees": 22,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "825634136"
+  },
+  {
+   "hole": 3,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 345,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      -1.0,
+      0.1
+     ],
+     "plays": 345,
+     "error": 0,
+     "tee_box": "825634150"
+    }
+   },
+   "elevation_ft": [
+    106,
+    116
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 21,
+    "canopy_trees": 21,
+    "tee_boxes": 2
+   },
+   "osm_hole_way": "825634137"
+  },
+  {
+   "hole": 4,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 270,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      0.9,
+      -0.1
+     ],
+     "plays": 270,
+     "error": 0,
+     "tee_box": "825634153"
+    }
+   },
+   "elevation_ft": [
+    100,
+    113
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 19,
+    "canopy_trees": 19,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "825634138"
+  },
+  {
+   "hole": 5,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 138,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      -1.6,
+      0.0
+     ],
+     "plays": 138,
+     "error": 0,
+     "tee_box": "825634155"
+    }
+   },
+   "elevation_ft": [
+    100,
+    112
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 18,
+    "canopy_trees": 18,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "825634139"
+  },
+  {
+   "hole": 6,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 117,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.1,
+      0.0
+     ],
+     "plays": 117,
+     "error": 0,
+     "tee_box": "825634157"
+    }
+   },
+   "elevation_ft": [
+    100,
+    112
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 0,
+    "woods": 12,
+    "canopy_trees": 12,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "825634140"
+  },
+  {
+   "hole": 7,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 125,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      -0.8,
+      0.0
+     ],
+     "plays": 125,
+     "error": 0,
+     "tee_box": "825634159"
+    }
+   },
+   "elevation_ft": [
+    100,
+    114
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 10,
+    "canopy_trees": 10,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "825634141"
+  },
+  {
+   "hole": 8,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 110,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Default": {
+     "point": [
+      0.5,
+      0.0
+     ],
+     "plays": 110,
+     "error": 0,
+     "tee_box": "825634161"
+    }
+   },
+   "elevation_ft": [
+    106,
+    114
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 14,
+    "canopy_trees": 14,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "825634142"
+  },
+  {
+   "hole": 9,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": null,
+   "line_yards": 275,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Default": {
+     "point": [
+      0.7,
+      -0.0
+     ],
+     "plays": 275,
+     "error": 0,
+     "tee_box": "825634163"
+    }
+   },
+   "elevation_ft": [
+    104,
+    116
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 0,
+    "woods": 21,
+    "canopy_trees": 21,
+    "tee_boxes": 3
+   },
+   "osm_hole_way": "825634143"
+  }
+ ]
+}
