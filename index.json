@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-21T18:30:30Z",
+ "updated": "2026-10-21T19:37:49Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -11,9 +11,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 454548,
-   "osm": "relation/13725984"
+   "version": "2026.10.21.3",
+   "bytes": 454599,
+   "osm": "relation/13725984",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "almaden-golf-and-r3569743",
@@ -24,9 +28,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 595090,
-   "osm": "relation/3569743"
+   "version": "2026.10.21.3",
+   "bytes": 595144,
+   "osm": "relation/3569743",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "baylands-w23631855",
@@ -37,9 +45,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 427034,
-   "osm": "way/23631855"
+   "version": "2026.10.21.3",
+   "bytes": 427088,
+   "osm": "way/23631855",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "blackberry-farm-w24275815",
@@ -50,9 +62,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 155642,
-   "osm": "way/24275815"
+   "version": "2026.10.21.3",
+   "bytes": 155666,
+   "osm": "way/24275815",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "blue-rock-spring-golf-club-east-w44043662",
@@ -63,9 +79,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 537975,
-   "osm": "way/44043662"
+   "version": "2026.10.21.3",
+   "bytes": 538029,
+   "osm": "way/44043662",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "blue-rock-spring-golf-club-west-w44043674",
@@ -76,9 +96,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 527214,
-   "osm": "way/44043674"
+   "version": "2026.10.21.3",
+   "bytes": 527268,
+   "osm": "way/44043674",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "boundary-oak-w31270695",
@@ -89,9 +113,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 519986,
-   "osm": "way/31270695"
+   "version": "2026.10.21.3",
+   "bytes": 520056,
+   "osm": "way/31270695",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 0
+   }
   },
   {
    "id": "buchanan-fields-w31345297",
@@ -102,9 +130,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 182557,
-   "osm": "way/31345297"
+   "version": "2026.10.21.3",
+   "bytes": 182584,
+   "osm": "way/31345297",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "burlingame-r3566990",
@@ -115,9 +147,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 524664,
-   "osm": "relation/3566990"
+   "version": "2026.10.21.3",
+   "bytes": 524718,
+   "osm": "relation/3566990",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "california-golf-club-of-san-francisco-w24481574",
@@ -128,9 +164,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 722477,
-   "osm": "way/24481574"
+   "version": "2026.10.21.3",
+   "bytes": 722531,
+   "osm": "way/24481574",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "callippe-preserve-r1745396",
@@ -141,9 +181,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 561023,
-   "osm": "relation/1745396"
+   "version": "2026.10.21.3",
+   "bytes": 561077,
+   "osm": "relation/1745396",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "canyon-lakes-golf-course-brewery-canyon--r11281487",
@@ -154,9 +198,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 528589,
-   "osm": "relation/11281487"
+   "version": "2026.10.21.3",
+   "bytes": 528643,
+   "osm": "relation/11281487",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "castlewood-country-club-hill-r5150430",
@@ -167,9 +215,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 735730,
-   "osm": "relation/5150430"
+   "version": "2026.10.21.3",
+   "bytes": 735784,
+   "osm": "relation/5150430",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "castlewood-country-club-valley-w43985778",
@@ -180,9 +232,13 @@
    "readiness": "Limited",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 503091,
-   "osm": "way/43985778"
+   "version": "2026.10.21.3",
+   "bytes": 503136,
+   "osm": "way/43985778",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 3
+   }
   },
   {
    "id": "chardonnay-w117047580",
@@ -193,9 +249,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 573313,
-   "osm": "way/117047580"
+   "version": "2026.10.21.3",
+   "bytes": 573367,
+   "osm": "way/117047580",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "cinnabar-hills-w1162481658",
@@ -206,9 +266,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 353886,
-   "osm": "way/1162481658"
+   "version": "2026.10.21.3",
+   "bytes": 353913,
+   "osm": "way/1162481658",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "claremont-r3092771",
@@ -219,9 +283,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 462844,
-   "osm": "relation/3092771"
+   "version": "2026.10.21.3",
+   "bytes": 462896,
+   "osm": "relation/3092771",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "contra-costa-r7496466",
@@ -232,9 +300,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 510383,
-   "osm": "relation/7496466"
+   "version": "2026.10.21.3",
+   "bytes": 510437,
+   "osm": "relation/7496466",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "corica-park-w40224423",
@@ -245,9 +317,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 615627,
-   "osm": "way/40224423"
+   "version": "2026.10.21.3",
+   "bytes": 615681,
+   "osm": "way/40224423",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "coyote-creek-golf-club-tournament-w1417621369",
@@ -258,9 +334,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 556792,
-   "osm": "way/1417621369"
+   "version": "2026.10.21.3",
+   "bytes": 556846,
+   "osm": "way/1417621369",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "coyote-creek-golf-club-valley-w1417622153",
@@ -271,9 +351,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 585220,
-   "osm": "way/1417622153"
+   "version": "2026.10.21.3",
+   "bytes": 585268,
+   "osm": "way/1417622153",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 2
+   }
   },
   {
    "id": "creekside-w1150608195",
@@ -284,9 +368,13 @@
    "readiness": "Limited",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 309387,
-   "osm": "way/1150608195"
+   "version": "2026.10.21.3",
+   "bytes": 309430,
+   "osm": "way/1150608195",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 7
+   }
   },
   {
    "id": "crow-canyon-r3132092",
@@ -297,9 +385,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 534216,
-   "osm": "relation/3132092"
+   "version": "2026.10.21.3",
+   "bytes": 534270,
+   "osm": "relation/3132092",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "crystal-springs-w24267244",
@@ -310,9 +402,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 694811,
-   "osm": "way/24267244"
+   "version": "2026.10.21.3",
+   "bytes": 694865,
+   "osm": "way/24267244",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "deep-cliff-w25401721",
@@ -323,9 +419,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 393818,
-   "osm": "way/25401721"
+   "version": "2026.10.21.3",
+   "bytes": 393872,
+   "osm": "way/25401721",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "diablo-creek-w31300914",
@@ -336,9 +436,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 489362,
-   "osm": "way/31300914"
+   "version": "2026.10.21.3",
+   "bytes": 489416,
+   "osm": "way/31300914",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "diablo-hills-r3570721",
@@ -349,9 +453,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 192236,
-   "osm": "relation/3570721"
+   "version": "2026.10.21.3",
+   "bytes": 192271,
+   "osm": "relation/3570721",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 0
+   }
   },
   {
    "id": "diablo-w43951015",
@@ -362,9 +470,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 567600,
-   "osm": "way/43951015"
+   "version": "2026.10.21.3",
+   "bytes": 567654,
+   "osm": "way/43951015",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "dollar-ranch-r2765778",
@@ -375,9 +487,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 524704,
-   "osm": "relation/2765778"
+   "version": "2026.10.21.3",
+   "bytes": 524768,
+   "osm": "relation/2765778",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 1
+   }
   },
   {
    "id": "dublin-ranch-r3968155",
@@ -388,9 +504,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 375765,
-   "osm": "relation/3968155"
+   "version": "2026.10.21.3",
+   "bytes": 375819,
+   "osm": "relation/3968155",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "emerald-hills-w43762604",
@@ -401,9 +521,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 151741,
-   "osm": "way/43762604"
+   "version": "2026.10.21.3",
+   "bytes": 151768,
+   "osm": "way/43762604",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "franklin-canyon-w246119516",
@@ -414,9 +538,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 569576,
-   "osm": "way/246119516"
+   "version": "2026.10.21.3",
+   "bytes": 569630,
+   "osm": "way/246119516",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "gleneagles-w24569234",
@@ -427,9 +555,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 236530,
-   "osm": "way/24569234"
+   "version": "2026.10.21.3",
+   "bytes": 236557,
+   "osm": "way/24569234",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "golden-gate-park-w30903221",
@@ -440,9 +572,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 187042,
-   "osm": "way/30903221"
+   "version": "2026.10.21.3",
+   "bytes": 187069,
+   "osm": "way/30903221",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "green-hills-w23655556",
@@ -453,9 +589,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 551734,
-   "osm": "way/23655556"
+   "version": "2026.10.21.3",
+   "bytes": 551788,
+   "osm": "way/23655556",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "green-valley-w305426655",
@@ -466,9 +606,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 587685,
-   "osm": "way/305426655"
+   "version": "2026.10.21.3",
+   "bytes": 587739,
+   "osm": "way/305426655",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "half-moon-bay-golf-links-the-ocean-r19305773",
@@ -479,9 +623,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 504842,
-   "osm": "relation/19305773"
+   "version": "2026.10.21.3",
+   "bytes": 504939,
+   "osm": "relation/19305773",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "half-moon-bay-golf-links-the-old-r3567134",
@@ -492,9 +640,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 536298,
-   "osm": "relation/3567134"
+   "version": "2026.10.21.3",
+   "bytes": 536395,
+   "osm": "relation/3567134",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "indian-valley-w35926188",
@@ -505,9 +657,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 536383,
-   "osm": "way/35926188"
+   "version": "2026.10.21.3",
+   "bytes": 536437,
+   "osm": "way/35926188",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "la-rinconada-w457833881",
@@ -518,9 +674,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 553974,
-   "osm": "way/457833881"
+   "version": "2026.10.21.3",
+   "bytes": 554044,
+   "osm": "way/457833881",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 0
+   }
   },
   {
    "id": "lake-chabot-w685482899",
@@ -531,9 +691,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 521533,
-   "osm": "way/685482899"
+   "version": "2026.10.21.3",
+   "bytes": 521587,
+   "osm": "way/685482899",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "lake-merced-golf-and-w16754218",
@@ -544,9 +708,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 646591,
-   "osm": "way/16754218"
+   "version": "2026.10.21.3",
+   "bytes": 646645,
+   "osm": "way/16754218",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "las-positas-w43985334",
@@ -557,9 +725,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 540757,
-   "osm": "way/43985334"
+   "version": "2026.10.21.3",
+   "bytes": 540811,
+   "osm": "way/43985334",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "lincoln-park-r2142043",
@@ -570,9 +742,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 427677,
-   "osm": "relation/2142043"
+   "version": "2026.10.21.3",
+   "bytes": 427731,
+   "osm": "relation/2142043",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "lone-tree-w31552224",
@@ -583,9 +759,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 451162,
-   "osm": "way/31552224"
+   "version": "2026.10.21.3",
+   "bytes": 451213,
+   "osm": "way/31552224",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "los-altos-r3569753",
@@ -596,9 +776,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 548015,
-   "osm": "relation/3569753"
+   "version": "2026.10.21.3",
+   "bytes": 548069,
+   "osm": "relation/3569753",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "los-lagos-w26298053",
@@ -609,9 +793,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 573832,
-   "osm": "way/26298053"
+   "version": "2026.10.21.3",
+   "bytes": 573886,
+   "osm": "way/26298053",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "marin-r19675221",
@@ -622,9 +810,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 583559,
-   "osm": "relation/19675221"
+   "version": "2026.10.21.3",
+   "bytes": 583613,
+   "osm": "relation/19675221",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "marina-w43985634",
@@ -635,9 +827,13 @@
    "readiness": "Limited",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 292479,
-   "osm": "way/43985634"
+   "version": "2026.10.21.3",
+   "bytes": 292521,
+   "osm": "way/43985634",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 4
+   }
   },
   {
    "id": "mariners-point-golf-center-w23653153",
@@ -648,9 +844,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 203475,
-   "osm": "way/23653153"
+   "version": "2026.10.21.3",
+   "bytes": 203502,
+   "osm": "way/23653153",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "mcinnis-w265867895",
@@ -661,9 +861,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 154148,
-   "osm": "way/265867895"
+   "version": "2026.10.21.3",
+   "bytes": 154175,
+   "osm": "way/265867895",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "meadow-w44421428",
@@ -674,9 +878,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 750733,
-   "osm": "way/44421428"
+   "version": "2026.10.21.3",
+   "bytes": 750787,
+   "osm": "way/44421428",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "menlo-w30753641",
@@ -687,9 +895,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 794517,
-   "osm": "way/30753641"
+   "version": "2026.10.21.3",
+   "bytes": 794571,
+   "osm": "way/30753641",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "metropolitan-r13772027",
@@ -700,9 +912,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 590275,
-   "osm": "relation/13772027"
+   "version": "2026.10.21.3",
+   "bytes": 590329,
+   "osm": "relation/13772027",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "mill-valley-w305446748",
@@ -713,9 +929,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 260144,
-   "osm": "way/305446748"
+   "version": "2026.10.21.3",
+   "bytes": 260170,
+   "osm": "way/305446748",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "mission-hills-of-hayward-w28773520",
@@ -726,9 +946,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 153110,
-   "osm": "way/28773520"
+   "version": "2026.10.21.3",
+   "bytes": 153137,
+   "osm": "way/28773520",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "moraga-r12172608",
@@ -739,9 +963,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 632292,
-   "osm": "relation/12172608"
+   "version": "2026.10.21.3",
+   "bytes": 632346,
+   "osm": "relation/12172608",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "olympic-club-lake-w1417078425",
@@ -752,9 +980,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 475702,
-   "osm": "way/1417078425"
+   "version": "2026.10.21.3",
+   "bytes": 475753,
+   "osm": "way/1417078425",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 3
+   }
   },
   {
    "id": "olympic-club-r3573537",
@@ -765,9 +997,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 481441,
-   "osm": "relation/3573537"
+   "version": "2026.10.21.3",
+   "bytes": 481492,
+   "osm": "relation/3573537",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 3
+   }
   },
   {
    "id": "orinda-w43951175",
@@ -778,9 +1014,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 779568,
-   "osm": "way/43951175"
+   "version": "2026.10.21.3",
+   "bytes": 779622,
+   "osm": "way/43951175",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "palo-alto-hills-golf-course-and-w296139046",
@@ -791,9 +1031,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 741683,
-   "osm": "way/296139046"
+   "version": "2026.10.21.3",
+   "bytes": 741737,
+   "osm": "way/296139046",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 5
+   }
   },
   {
    "id": "paradise-valley-r3735020",
@@ -804,9 +1048,13 @@
    "readiness": "Limited",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 566854,
-   "osm": "relation/3735020"
+   "version": "2026.10.21.3",
+   "bytes": 566890,
+   "osm": "relation/3735020",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 6
+   }
   },
   {
    "id": "peacock-gap-w232461613",
@@ -817,9 +1065,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 424811,
-   "osm": "way/232461613"
+   "version": "2026.10.21.3",
+   "bytes": 424865,
+   "osm": "way/232461613",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "peninsula-golf-and-w43762741",
@@ -830,9 +1082,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 630265,
-   "osm": "way/43762741"
+   "version": "2026.10.21.3",
+   "bytes": 630319,
+   "osm": "way/43762741",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "pleasanton-golf-center-w43985584",
@@ -843,9 +1099,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 165863,
-   "osm": "way/43985584"
+   "version": "2026.10.21.3",
+   "bytes": 165890,
+   "osm": "way/43985584",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "poplar-creek-w23653270",
@@ -856,9 +1116,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 463938,
-   "osm": "way/23653270"
+   "version": "2026.10.21.3",
+   "bytes": 463992,
+   "osm": "way/23653270",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "poppy-ridge-w114224317",
@@ -869,9 +1133,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 499132,
-   "osm": "way/114224317"
+   "version": "2026.10.21.3",
+   "bytes": 499180,
+   "osm": "way/114224317",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 5
+   }
   },
   {
    "id": "presidio-w16650363",
@@ -882,9 +1150,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 550005,
-   "osm": "way/16650363"
+   "version": "2026.10.21.3",
+   "bytes": 550059,
+   "osm": "way/16650363",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "pruneridge-w28485119",
@@ -895,9 +1167,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 180134,
-   "osm": "way/28485119"
+   "version": "2026.10.21.3",
+   "bytes": 180161,
+   "osm": "way/28485119",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "rancho-del-pueblo-w38834429",
@@ -908,9 +1184,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 121645,
-   "osm": "way/38834429"
+   "version": "2026.10.21.3",
+   "bytes": 121672,
+   "osm": "way/38834429",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "rancho-solano-r4072723",
@@ -921,9 +1201,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 607443,
-   "osm": "relation/4072723"
+   "version": "2026.10.21.3",
+   "bytes": 607497,
+   "osm": "relation/4072723",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "redwood-canyon-w582890304",
@@ -934,9 +1218,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 887091,
-   "osm": "way/582890304"
+   "version": "2026.10.21.3",
+   "bytes": 887145,
+   "osm": "way/582890304",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "round-hill-r4073730",
@@ -947,9 +1235,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 589213,
-   "osm": "relation/4073730"
+   "version": "2026.10.21.3",
+   "bytes": 589278,
+   "osm": "relation/4073730",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 0
+   }
   },
   {
    "id": "ruby-hill-r317360",
@@ -960,9 +1252,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 680586,
-   "osm": "relation/317360"
+   "version": "2026.10.21.3",
+   "bytes": 680640,
+   "osm": "relation/317360",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "san-francisco-w16753994",
@@ -973,9 +1269,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 587436,
-   "osm": "way/16753994"
+   "version": "2026.10.21.3",
+   "bytes": 587490,
+   "osm": "way/16753994",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "san-jose-municipal-w157782278",
@@ -986,9 +1286,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 490619,
-   "osm": "way/157782278"
+   "version": "2026.10.21.3",
+   "bytes": 490673,
+   "osm": "way/157782278",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "san-ramon-r3566976",
@@ -999,9 +1303,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 519302,
-   "osm": "relation/3566976"
+   "version": "2026.10.21.3",
+   "bytes": 519356,
+   "osm": "relation/3566976",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "santa-teresa-golf-club-short-w1417461548",
@@ -1012,9 +1320,13 @@
    "readiness": "Limited",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 394898,
-   "osm": "way/1417461548"
+   "version": "2026.10.21.3",
+   "bytes": 394934,
+   "osm": "way/1417461548",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 6
+   }
   },
   {
    "id": "santa-teresa-w27451805",
@@ -1025,9 +1337,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 596153,
-   "osm": "way/27451805"
+   "version": "2026.10.21.3",
+   "bytes": 596204,
+   "osm": "way/27451805",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "saratoga-w28630115",
@@ -1038,9 +1354,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 293548,
-   "osm": "way/28630115"
+   "version": "2026.10.21.3",
+   "bytes": 293572,
+   "osm": "way/28630115",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "sequoyah-w1208653921",
@@ -1051,9 +1371,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 599245,
-   "osm": "way/1208653921"
+   "version": "2026.10.21.3",
+   "bytes": 599299,
+   "osm": "way/1208653921",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "sharon-heights-r2222742",
@@ -1064,9 +1388,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 731603,
-   "osm": "relation/2222742"
+   "version": "2026.10.21.3",
+   "bytes": 731657,
+   "osm": "relation/2222742",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "sharp-park-w309007558",
@@ -1077,9 +1405,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 487687,
-   "osm": "way/309007558"
+   "version": "2026.10.21.3",
+   "bytes": 487741,
+   "osm": "way/309007558",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "shoreline-r3569772",
@@ -1090,9 +1422,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 490876,
-   "osm": "relation/3569772"
+   "version": "2026.10.21.3",
+   "bytes": 490930,
+   "osm": "relation/3569772",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "silver-creek-valley-r7911325",
@@ -1103,9 +1439,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 587055,
-   "osm": "relation/7911325"
+   "version": "2026.10.21.3",
+   "bytes": 587109,
+   "osm": "relation/7911325",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "silverado-resort-w35828614",
@@ -1116,9 +1456,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 579392,
-   "osm": "way/35828614"
+   "version": "2026.10.21.3",
+   "bytes": 579446,
+   "osm": "way/35828614",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "stanford-university-r3570691",
@@ -1129,9 +1473,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 736568,
-   "osm": "relation/3570691"
+   "version": "2026.10.21.3",
+   "bytes": 736622,
+   "osm": "relation/3570691",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "stonetree-r3570852",
@@ -1142,9 +1490,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 525550,
-   "osm": "relation/3570852"
+   "version": "2026.10.21.3",
+   "bytes": 525604,
+   "osm": "relation/3570852",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "summit-ponte-w28462160",
@@ -1155,9 +1507,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 460510,
-   "osm": "way/28462160"
+   "version": "2026.10.21.3",
+   "bytes": 460558,
+   "osm": "way/28462160",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 2
+   }
   },
   {
    "id": "sunken-gardens-w38202931",
@@ -1168,9 +1524,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.2",
-   "bytes": 151896,
-   "osm": "way/38202931"
+   "version": "2026.10.21.3",
+   "bytes": 151923,
+   "osm": "way/38202931",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "sunnyvale-r11136099",
@@ -1181,9 +1541,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 536431,
-   "osm": "relation/11136099"
+   "version": "2026.10.21.3",
+   "bytes": 536482,
+   "osm": "relation/11136099",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "the-bridges-r1738254",
@@ -1194,9 +1558,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 562301,
-   "osm": "relation/1738254"
+   "version": "2026.10.21.3",
+   "bytes": 562355,
+   "osm": "relation/1738254",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "the-course-at-wente-vineyards-w255709753",
@@ -1207,9 +1575,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 597271,
-   "osm": "way/255709753"
+   "version": "2026.10.21.3",
+   "bytes": 597325,
+   "osm": "way/255709753",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "the-falls-r11374858",
@@ -1220,9 +1592,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 640894,
-   "osm": "relation/11374858"
+   "version": "2026.10.21.3",
+   "bytes": 640945,
+   "osm": "relation/11374858",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "the-golf-club-at-boulder-ridge-w37679515",
@@ -1233,9 +1609,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 599814,
-   "osm": "way/37679515"
+   "version": "2026.10.21.3",
+   "bytes": 599868,
+   "osm": "way/37679515",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "the-golf-club-at-brentwood-r3570710",
@@ -1246,9 +1626,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 505122,
-   "osm": "relation/3570710"
+   "version": "2026.10.21.3",
+   "bytes": 505176,
+   "osm": "relation/3570710",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "the-golf-club-at-moffett-field-w23630832",
@@ -1259,9 +1643,13 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 409666,
-   "osm": "way/23630832"
+   "version": "2026.10.21.3",
+   "bytes": 409717,
+   "osm": "way/23630832",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "the-lakeside-r13753140",
@@ -1272,9 +1660,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 620939,
-   "osm": "relation/13753140"
+   "version": "2026.10.21.3",
+   "bytes": 620993,
+   "osm": "relation/13753140",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "the-villages-golf-and-w28462888",
@@ -1285,9 +1677,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 557701,
-   "osm": "way/28462888"
+   "version": "2026.10.21.3",
+   "bytes": 557755,
+   "osm": "way/28462888",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "tilden-park-w45146686",
@@ -1298,9 +1694,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 794962,
-   "osm": "way/45146686"
+   "version": "2026.10.21.3",
+   "bytes": 795016,
+   "osm": "way/45146686",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "tony-lema-w23631167",
@@ -1311,9 +1711,13 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 529861,
-   "osm": "way/23631167"
+   "version": "2026.10.21.3",
+   "bytes": 529912,
+   "osm": "way/23631167",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   },
   {
    "id": "tpc-harding-park-w16753068",
@@ -1324,9 +1728,13 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 584030,
-   "osm": "way/16753068"
+   "version": "2026.10.21.3",
+   "bytes": 584084,
+   "osm": "way/16753068",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
   },
   {
    "id": "tpc-stonebrae-w174593429",
@@ -1337,9 +1745,13 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.2",
-   "bytes": 636796,
-   "osm": "way/174593429"
+   "version": "2026.10.21.3",
+   "bytes": 636850,
+   "osm": "way/174593429",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 1
+   }
   }
  ],
  "unavailable": [
