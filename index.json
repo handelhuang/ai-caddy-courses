@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-21T06:45:26Z",
+ "updated": "2026-10-21T16:52:32Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -11,8 +11,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 401234,
+   "version": "2026.10.21.2",
+   "bytes": 454548,
    "osm": "relation/13725984"
   },
   {
@@ -24,8 +24,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 522654,
+   "version": "2026.10.21.2",
+   "bytes": 595090,
    "osm": "relation/3569743"
   },
   {
@@ -37,8 +37,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 356107,
+   "version": "2026.10.21.2",
+   "bytes": 427034,
    "osm": "way/23631855"
   },
   {
@@ -50,8 +50,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 139224,
+   "version": "2026.10.21.2",
+   "bytes": 155642,
    "osm": "way/24275815"
   },
   {
@@ -63,8 +63,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 473023,
+   "version": "2026.10.21.2",
+   "bytes": 537975,
    "osm": "way/44043662"
   },
   {
@@ -76,8 +76,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 457834,
+   "version": "2026.10.21.2",
+   "bytes": 527214,
    "osm": "way/44043674"
   },
   {
@@ -89,8 +89,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 434732,
+   "version": "2026.10.21.2",
+   "bytes": 519986,
    "osm": "way/31270695"
   },
   {
@@ -102,8 +102,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 153048,
+   "version": "2026.10.21.2",
+   "bytes": 182557,
    "osm": "way/31345297"
   },
   {
@@ -115,8 +115,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 469159,
+   "version": "2026.10.21.2",
+   "bytes": 524664,
    "osm": "relation/3566990"
   },
   {
@@ -128,8 +128,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 657323,
+   "version": "2026.10.21.2",
+   "bytes": 722477,
    "osm": "way/24481574"
   },
   {
@@ -141,8 +141,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 475000,
+   "version": "2026.10.21.2",
+   "bytes": 561023,
    "osm": "relation/1745396"
   },
   {
@@ -154,8 +154,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 457774,
+   "version": "2026.10.21.2",
+   "bytes": 528589,
    "osm": "relation/11281487"
   },
   {
@@ -167,8 +167,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 680626,
+   "version": "2026.10.21.2",
+   "bytes": 735730,
    "osm": "relation/5150430"
   },
   {
@@ -180,8 +180,8 @@
    "readiness": "Limited",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 446065,
+   "version": "2026.10.21.2",
+   "bytes": 503091,
    "osm": "way/43985778"
   },
   {
@@ -193,8 +193,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 476992,
+   "version": "2026.10.21.2",
+   "bytes": 573313,
    "osm": "way/117047580"
   },
   {
@@ -206,8 +206,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 313160,
+   "version": "2026.10.21.2",
+   "bytes": 353886,
    "osm": "way/1162481658"
   },
   {
@@ -219,8 +219,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 407381,
+   "version": "2026.10.21.2",
+   "bytes": 462844,
    "osm": "relation/3092771"
   },
   {
@@ -232,8 +232,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 429828,
+   "version": "2026.10.21.2",
+   "bytes": 510383,
    "osm": "relation/7496466"
   },
   {
@@ -245,8 +245,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 545463,
+   "version": "2026.10.21.2",
+   "bytes": 615627,
    "osm": "way/40224423"
   },
   {
@@ -258,8 +258,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 482402,
+   "version": "2026.10.21.2",
+   "bytes": 556792,
    "osm": "way/1417621369"
   },
   {
@@ -271,8 +271,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 524909,
+   "version": "2026.10.21.2",
+   "bytes": 585220,
    "osm": "way/1417622153"
   },
   {
@@ -284,8 +284,8 @@
    "readiness": "Limited",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 270169,
+   "version": "2026.10.21.2",
+   "bytes": 309387,
    "osm": "way/1150608195"
   },
   {
@@ -297,8 +297,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 476332,
+   "version": "2026.10.21.2",
+   "bytes": 534216,
    "osm": "relation/3132092"
   },
   {
@@ -310,8 +310,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 630882,
+   "version": "2026.10.21.2",
+   "bytes": 694811,
    "osm": "way/24267244"
   },
   {
@@ -323,8 +323,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 345209,
+   "version": "2026.10.21.2",
+   "bytes": 393818,
    "osm": "way/25401721"
   },
   {
@@ -336,8 +336,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 425089,
+   "version": "2026.10.21.2",
+   "bytes": 489362,
    "osm": "way/31300914"
   },
   {
@@ -349,8 +349,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 158798,
+   "version": "2026.10.21.2",
+   "bytes": 192236,
    "osm": "relation/3570721"
   },
   {
@@ -362,8 +362,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 513398,
+   "version": "2026.10.21.2",
+   "bytes": 567600,
    "osm": "way/43951015"
   },
   {
@@ -375,8 +375,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 464133,
+   "version": "2026.10.21.2",
+   "bytes": 524704,
    "osm": "relation/2765778"
   },
   {
@@ -388,8 +388,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 290954,
+   "version": "2026.10.21.2",
+   "bytes": 375765,
    "osm": "relation/3968155"
   },
   {
@@ -401,8 +401,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 127958,
+   "version": "2026.10.21.2",
+   "bytes": 151741,
    "osm": "way/43762604"
   },
   {
@@ -414,8 +414,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 489416,
+   "version": "2026.10.21.2",
+   "bytes": 569576,
    "osm": "way/246119516"
   },
   {
@@ -427,8 +427,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 203557,
+   "version": "2026.10.21.2",
+   "bytes": 236530,
    "osm": "way/24569234"
   },
   {
@@ -440,8 +440,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 155298,
+   "version": "2026.10.21.2",
+   "bytes": 187042,
    "osm": "way/30903221"
   },
   {
@@ -453,8 +453,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 487950,
+   "version": "2026.10.21.2",
+   "bytes": 551734,
    "osm": "way/23655556"
   },
   {
@@ -466,8 +466,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 529361,
+   "version": "2026.10.21.2",
+   "bytes": 587685,
    "osm": "way/305426655"
   },
   {
@@ -505,8 +505,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 459116,
+   "version": "2026.10.21.2",
+   "bytes": 536383,
    "osm": "way/35926188"
   },
   {
@@ -518,8 +518,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 485700,
+   "version": "2026.10.21.2",
+   "bytes": 553974,
    "osm": "way/457833881"
   },
   {
@@ -531,8 +531,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 479432,
+   "version": "2026.10.21.2",
+   "bytes": 521533,
    "osm": "way/685482899"
   },
   {
@@ -544,8 +544,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 581754,
+   "version": "2026.10.21.2",
+   "bytes": 646591,
    "osm": "way/16754218"
   },
   {
@@ -557,8 +557,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 464411,
+   "version": "2026.10.21.2",
+   "bytes": 540757,
    "osm": "way/43985334"
   },
   {
@@ -570,8 +570,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 373452,
+   "version": "2026.10.21.2",
+   "bytes": 427677,
    "osm": "relation/2142043"
   },
   {
@@ -583,8 +583,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 398658,
+   "version": "2026.10.21.2",
+   "bytes": 451162,
    "osm": "way/31552224"
   },
   {
@@ -596,8 +596,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 482330,
+   "version": "2026.10.21.2",
+   "bytes": 548015,
    "osm": "relation/3569753"
   },
   {
@@ -609,8 +609,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 485182,
+   "version": "2026.10.21.2",
+   "bytes": 573832,
    "osm": "way/26298053"
   },
   {
@@ -622,8 +622,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 521592,
+   "version": "2026.10.21.2",
+   "bytes": 583559,
    "osm": "relation/19675221"
   },
   {
@@ -635,8 +635,8 @@
    "readiness": "Limited",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 249801,
+   "version": "2026.10.21.2",
+   "bytes": 292479,
    "osm": "way/43985634"
   },
   {
@@ -648,8 +648,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 170249,
+   "version": "2026.10.21.2",
+   "bytes": 203475,
    "osm": "way/23653153"
   },
   {
@@ -661,8 +661,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 129889,
+   "version": "2026.10.21.2",
+   "bytes": 154148,
    "osm": "way/265867895"
   },
   {
@@ -674,8 +674,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 658208,
+   "version": "2026.10.21.2",
+   "bytes": 750733,
    "osm": "way/44421428"
   },
   {
@@ -687,8 +687,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 718720,
+   "version": "2026.10.21.2",
+   "bytes": 794517,
    "osm": "way/30753641"
   },
   {
@@ -700,8 +700,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 519099,
+   "version": "2026.10.21.2",
+   "bytes": 590275,
    "osm": "relation/13772027"
   },
   {
@@ -713,8 +713,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 236796,
+   "version": "2026.10.21.2",
+   "bytes": 260144,
    "osm": "way/305446748"
   },
   {
@@ -726,8 +726,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 121018,
+   "version": "2026.10.21.2",
+   "bytes": 153110,
    "osm": "way/28773520"
   },
   {
@@ -739,8 +739,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 556212,
+   "version": "2026.10.21.2",
+   "bytes": 632292,
    "osm": "relation/12172608"
   },
   {
@@ -752,8 +752,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 402916,
+   "version": "2026.10.21.2",
+   "bytes": 475702,
    "osm": "way/1417078425"
   },
   {
@@ -765,8 +765,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 412366,
+   "version": "2026.10.21.2",
+   "bytes": 481441,
    "osm": "relation/3573537"
   },
   {
@@ -778,8 +778,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 716749,
+   "version": "2026.10.21.2",
+   "bytes": 779568,
    "osm": "way/43951175"
   },
   {
@@ -791,8 +791,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 668202,
+   "version": "2026.10.21.2",
+   "bytes": 741683,
    "osm": "way/296139046"
   },
   {
@@ -804,8 +804,8 @@
    "readiness": "Limited",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 480467,
+   "version": "2026.10.21.2",
+   "bytes": 566854,
    "osm": "relation/3735020"
   },
   {
@@ -817,8 +817,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 371466,
+   "version": "2026.10.21.2",
+   "bytes": 424811,
    "osm": "way/232461613"
   },
   {
@@ -830,8 +830,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 547076,
+   "version": "2026.10.21.2",
+   "bytes": 630265,
    "osm": "way/43762741"
   },
   {
@@ -843,8 +843,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 142457,
+   "version": "2026.10.21.2",
+   "bytes": 165863,
    "osm": "way/43985584"
   },
   {
@@ -856,8 +856,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 411478,
+   "version": "2026.10.21.2",
+   "bytes": 463938,
    "osm": "way/23653270"
   },
   {
@@ -869,8 +869,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 419769,
+   "version": "2026.10.21.2",
+   "bytes": 499132,
    "osm": "way/114224317"
   },
   {
@@ -882,8 +882,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 472859,
+   "version": "2026.10.21.2",
+   "bytes": 550005,
    "osm": "way/16650363"
   },
   {
@@ -895,8 +895,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 154022,
+   "version": "2026.10.21.2",
+   "bytes": 180134,
    "osm": "way/28485119"
   },
   {
@@ -908,8 +908,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 97182,
+   "version": "2026.10.21.2",
+   "bytes": 121645,
    "osm": "way/38834429"
   },
   {
@@ -921,8 +921,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 492534,
+   "version": "2026.10.21.2",
+   "bytes": 607443,
    "osm": "relation/4072723"
   },
   {
@@ -934,8 +934,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 820538,
+   "version": "2026.10.21.2",
+   "bytes": 887091,
    "osm": "way/582890304"
   },
   {
@@ -947,8 +947,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 530186,
+   "version": "2026.10.21.2",
+   "bytes": 589213,
    "osm": "relation/4073730"
   },
   {
@@ -960,8 +960,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 611106,
+   "version": "2026.10.21.2",
+   "bytes": 680586,
    "osm": "relation/317360"
   },
   {
@@ -973,8 +973,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 523233,
+   "version": "2026.10.21.2",
+   "bytes": 587436,
    "osm": "way/16753994"
   },
   {
@@ -986,8 +986,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 432221,
+   "version": "2026.10.21.2",
+   "bytes": 490619,
    "osm": "way/157782278"
   },
   {
@@ -999,8 +999,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 460928,
+   "version": "2026.10.21.2",
+   "bytes": 519302,
    "osm": "relation/3566976"
   },
   {
@@ -1012,8 +1012,8 @@
    "readiness": "Limited",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 342789,
+   "version": "2026.10.21.2",
+   "bytes": 394898,
    "osm": "way/1417461548"
   },
   {
@@ -1025,8 +1025,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 525477,
+   "version": "2026.10.21.2",
+   "bytes": 596153,
    "osm": "way/27451805"
   },
   {
@@ -1038,8 +1038,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 268722,
+   "version": "2026.10.21.2",
+   "bytes": 293548,
    "osm": "way/28630115"
   },
   {
@@ -1051,8 +1051,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 539101,
+   "version": "2026.10.21.2",
+   "bytes": 599245,
    "osm": "way/1208653921"
   },
   {
@@ -1064,8 +1064,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 670874,
+   "version": "2026.10.21.2",
+   "bytes": 731603,
    "osm": "relation/2222742"
   },
   {
@@ -1077,8 +1077,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 437647,
+   "version": "2026.10.21.2",
+   "bytes": 487687,
    "osm": "way/309007558"
   },
   {
@@ -1090,8 +1090,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 424808,
+   "version": "2026.10.21.2",
+   "bytes": 490876,
    "osm": "relation/3569772"
   },
   {
@@ -1103,8 +1103,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 514004,
+   "version": "2026.10.21.2",
+   "bytes": 587055,
    "osm": "relation/7911325"
   },
   {
@@ -1116,8 +1116,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 513679,
+   "version": "2026.10.21.2",
+   "bytes": 579392,
    "osm": "way/35828614"
   },
   {
@@ -1129,8 +1129,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 658356,
+   "version": "2026.10.21.2",
+   "bytes": 736568,
    "osm": "relation/3570691"
   },
   {
@@ -1142,8 +1142,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 468875,
+   "version": "2026.10.21.2",
+   "bytes": 525550,
    "osm": "relation/3570852"
   },
   {
@@ -1155,8 +1155,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 405901,
+   "version": "2026.10.21.2",
+   "bytes": 460510,
    "osm": "way/28462160"
   },
   {
@@ -1168,8 +1168,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 9,
-   "version": "2026.10.21.1",
-   "bytes": 133217,
+   "version": "2026.10.21.2",
+   "bytes": 151896,
    "osm": "way/38202931"
   },
   {
@@ -1181,8 +1181,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 481632,
+   "version": "2026.10.21.2",
+   "bytes": 536431,
    "osm": "relation/11136099"
   },
   {
@@ -1194,8 +1194,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 489740,
+   "version": "2026.10.21.2",
+   "bytes": 562301,
    "osm": "relation/1738254"
   },
   {
@@ -1207,8 +1207,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 518352,
+   "version": "2026.10.21.2",
+   "bytes": 597271,
    "osm": "way/255709753"
   },
   {
@@ -1220,8 +1220,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 590372,
+   "version": "2026.10.21.2",
+   "bytes": 640894,
    "osm": "relation/11374858"
   },
   {
@@ -1233,8 +1233,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 527673,
+   "version": "2026.10.21.2",
+   "bytes": 599814,
    "osm": "way/37679515"
   },
   {
@@ -1246,8 +1246,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 428708,
+   "version": "2026.10.21.2",
+   "bytes": 505122,
    "osm": "relation/3570710"
   },
   {
@@ -1259,8 +1259,8 @@
    "readiness": "Usable with gaps",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 366657,
+   "version": "2026.10.21.2",
+   "bytes": 409666,
    "osm": "way/23630832"
   },
   {
@@ -1272,8 +1272,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 557163,
+   "version": "2026.10.21.2",
+   "bytes": 620939,
    "osm": "relation/13753140"
   },
   {
@@ -1285,8 +1285,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 484716,
+   "version": "2026.10.21.2",
+   "bytes": 557701,
    "osm": "way/28462888"
   },
   {
@@ -1298,8 +1298,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 731110,
+   "version": "2026.10.21.2",
+   "bytes": 794962,
    "osm": "way/45146686"
   },
   {
@@ -1311,8 +1311,8 @@
    "readiness": "Usable with gaps",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 468912,
+   "version": "2026.10.21.2",
+   "bytes": 529861,
    "osm": "way/23631167"
   },
   {
@@ -1324,8 +1324,8 @@
    "readiness": "Ready",
    "par_source": "map",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 522218,
+   "version": "2026.10.21.2",
+   "bytes": 584030,
    "osm": "way/16753068"
   },
   {
@@ -1337,8 +1337,8 @@
    "readiness": "Ready",
    "par_source": "estimated",
    "holes": 18,
-   "version": "2026.10.21.1",
-   "bytes": 523616,
+   "version": "2026.10.21.2",
+   "bytes": 636796,
    "osm": "way/174593429"
   }
  ],
