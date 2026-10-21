@@ -3,7 +3,7 @@
  "course_id": "baylands-w23631855",
  "name": "Baylands Golf Links",
  "city": "Palo Alto, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:56:38",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    12
+    -0.4,
+    12.0
    ],
    "counts": {
     "fairway": 1,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    16
+    -1.6,
+    15.5
    ],
    "counts": {
     "fairway": 1,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    15
+    -1.5,
+    15.4
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    22
+    -0.4,
+    22.6
    ],
    "counts": {
     "fairway": 2,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    15
+    -0.5,
+    15.4
    ],
    "counts": {
     "fairway": 3,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    16
+    -2.8,
+    15.5
    ],
    "counts": {
     "fairway": 1,
@@ -263,8 +263,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    13
+    -1.4,
+    11.1
    ],
    "counts": {
     "fairway": 1,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    15
+    -0.9,
+    15.3
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    12
+    -1.4,
+    11.9
    ],
    "counts": {
     "fairway": 2,
@@ -367,8 +367,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    25
+    0.3,
+    25.1
    ],
    "counts": {
     "fairway": 2,
@@ -401,8 +401,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    24
+    0.3,
+    24.4
    ],
    "counts": {
     "fairway": 1,
@@ -435,8 +435,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    22
+    -0.8,
+    21.5
    ],
    "counts": {
     "fairway": 2,
@@ -469,8 +469,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    19
+    -0.8,
+    19.2
    ],
    "counts": {
     "fairway": 2,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    14
+    -1.6,
+    13.2
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    21
+    -1.0,
+    13.5
    ],
    "counts": {
     "fairway": 1,
@@ -575,8 +575,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    22
+    0.3,
+    22.5
    ],
    "counts": {
     "fairway": 1,
@@ -611,8 +611,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    18
+    0.9,
+    18.4
    ],
    "counts": {
     "fairway": 1,
@@ -645,8 +645,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    25
+    0.3,
+    18.4
    ],
    "counts": {
     "fairway": 1,
@@ -658,5 +658,7 @@
    },
    "osm_hole_way": "786150446"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

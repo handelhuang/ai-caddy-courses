@@ -3,7 +3,7 @@
  "course_id": "oakhurst-r3567030",
  "name": "Oakhurst Country Club",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:32:38",
  "verified": false,
  "sources": {
@@ -73,8 +73,8 @@
     }
    },
    "elevation_ft": [
-    429,
-    652
+    434.8,
+    652.1
    ],
    "counts": {
     "fairway": 0,
@@ -111,8 +111,8 @@
     }
    },
    "elevation_ft": [
-    532,
-    688
+    534.5,
+    670.3
    ],
    "counts": {
     "fairway": 0,
@@ -150,8 +150,8 @@
     }
    },
    "elevation_ft": [
-    532,
-    809
+    566.0,
+    705.9
    ],
    "counts": {
     "fairway": 0,
@@ -189,8 +189,8 @@
     }
    },
    "elevation_ft": [
-    588,
-    827
+    587.5,
+    708.7
    ],
    "counts": {
     "fairway": 0,
@@ -228,8 +228,8 @@
     }
    },
    "elevation_ft": [
-    571,
-    852
+    574.7,
+    745.3
    ],
    "counts": {
     "fairway": 0,
@@ -267,8 +267,8 @@
     }
    },
    "elevation_ft": [
-    514,
-    763
+    520.0,
+    720.6
    ],
    "counts": {
     "fairway": 0,
@@ -305,8 +305,8 @@
     }
    },
    "elevation_ft": [
-    472,
-    631
+    472.6,
+    579.8
    ],
    "counts": {
     "fairway": 0,
@@ -344,8 +344,8 @@
     }
    },
    "elevation_ft": [
-    414,
-    631
+    421.1,
+    527.8
    ],
    "counts": {
     "fairway": 0,
@@ -383,8 +383,8 @@
     }
    },
    "elevation_ft": [
-    394,
-    490
+    393.5,
+    489.5
    ],
    "counts": {
     "fairway": 0,
@@ -421,8 +421,8 @@
     }
    },
    "elevation_ft": [
-    340,
-    404
+    339.4,
+    400.3
    ],
    "counts": {
     "fairway": 0,
@@ -460,8 +460,8 @@
     }
    },
    "elevation_ft": [
-    338,
-    403
+    342.0,
+    398.9
    ],
    "counts": {
     "fairway": 0,
@@ -498,8 +498,8 @@
     }
    },
    "elevation_ft": [
-    358,
-    404
+    358.1,
+    398.5
    ],
    "counts": {
     "fairway": 0,
@@ -537,8 +537,8 @@
     }
    },
    "elevation_ft": [
-    361,
-    420
+    361.1,
+    411.9
    ],
    "counts": {
     "fairway": 0,
@@ -576,8 +576,8 @@
     }
    },
    "elevation_ft": [
-    381,
-    453
+    381.7,
+    453.4
    ],
    "counts": {
     "fairway": 0,
@@ -615,8 +615,8 @@
     }
    },
    "elevation_ft": [
-    447,
-    792
+    455.2,
+    646.3
    ],
    "counts": {
     "fairway": 0,
@@ -654,8 +654,8 @@
     }
    },
    "elevation_ft": [
-    463,
-    884
+    493.5,
+    686.6
    ],
    "counts": {
     "fairway": 0,
@@ -693,8 +693,8 @@
     }
    },
    "elevation_ft": [
-    437,
-    964
+    447.3,
+    660.0
    ],
    "counts": {
     "fairway": 0,
@@ -706,5 +706,7 @@
    },
    "osm_hole_way": "1568353925"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

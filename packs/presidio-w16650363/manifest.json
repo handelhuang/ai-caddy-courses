@@ -3,7 +3,7 @@
  "course_id": "presidio-w16650363",
  "name": "Presidio Golf Course",
  "city": "San Francisco, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:31:33",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    146,
-    321
+    155.7,
+    292.4
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    136,
-    334
+    136.1,
+    279.7
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    136,
-    285
+    135.8,
+    264.3
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    171,
-    300
+    179.6,
+    299.3
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    156,
-    323
+    166.3,
+    323.7
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    238,
-    383
+    273.4,
+    372.8
    ],
    "counts": {
     "fairway": 2,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    254.1,
+    350.9
    ],
    "counts": {
     "fairway": 1,
@@ -301,8 +301,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    216.9,
+    329.7
    ],
    "counts": {
     "fairway": 1,
@@ -335,8 +335,8 @@
     }
    },
    "elevation_ft": [
-    209,
-    394
+    234.2,
+    364.3
    ],
    "counts": {
     "fairway": 2,
@@ -369,8 +369,8 @@
     }
    },
    "elevation_ft": [
-    227,
-    394
+    263.5,
+    392.3
    ],
    "counts": {
     "fairway": 2,
@@ -403,8 +403,8 @@
     }
    },
    "elevation_ft": [
-    222,
-    394
+    280.6,
+    393.9
    ],
    "counts": {
     "fairway": 1,
@@ -437,8 +437,8 @@
     }
    },
    "elevation_ft": [
-    155,
-    320
+    192.9,
+    306.6
    ],
    "counts": {
     "fairway": 1,
@@ -471,8 +471,8 @@
     }
    },
    "elevation_ft": [
-    149,
-    258
+    156.0,
+    257.6
    ],
    "counts": {
     "fairway": 1,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    182,
-    335
+    195.0,
+    334.8
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    226,
-    336
+    235.1,
+    331.3
    ],
    "counts": {
     "fairway": 1,
@@ -573,8 +573,8 @@
     }
    },
    "elevation_ft": [
-    191,
-    320
+    224.4,
+    311.6
    ],
    "counts": {
     "fairway": 1,
@@ -607,8 +607,8 @@
     }
    },
    "elevation_ft": [
-    217,
-    392
+    284.6,
+    392.5
    ],
    "counts": {
     "fairway": 1,
@@ -641,8 +641,8 @@
     }
    },
    "elevation_ft": [
-    234,
-    394
+    292.7,
+    392.5
    ],
    "counts": {
     "fairway": 1,
@@ -654,5 +654,7 @@
    },
    "osm_hole_way": "714463270"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

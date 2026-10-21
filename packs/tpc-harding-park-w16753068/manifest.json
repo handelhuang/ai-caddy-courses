@@ -3,7 +3,7 @@
  "course_id": "tpc-harding-park-w16753068",
  "name": "TPC Harding Park",
  "city": "San Francisco, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:21:43",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    96
+    18.8,
+    95.9
    ],
    "counts": {
     "fairway": 1,
@@ -94,8 +94,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    19.3,
+    96.1
    ],
    "counts": {
     "fairway": 1,
@@ -130,8 +130,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    82.0,
+    97.1
    ],
    "counts": {
     "fairway": 1,
@@ -166,8 +166,8 @@
     }
    },
    "elevation_ft": [
-    81,
-    97
+    83.3,
+    95.4
    ],
    "counts": {
     "fairway": 1,
@@ -202,8 +202,8 @@
     }
    },
    "elevation_ft": [
-    74,
-    96
+    81.8,
+    95.3
    ],
    "counts": {
     "fairway": 1,
@@ -239,8 +239,8 @@
     }
    },
    "elevation_ft": [
-    63,
-    91
+    64.2,
+    91.3
    ],
    "counts": {
     "fairway": 1,
@@ -273,8 +273,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    96
+    69.1,
+    95.4
    ],
    "counts": {
     "fairway": 1,
@@ -309,8 +309,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    96
+    76.2,
+    95.9
    ],
    "counts": {
     "fairway": 1,
@@ -345,8 +345,8 @@
     }
    },
    "elevation_ft": [
-    27,
-    88
+    69.7,
+    87.9
    ],
    "counts": {
     "fairway": 1,
@@ -379,8 +379,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    98
+    18.2,
+    96.0
    ],
    "counts": {
     "fairway": 1,
@@ -413,8 +413,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    96
+    18.2,
+    96.0
    ],
    "counts": {
     "fairway": 1,
@@ -449,8 +449,8 @@
     }
    },
    "elevation_ft": [
-    39,
-    106
+    54.1,
+    105.8
    ],
    "counts": {
     "fairway": 1,
@@ -485,8 +485,8 @@
     }
    },
    "elevation_ft": [
-    19,
-    110
+    28.6,
+    110.1
    ],
    "counts": {
     "fairway": 1,
@@ -519,8 +519,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    103
+    18.2,
+    103.4
    ],
    "counts": {
     "fairway": 1,
@@ -553,8 +553,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    95
+    18.2,
+    95.0
    ],
    "counts": {
     "fairway": 1,
@@ -587,8 +587,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    58
+    18.2,
+    58.2
    ],
    "counts": {
     "fairway": 1,
@@ -621,8 +621,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    48
+    18.2,
+    48.0
    ],
    "counts": {
     "fairway": 1,
@@ -655,8 +655,8 @@
     }
    },
    "elevation_ft": [
-    18,
-    74
+    18.2,
+    66.3
    ],
    "counts": {
     "fairway": 1,
@@ -668,5 +668,7 @@
    },
    "osm_hole_way": "685545912"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

@@ -3,7 +3,7 @@
  "course_id": "peninsula-golf-and-w43762741",
  "name": "Peninsula Golf and Country Club",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:51:25",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    295
+    100.3,
+    221.9
    ],
    "counts": {
     "fairway": 2,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    92,
-    327
+    117.1,
+    276.1
    ],
    "counts": {
     "fairway": 1,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    92,
-    343
+    132.1,
+    297.4
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    154,
-    298
+    186.2,
+    297.4
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    123,
-    280
+    121.3,
+    285.2
    ],
    "counts": {
     "fairway": 1,
@@ -232,8 +232,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    85.0,
+    165.2
    ],
    "counts": {
     "fairway": 2,
@@ -266,8 +266,8 @@
     }
    },
    "elevation_ft": [
-    107,
-    169
+    111.7,
+    168.2
    ],
    "counts": {
     "fairway": 2,
@@ -302,8 +302,8 @@
     }
    },
    "elevation_ft": [
-    131,
-    282
+    147.6,
+    242.6
    ],
    "counts": {
     "fairway": 2,
@@ -338,8 +338,8 @@
     }
    },
    "elevation_ft": [
-    126,
-    289
+    135.8,
+    289.5
    ],
    "counts": {
     "fairway": 1,
@@ -374,8 +374,8 @@
     }
    },
    "elevation_ft": [
-    64,
-    176
+    93.3,
+    159.2
    ],
    "counts": {
     "fairway": 2,
@@ -410,8 +410,8 @@
     }
    },
    "elevation_ft": [
-    70,
-    250
+    82.1,
+    234.7
    ],
    "counts": {
     "fairway": 1,
@@ -444,8 +444,8 @@
     }
    },
    "elevation_ft": [
-    156,
-    275
+    162.3,
+    268.2
    ],
    "counts": {
     "fairway": 2,
@@ -480,8 +480,8 @@
     }
    },
    "elevation_ft": [
-    99,
-    325
+    131.0,
+    270.9
    ],
    "counts": {
     "fairway": 1,
@@ -517,8 +517,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    126.5,
+    240.8
    ],
    "counts": {
     "fairway": 1,
@@ -553,8 +553,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    158.4,
+    280.0
    ],
    "counts": {
     "fairway": 1,
@@ -589,8 +589,8 @@
     }
    },
    "elevation_ft": [
-    112,
-    346
+    112.3,
+    276.6
    ],
    "counts": {
     "fairway": 1,
@@ -625,8 +625,8 @@
     }
    },
    "elevation_ft": [
-    80,
-    170
+    106.0,
+    162.2
    ],
    "counts": {
     "fairway": 1,
@@ -661,8 +661,8 @@
     }
    },
    "elevation_ft": [
-    59,
-    168
+    77.1,
+    160.6
    ],
    "counts": {
     "fairway": 1,
@@ -674,5 +674,7 @@
    },
    "osm_hole_way": "1193262698"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

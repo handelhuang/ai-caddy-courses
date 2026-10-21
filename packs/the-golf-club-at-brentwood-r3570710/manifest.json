@@ -3,7 +3,7 @@
  "course_id": "the-golf-club-at-brentwood-r3570710",
  "name": "The Golf Club at Brentwood",
  "city": "Brentwood, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:37:21",
  "verified": false,
  "sources": {
@@ -63,8 +63,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    100.4,
+    120.1
    ],
    "counts": {
     "fairway": 0,
@@ -101,8 +101,8 @@
     }
    },
    "elevation_ft": [
-    95,
-    123
+    100.0,
+    123.5
    ],
    "counts": {
     "fairway": 0,
@@ -140,8 +140,8 @@
     }
    },
    "elevation_ft": [
-    94,
-    123
+    96.4,
+    123.3
    ],
    "counts": {
     "fairway": 0,
@@ -179,8 +179,8 @@
     }
    },
    "elevation_ft": [
-    101,
-    125
+    100.8,
+    120.7
    ],
    "counts": {
     "fairway": 0,
@@ -218,8 +218,8 @@
     }
    },
    "elevation_ft": [
-    93,
-    116
+    97.9,
+    116.6
    ],
    "counts": {
     "fairway": 0,
@@ -256,8 +256,8 @@
     }
    },
    "elevation_ft": [
-    98,
-    116
+    97.9,
+    112.9
    ],
    "counts": {
     "fairway": 0,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    106,
-    141
+    106.5,
+    138.2
    ],
    "counts": {
     "fairway": 0,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    113,
-    142
+    113.2,
+    146.2
    ],
    "counts": {
     "fairway": 0,
@@ -372,8 +372,8 @@
     }
    },
    "elevation_ft": [
-    118,
-    153
+    117.6,
+    152.6
    ],
    "counts": {
     "fairway": 0,
@@ -411,8 +411,8 @@
     }
    },
    "elevation_ft": [
-    128,
-    184
+    127.8,
+    185.3
    ],
    "counts": {
     "fairway": 0,
@@ -449,8 +449,8 @@
     }
    },
    "elevation_ft": [
-    137,
-    186
+    138.7,
+    186.5
    ],
    "counts": {
     "fairway": 0,
@@ -488,8 +488,8 @@
     }
    },
    "elevation_ft": [
-    136,
-    190
+    136.5,
+    188.5
    ],
    "counts": {
     "fairway": 0,
@@ -527,8 +527,8 @@
     }
    },
    "elevation_ft": [
-    127,
-    197
+    149.6,
+    198.2
    ],
    "counts": {
     "fairway": 0,
@@ -566,8 +566,8 @@
     }
    },
    "elevation_ft": [
-    127,
-    188
+    138.0,
+    185.1
    ],
    "counts": {
     "fairway": 0,
@@ -605,8 +605,8 @@
     }
    },
    "elevation_ft": [
-    118,
-    185
+    124.6,
+    181.7
    ],
    "counts": {
     "fairway": 0,
@@ -644,8 +644,8 @@
     }
    },
    "elevation_ft": [
-    104,
-    154
+    103.8,
+    141.8
    ],
    "counts": {
     "fairway": 0,
@@ -682,8 +682,8 @@
     }
    },
    "elevation_ft": [
-    102,
-    120
+    102.2,
+    118.8
    ],
    "counts": {
     "fairway": 0,
@@ -721,8 +721,8 @@
     }
    },
    "elevation_ft": [
-    101,
-    120
+    101.1,
+    120.2
    ],
    "counts": {
     "fairway": 0,
@@ -734,5 +734,7 @@
    },
    "osm_hole_way": "1564542344"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

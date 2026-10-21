@@ -3,7 +3,7 @@
  "course_id": "claremont-r3092771",
  "name": "Claremont Country Club",
  "city": "Danville, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:18:23",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    181,
-    270
+    191.2,
+    266.4
    ],
    "counts": {
     "fairway": 1,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    193,
-    267
+    206.8,
+    266.7
    ],
    "counts": {
     "fairway": 2,
@@ -131,8 +131,8 @@
     }
    },
    "elevation_ft": [
-    181,
-    262
+    184.0,
+    262.3
    ],
    "counts": {
     "fairway": 3,
@@ -167,8 +167,8 @@
     }
    },
    "elevation_ft": [
-    172,
-    288
+    172.4,
+    269.9
    ],
    "counts": {
     "fairway": 2,
@@ -203,8 +203,8 @@
     }
    },
    "elevation_ft": [
-    172,
-    310
+    172.2,
+    295.6
    ],
    "counts": {
     "fairway": 2,
@@ -239,8 +239,8 @@
     }
    },
    "elevation_ft": [
-    174,
-    296
+    173.6,
+    286.9
    ],
    "counts": {
     "fairway": 3,
@@ -275,8 +275,8 @@
     }
    },
    "elevation_ft": [
-    198,
-    330
+    202.2,
+    326.5
    ],
    "counts": {
     "fairway": 2,
@@ -311,8 +311,8 @@
     }
    },
    "elevation_ft": [
-    200,
-    270
+    202.7,
+    269.7
    ],
    "counts": {
     "fairway": 5,
@@ -345,8 +345,8 @@
     }
    },
    "elevation_ft": [
-    145,
-    266
+    180.9,
+    263.6
    ],
    "counts": {
     "fairway": 1,
@@ -381,8 +381,8 @@
     }
    },
    "elevation_ft": [
-    144,
-    258
+    144.3,
+    247.0
    ],
    "counts": {
     "fairway": 3,
@@ -427,8 +427,8 @@
     }
    },
    "elevation_ft": [
-    144,
-    270
+    144.3,
+    267.0
    ],
    "counts": {
     "fairway": 3,
@@ -463,8 +463,8 @@
     }
    },
    "elevation_ft": [
-    192,
-    352
+    205.1,
+    353.7
    ],
    "counts": {
     "fairway": 2,
@@ -500,8 +500,8 @@
     }
    },
    "elevation_ft": [
-    196,
-    290
+    199.2,
+    299.0
    ],
    "counts": {
     "fairway": 4,
@@ -536,8 +536,8 @@
     }
    },
    "elevation_ft": [
-    221,
-    353
+    223.4,
+    327.7
    ],
    "counts": {
     "fairway": 2,
@@ -572,8 +572,8 @@
     }
    },
    "elevation_ft": [
-    214,
-    337
+    215.7,
+    301.5
    ],
    "counts": {
     "fairway": 2,
@@ -606,8 +606,8 @@
     }
    },
    "elevation_ft": [
-    211,
-    295
+    214.3,
+    276.7
    ],
    "counts": {
     "fairway": 1,
@@ -642,8 +642,8 @@
     }
    },
    "elevation_ft": [
-    144,
-    301
+    190.4,
+    269.9
    ],
    "counts": {
     "fairway": 4,
@@ -655,5 +655,7 @@
    },
    "osm_hole_way": "686206811"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

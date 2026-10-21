@@ -3,7 +3,7 @@
  "course_id": "redwood-canyon-w582890304",
  "name": "Redwood Canyon Golf Course",
  "city": "Castro Valley, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:12:39",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    233,
-    386
+    234.9,
+    390.6
    ],
    "counts": {
     "fairway": 2,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    237,
-    396
+    237.2,
+    394.2
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    238,
-    414
+    238.2,
+    390.3
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    238,
-    451
+    240.9,
+    459.1
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    245,
-    462
+    244.6,
+    362.3
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    241,
-    450
+    240.9,
+    393.1
    ],
    "counts": {
     "fairway": 1,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    237,
-    358
+    237.7,
+    358.7
    ],
    "counts": {
     "fairway": 1,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    237,
-    295
+    237.1,
+    291.6
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    234,
-    382
+    233.3,
+    376.3
    ],
    "counts": {
     "fairway": 2,
@@ -367,8 +367,8 @@
     }
    },
    "elevation_ft": [
-    231,
-    480
+    230.8,
+    396.8
    ],
    "counts": {
     "fairway": 1,
@@ -401,8 +401,8 @@
     }
    },
    "elevation_ft": [
-    230,
-    424
+    230.8,
+    388.9
    ],
    "counts": {
     "fairway": 1,
@@ -435,8 +435,8 @@
     }
    },
    "elevation_ft": [
-    224,
-    464
+    223.6,
+    374.8
    ],
    "counts": {
     "fairway": 1,
@@ -469,8 +469,8 @@
     }
    },
    "elevation_ft": [
-    224,
-    348
+    224.3,
+    288.9
    ],
    "counts": {
     "fairway": 0,
@@ -503,8 +503,8 @@
     }
    },
    "elevation_ft": [
-    226,
-    448
+    227.0,
+    313.5
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    228,
-    494
+    228.1,
+    344.4
    ],
    "counts": {
     "fairway": 2,
@@ -575,8 +575,8 @@
     }
    },
    "elevation_ft": [
-    230,
-    340
+    230.4,
+    316.6
    ],
    "counts": {
     "fairway": 1,
@@ -609,8 +609,8 @@
     }
    },
    "elevation_ft": [
-    230,
-    363
+    229.8,
+    362.0
    ],
    "counts": {
     "fairway": 1,
@@ -643,8 +643,8 @@
     }
    },
    "elevation_ft": [
-    230,
-    494
+    230.4,
+    375.0
    ],
    "counts": {
     "fairway": 1,
@@ -656,5 +656,7 @@
    },
    "osm_hole_way": "1155702169"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

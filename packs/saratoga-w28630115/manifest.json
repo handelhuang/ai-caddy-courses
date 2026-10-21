@@ -3,7 +3,7 @@
  "course_id": "saratoga-w28630115",
  "name": "Saratoga Country Club",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:26:07",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    502,
-    817
+    515.6,
+    721.0
    ],
    "counts": {
     "fairway": 1,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    520,
-    739
+    518.0,
+    698.9
    ],
    "counts": {
     "fairway": 1,
@@ -131,8 +131,8 @@
     }
    },
    "elevation_ft": [
-    566,
-    842
+    584.1,
+    790.2
    ],
    "counts": {
     "fairway": 1,
@@ -167,8 +167,8 @@
     }
    },
    "elevation_ft": [
-    562,
-    842
+    565.7,
+    724.9
    ],
    "counts": {
     "fairway": 1,
@@ -204,8 +204,8 @@
     }
    },
    "elevation_ft": [
-    545,
-    747
+    545.4,
+    707.5
    ],
    "counts": {
     "fairway": 3,
@@ -240,8 +240,8 @@
     }
    },
    "elevation_ft": [
-    515,
-    742
+    514.9,
+    657.8
    ],
    "counts": {
     "fairway": 1,
@@ -276,8 +276,8 @@
     }
    },
    "elevation_ft": [
-    490,
-    748
+    500.9,
+    682.9
    ],
    "counts": {
     "fairway": 3,
@@ -312,8 +312,8 @@
     }
    },
    "elevation_ft": [
-    554,
-    885
+    566.2,
+    800.5
    ],
    "counts": {
     "fairway": 2,
@@ -348,8 +348,8 @@
     }
    },
    "elevation_ft": [
-    606,
-    804
+    606.6,
+    795.9
    ],
    "counts": {
     "fairway": 1,
@@ -361,5 +361,7 @@
    },
    "osm_hole_way": "1447879849"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

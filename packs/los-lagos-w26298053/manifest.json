@@ -3,7 +3,7 @@
  "course_id": "los-lagos-w26298053",
  "name": "Los Lagos Golf Course",
  "city": "San Jose, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:46:47",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    117,
-    163
+    121.2,
+    163.0
    ],
    "counts": {
     "fairway": 2,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    121,
-    161
+    132.8,
+    161.3
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    113,
-    152
+    112.8,
+    149.1
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    113,
-    160
+    116.9,
+    159.6
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    117,
-    161
+    118.4,
+    159.7
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    114,
-    161
+    122.9,
+    161.0
    ],
    "counts": {
     "fairway": 1,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    113,
-    152
+    122.0,
+    152.5
    ],
    "counts": {
     "fairway": 3,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    113,
-    161
+    120.9,
+    163.1
    ],
    "counts": {
     "fairway": 2,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    117,
-    163
+    116.8,
+    159.6
    ],
    "counts": {
     "fairway": 1,
@@ -367,8 +367,8 @@
     }
    },
    "elevation_ft": [
-    121,
-    163
+    127.8,
+    162.9
    ],
    "counts": {
     "fairway": 1,
@@ -401,8 +401,8 @@
     }
    },
    "elevation_ft": [
-    116,
-    163
+    132.8,
+    161.6
    ],
    "counts": {
     "fairway": 1,
@@ -437,8 +437,8 @@
     }
    },
    "elevation_ft": [
-    111,
-    155
+    120.6,
+    155.3
    ],
    "counts": {
     "fairway": 2,
@@ -471,8 +471,8 @@
     }
    },
    "elevation_ft": [
-    108,
-    150
+    108.7,
+    150.0
    ],
    "counts": {
     "fairway": 1,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    108,
-    150
+    108.7,
+    150.0
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    107,
-    154
+    107.0,
+    154.2
    ],
    "counts": {
     "fairway": 1,
@@ -573,8 +573,8 @@
     }
    },
    "elevation_ft": [
-    107,
-    154
+    107.9,
+    154.2
    ],
    "counts": {
     "fairway": 1,
@@ -607,8 +607,8 @@
     }
    },
    "elevation_ft": [
-    117,
-    163
+    133.1,
+    163.1
    ],
    "counts": {
     "fairway": 1,
@@ -641,8 +641,8 @@
     }
    },
    "elevation_ft": [
-    122,
-    163
+    128.0,
+    161.4
    ],
    "counts": {
     "fairway": 1,
@@ -654,5 +654,7 @@
    },
    "osm_hole_way": "920989731"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

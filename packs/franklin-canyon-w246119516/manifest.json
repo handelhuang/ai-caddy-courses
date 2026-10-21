@@ -3,7 +3,7 @@
  "course_id": "franklin-canyon-w246119516",
  "name": "Franklin Canyon Golf Course",
  "city": "San Rafael, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:37:14",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    199,
-    393
+    200.6,
+    385.1
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    252,
-    436
+    262.7,
+    391.1
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    238,
-    443
+    237.6,
+    441.9
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    211.5,
+    333.9
    ],
    "counts": {
     "fairway": 1,
@@ -197,8 +197,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    193.0,
+    357.8
    ],
    "counts": {
     "fairway": 1,
@@ -231,8 +231,8 @@
     }
    },
    "elevation_ft": [
-    195,
-    464
+    199.0,
+    404.9
    ],
    "counts": {
     "fairway": 1,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    192,
-    286
+    194.3,
+    269.2
    ],
    "counts": {
     "fairway": 1,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    186,
-    252
+    186.4,
+    248.5
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    178,
-    454
+    179.1,
+    241.5
    ],
    "counts": {
     "fairway": 1,
@@ -369,8 +369,8 @@
     }
    },
    "elevation_ft": [
-    156,
-    436
+    169.9,
+    283.5
    ],
    "counts": {
     "fairway": 1,
@@ -403,8 +403,8 @@
     }
    },
    "elevation_ft": [
-    135,
-    388
+    135.2,
+    329.3
    ],
    "counts": {
     "fairway": 1,
@@ -437,8 +437,8 @@
     }
    },
    "elevation_ft": [
-    122,
-    375
+    123.5,
+    247.6
    ],
    "counts": {
     "fairway": 1,
@@ -471,8 +471,8 @@
     }
    },
    "elevation_ft": [
-    130,
-    377
+    149.3,
+    378.7
    ],
    "counts": {
     "fairway": 1,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    168,
-    563
+    180.0,
+    511.0
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    112,
-    362
+    111.8,
+    358.9
    ],
    "counts": {
     "fairway": 1,
@@ -573,8 +573,8 @@
     }
    },
    "elevation_ft": [
-    122,
-    262
+    122.5,
+    191.1
    ],
    "counts": {
     "fairway": 1,
@@ -609,8 +609,8 @@
     }
    },
    "elevation_ft": [
-    134,
-    355
+    134.3,
+    224.5
    ],
    "counts": {
     "fairway": 0,
@@ -643,8 +643,8 @@
     }
    },
    "elevation_ft": [
-    143,
-    436
+    143.3,
+    214.8
    ],
    "counts": {
     "fairway": 1,
@@ -656,5 +656,7 @@
    },
    "osm_hole_way": "1191895780"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

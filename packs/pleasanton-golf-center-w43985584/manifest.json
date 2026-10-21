@@ -3,7 +3,7 @@
  "course_id": "pleasanton-golf-center-w43985584",
  "name": "Pleasanton Golf Center",
  "city": "Pleasanton, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:27:03",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    324,
-    348
+    331.1,
+    347.3
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    338,
-    347
+    338.2,
+    347.1
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    338,
-    347
+    338.6,
+    346.8
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    308,
-    348
+    335.7,
+    346.0
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    335,
-    343
+    334.7,
+    342.9
    ],
    "counts": {
     "fairway": 1,
@@ -231,8 +231,8 @@
     }
    },
    "elevation_ft": [
-    336,
-    343
+    336.1,
+    343.0
    ],
    "counts": {
     "fairway": 1,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    336,
-    346
+    336.5,
+    345.9
    ],
    "counts": {
     "fairway": 1,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    337,
-    344
+    336.8,
+    343.0
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    336,
-    345
+    336.3,
+    345.0
    ],
    "counts": {
     "fairway": 1,
@@ -346,5 +346,7 @@
    },
    "osm_hole_way": "358966476"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

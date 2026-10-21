@@ -3,7 +3,7 @@
  "course_id": "paradise-valley-r3735020",
  "name": "Paradise Valley Golf Course",
  "city": "Fairfield, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:45:26",
  "verified": false,
  "sources": {
@@ -60,8 +60,8 @@
     }
    },
    "elevation_ft": [
-    116,
-    149
+    115.7,
+    148.8
    ],
    "counts": {
     "fairway": 1,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    133,
-    192
+    135.3,
+    192.2
    ],
    "counts": {
     "fairway": 2,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    147,
-    194
+    148.7,
+    193.3
    ],
    "counts": {
     "fairway": 1,
@@ -169,8 +169,8 @@
     }
    },
    "elevation_ft": [
-    134,
-    204
+    135.5,
+    176.3
    ],
    "counts": {
     "fairway": 1,
@@ -205,8 +205,8 @@
     }
    },
    "elevation_ft": [
-    133,
-    325
+    134.9,
+    159.9
    ],
    "counts": {
     "fairway": 1,
@@ -242,8 +242,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    134.5,
+    165.6
    ],
    "counts": {
     "fairway": 1,
@@ -279,8 +279,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    123.7,
+    147.1
    ],
    "counts": {
     "fairway": 1,
@@ -316,8 +316,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    119.3,
+    135.6
    ],
    "counts": {
     "fairway": 1,
@@ -354,8 +354,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    107.9,
+    133.7
    ],
    "counts": {
     "fairway": 1,
@@ -390,8 +390,8 @@
     }
    },
    "elevation_ft": [
-    116,
-    198
+    119.3,
+    165.8
    ],
    "counts": {
     "fairway": 1,
@@ -427,8 +427,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    137.7,
+    164.9
    ],
    "counts": {
     "fairway": 0,
@@ -463,8 +463,8 @@
     }
    },
    "elevation_ft": [
-    153,
-    182
+    152.8,
+    181.0
    ],
    "counts": {
     "fairway": 0,
@@ -503,8 +503,8 @@
     }
    },
    "elevation_ft": [
-    158,
-    197
+    157.7,
+    197.2
    ],
    "counts": {
     "fairway": 0,
@@ -543,8 +543,8 @@
     }
    },
    "elevation_ft": [
-    172,
-    216
+    174.9,
+    216.1
    ],
    "counts": {
     "fairway": 0,
@@ -582,8 +582,8 @@
     }
    },
    "elevation_ft": [
-    177,
-    212
+    179.0,
+    206.7
    ],
    "counts": {
     "fairway": 0,
@@ -622,8 +622,8 @@
     }
    },
    "elevation_ft": [
-    155,
-    201
+    155.8,
+    200.8
    ],
    "counts": {
     "fairway": 0,
@@ -662,8 +662,8 @@
     }
    },
    "elevation_ft": [
-    133,
-    172
+    137.1,
+    167.9
    ],
    "counts": {
     "fairway": 0,
@@ -702,8 +702,8 @@
     }
    },
    "elevation_ft": [
-    115,
-    160
+    119.2,
+    159.5
    ],
    "counts": {
     "fairway": 0,
@@ -715,5 +715,7 @@
    },
    "osm_hole_way": "1458125102"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

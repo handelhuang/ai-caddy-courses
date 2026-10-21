@@ -3,7 +3,7 @@
  "course_id": "blackberry-farm-w24275815",
  "name": "Blackberry Farm Golf Course",
  "city": "Cupertino, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:27:33",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    286,
-    344
+    285.6,
+    344.4
    ],
    "counts": {
     "fairway": 0,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    292,
-    354
+    294.9,
+    354.1
    ],
    "counts": {
     "fairway": 0,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    301,
-    361
+    301.8,
+    358.5
    ],
    "counts": {
     "fairway": 0,
@@ -168,8 +168,8 @@
     }
    },
    "elevation_ft": [
-    291,
-    353
+    291.3,
+    351.7
    ],
    "counts": {
     "fairway": 0,
@@ -204,8 +204,8 @@
     }
    },
    "elevation_ft": [
-    292,
-    326
+    293.6,
+    317.4
    ],
    "counts": {
     "fairway": 0,
@@ -238,8 +238,8 @@
     }
    },
    "elevation_ft": [
-    296,
-    357
+    300.6,
+    353.2
    ],
    "counts": {
     "fairway": 0,
@@ -274,8 +274,8 @@
     }
    },
    "elevation_ft": [
-    291,
-    337
+    293.5,
+    339.4
    ],
    "counts": {
     "fairway": 0,
@@ -310,8 +310,8 @@
     }
    },
    "elevation_ft": [
-    287,
-    341
+    286.8,
+    328.9
    ],
    "counts": {
     "fairway": 0,
@@ -344,8 +344,8 @@
     }
    },
    "elevation_ft": [
-    286,
-    342
+    285.6,
+    341.5
    ],
    "counts": {
     "fairway": 0,
@@ -357,5 +357,7 @@
    },
    "osm_hole_way": "924472589"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

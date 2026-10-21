@@ -3,7 +3,7 @@
  "course_id": "the-falls-r11374858",
  "name": "The Falls",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:27:26",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    769,
-    1047
+    795.9,
+    1047.0
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    737,
-    922
+    737.2,
+    884.8
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    713,
-    788
+    723.7,
+    768.8
    ],
    "counts": {
     "fairway": 2,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    732,
-    794
+    735.4,
+    781.2
    ],
    "counts": {
     "fairway": 1,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    743,
-    874
+    745.0,
+    860.6
    ],
    "counts": {
     "fairway": 1,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    795,
-    954
+    816.4,
+    950.3
    ],
    "counts": {
     "fairway": 1,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    825,
-    975
+    824.8,
+    936.1
    ],
    "counts": {
     "fairway": 1,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    840,
-    1013
+    839.6,
+    995.2
    ],
    "counts": {
     "fairway": 1,
@@ -331,8 +331,8 @@
     }
    },
    "elevation_ft": [
-    929,
-    1083
+    929.0,
+    1049.0
    ],
    "counts": {
     "fairway": 1,
@@ -365,8 +365,8 @@
     }
    },
    "elevation_ft": [
-    820,
-    1048
+    833.2,
+    1047.5
    ],
    "counts": {
     "fairway": 1,
@@ -399,8 +399,8 @@
     }
    },
    "elevation_ft": [
-    790,
-    850
+    797.8,
+    852.4
    ],
    "counts": {
     "fairway": 0,
@@ -433,8 +433,8 @@
     }
    },
    "elevation_ft": [
-    778,
-    962
+    790.2,
+    971.5
    ],
    "counts": {
     "fairway": 1,
@@ -467,8 +467,8 @@
     }
    },
    "elevation_ft": [
-    816,
-    919
+    818.8,
+    919.2
    ],
    "counts": {
     "fairway": 1,
@@ -501,8 +501,8 @@
     }
    },
    "elevation_ft": [
-    821,
-    1073
+    828.1,
+    1019.5
    ],
    "counts": {
     "fairway": 2,
@@ -535,8 +535,8 @@
     }
    },
    "elevation_ft": [
-    853,
-    1046
+    853.4,
+    1039.7
    ],
    "counts": {
     "fairway": 1,
@@ -569,8 +569,8 @@
     }
    },
    "elevation_ft": [
-    838,
-    974
+    835.5,
+    962.7
    ],
    "counts": {
     "fairway": 2,
@@ -603,8 +603,8 @@
     }
    },
    "elevation_ft": [
-    798,
-    935
+    804.9,
+    890.7
    ],
    "counts": {
     "fairway": 2,
@@ -637,8 +637,8 @@
     }
    },
    "elevation_ft": [
-    895,
-    1094
+    894.9,
+    1045.7
    ],
    "counts": {
     "fairway": 1,
@@ -650,5 +650,7 @@
    },
    "osm_hole_way": "1283450652"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

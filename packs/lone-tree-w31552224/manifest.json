@@ -3,7 +3,7 @@
  "course_id": "lone-tree-w31552224",
  "name": "Lone Tree Golf Course",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:41:44",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    164,
-    222
+    164.2,
+    219.4
    ],
    "counts": {
     "fairway": 1,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    177,
-    259
+    181.4,
+    261.0
    ],
    "counts": {
     "fairway": 0,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    169,
-    222
+    173.1,
+    221.5
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    161,
-    286
+    161.2,
+    237.9
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    161,
-    197
+    161.1,
+    197.1
    ],
    "counts": {
     "fairway": 2,
@@ -231,8 +231,8 @@
     }
    },
    "elevation_ft": [
-    161,
-    216
+    167.0,
+    214.5
    ],
    "counts": {
     "fairway": 1,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    161,
-    245
+    163.3,
+    222.4
    ],
    "counts": {
     "fairway": 1,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    164,
-    183
+    163.4,
+    182.8
    ],
    "counts": {
     "fairway": 1,
@@ -343,8 +343,8 @@
     }
    },
    "elevation_ft": [
-    168,
-    296
+    168.3,
+    295.2
    ],
    "counts": {
     "fairway": 1,
@@ -377,8 +377,8 @@
     }
    },
    "elevation_ft": [
-    182,
-    403
+    198.1,
+    324.2
    ],
    "counts": {
     "fairway": 1,
@@ -411,8 +411,8 @@
     }
    },
    "elevation_ft": [
-    167,
-    245
+    175.7,
+    244.8
    ],
    "counts": {
     "fairway": 1,
@@ -447,8 +447,8 @@
     }
    },
    "elevation_ft": [
-    119,
-    245
+    145.9,
+    233.4
    ],
    "counts": {
     "fairway": 2,
@@ -481,8 +481,8 @@
     }
    },
    "elevation_ft": [
-    118,
-    194
+    132.7,
+    193.8
    ],
    "counts": {
     "fairway": 1,
@@ -515,8 +515,8 @@
     }
    },
    "elevation_ft": [
-    121,
-    223
+    151.3,
+    221.2
    ],
    "counts": {
     "fairway": 2,
@@ -549,8 +549,8 @@
     }
    },
    "elevation_ft": [
-    167,
-    237
+    167.3,
+    236.4
    ],
    "counts": {
     "fairway": 1,
@@ -583,8 +583,8 @@
     }
    },
    "elevation_ft": [
-    164,
-    236
+    164.7,
+    236.4
    ],
    "counts": {
     "fairway": 2,
@@ -617,8 +617,8 @@
     }
    },
    "elevation_ft": [
-    164,
-    215
+    163.5,
+    213.0
    ],
    "counts": {
     "fairway": 1,
@@ -630,5 +630,7 @@
    },
    "osm_hole_way": "1037826842"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

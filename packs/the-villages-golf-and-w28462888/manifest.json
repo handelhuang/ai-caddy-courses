@@ -3,7 +3,7 @@
  "course_id": "the-villages-golf-and-w28462888",
  "name": "The Villages Golf and Country Club",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:45:31",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    490,
-    542
+    490.2,
+    541.9
    ],
    "counts": {
     "fairway": 1,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    499,
-    546
+    501.3,
+    541.8
    ],
    "counts": {
     "fairway": 1,
@@ -131,8 +131,8 @@
     }
    },
    "elevation_ft": [
-    515,
-    556
+    517.8,
+    553.5
    ],
    "counts": {
     "fairway": 1,
@@ -167,8 +167,8 @@
     }
    },
    "elevation_ft": [
-    527,
-    577
+    527.6,
+    574.9
    ],
    "counts": {
     "fairway": 1,
@@ -203,8 +203,8 @@
     }
    },
    "elevation_ft": [
-    542,
-    635
+    551.7,
+    631.0
    ],
    "counts": {
     "fairway": 1,
@@ -239,8 +239,8 @@
     }
    },
    "elevation_ft": [
-    618,
-    664
+    618.0,
+    660.2
    ],
    "counts": {
     "fairway": 1,
@@ -275,8 +275,8 @@
     }
    },
    "elevation_ft": [
-    630,
-    685
+    629.9,
+    681.9
    ],
    "counts": {
     "fairway": 1,
@@ -311,8 +311,8 @@
     }
    },
    "elevation_ft": [
-    549,
-    664
+    565.0,
+    662.5
    ],
    "counts": {
     "fairway": 1,
@@ -347,8 +347,8 @@
     }
    },
    "elevation_ft": [
-    489,
-    598
+    508.5,
+    592.5
    ],
    "counts": {
     "fairway": 2,
@@ -383,8 +383,8 @@
     }
    },
    "elevation_ft": [
-    502,
-    574
+    505.7,
+    573.8
    ],
    "counts": {
     "fairway": 1,
@@ -419,8 +419,8 @@
     }
    },
    "elevation_ft": [
-    548,
-    596
+    555.1,
+    595.0
    ],
    "counts": {
     "fairway": 1,
@@ -455,8 +455,8 @@
     }
    },
    "elevation_ft": [
-    567,
-    664
+    574.4,
+    663.7
    ],
    "counts": {
     "fairway": 1,
@@ -491,8 +491,8 @@
     }
    },
    "elevation_ft": [
-    619,
-    672
+    619.2,
+    672.0
    ],
    "counts": {
     "fairway": 1,
@@ -527,8 +527,8 @@
     }
    },
    "elevation_ft": [
-    607,
-    654
+    607.0,
+    653.3
    ],
    "counts": {
     "fairway": 1,
@@ -563,8 +563,8 @@
     }
    },
    "elevation_ft": [
-    541,
-    635
+    552.5,
+    635.1
    ],
    "counts": {
     "fairway": 1,
@@ -600,8 +600,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    539.5,
+    577.1
    ],
    "counts": {
     "fairway": 1,
@@ -636,8 +636,8 @@
     }
    },
    "elevation_ft": [
-    527,
-    572
+    529.9,
+    568.7
    ],
    "counts": {
     "fairway": 1,
@@ -672,8 +672,8 @@
     }
    },
    "elevation_ft": [
-    490,
-    574
+    502.1,
+    572.6
    ],
    "counts": {
     "fairway": 2,
@@ -685,5 +685,7 @@
    },
    "osm_hole_way": "1187967541"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

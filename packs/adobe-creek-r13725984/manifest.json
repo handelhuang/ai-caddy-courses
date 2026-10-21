@@ -3,7 +3,7 @@
  "course_id": "adobe-creek-r13725984",
  "name": "Adobe Creek Golf Club",
  "city": "Petaluma, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:36:02",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    68,
-    109
+    68.5,
+    109.1
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    74,
-    116
+    79.0,
+    116.3
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    67,
-    100
+    70.5,
+    98.9
    ],
    "counts": {
     "fairway": 1,
@@ -162,8 +162,8 @@
     }
    },
    "elevation_ft": [
-    71,
-    92
+    72.2,
+    91.5
    ],
    "counts": {
     "fairway": 1,
@@ -196,8 +196,8 @@
     }
    },
    "elevation_ft": [
-    48,
-    65
+    50.4,
+    65.2
    ],
    "counts": {
     "fairway": 1,
@@ -230,8 +230,8 @@
     }
    },
    "elevation_ft": [
-    46,
-    67
+    45.4,
+    64.2
    ],
    "counts": {
     "fairway": 2,
@@ -264,8 +264,8 @@
     }
    },
    "elevation_ft": [
-    44,
-    78
+    45.6,
+    78.0
    ],
    "counts": {
     "fairway": 2,
@@ -298,8 +298,8 @@
     }
    },
    "elevation_ft": [
-    54,
-    76
+    53.9,
+    75.9
    ],
    "counts": {
     "fairway": 1,
@@ -332,8 +332,8 @@
     }
    },
    "elevation_ft": [
-    50,
-    80
+    56.7,
+    78.7
    ],
    "counts": {
     "fairway": 1,
@@ -366,8 +366,8 @@
     }
    },
    "elevation_ft": [
-    59,
-    91
+    66.2,
+    89.8
    ],
    "counts": {
     "fairway": 1,
@@ -400,8 +400,8 @@
     }
    },
    "elevation_ft": [
-    65,
-    113
+    67.1,
+    112.8
    ],
    "counts": {
     "fairway": 1,
@@ -437,8 +437,8 @@
     }
    },
    "elevation_ft": [
-    91,
-    114
+    90.8,
+    112.8
    ],
    "counts": {
     "fairway": 1,
@@ -471,8 +471,8 @@
     }
    },
    "elevation_ft": [
-    92,
-    160
+    95.9,
+    138.4
    ],
    "counts": {
     "fairway": 1,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    83,
-    145
+    94.1,
+    135.4
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    66,
-    113
+    74.7,
+    107.5
    ],
    "counts": {
     "fairway": 1,
@@ -573,8 +573,8 @@
     }
    },
    "elevation_ft": [
-    66,
-    97
+    66.2,
+    95.2
    ],
    "counts": {
     "fairway": 1,
@@ -607,8 +607,8 @@
     }
    },
    "elevation_ft": [
-    66,
-    108
+    66.2,
+    107.7
    ],
    "counts": {
     "fairway": 1,
@@ -641,8 +641,8 @@
     }
    },
    "elevation_ft": [
-    66,
-    108
+    66.2,
+    107.8
    ],
    "counts": {
     "fairway": 1,
@@ -654,5 +654,7 @@
    },
    "osm_hole_way": "880000765"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

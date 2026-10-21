@@ -3,7 +3,7 @@
  "course_id": "sharon-heights-r2222742",
  "name": "Sharon Heights Golf Course",
  "city": "Menlo Park, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:57:08",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    190,
-    314
+    192.0,
+    314.3
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    177,
-    262
+    177.9,
+    241.4
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    149,
-    315
+    165.8,
+    304.3
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    153,
-    296
+    168.9,
+    278.8
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    150,
-    332
+    166.1,
+    280.5
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    172,
-    268
+    176.8,
+    235.3
    ],
    "counts": {
     "fairway": 1,
@@ -263,8 +263,8 @@
     }
    },
    "elevation_ft": [
-    175,
-    345
+    191.3,
+    279.4
    ],
    "counts": {
     "fairway": 2,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    172,
-    343
+    182.7,
+    269.5
    ],
    "counts": {
     "fairway": 1,
@@ -331,8 +331,8 @@
     }
    },
    "elevation_ft": [
-    206,
-    314
+    206.8,
+    314.1
    ],
    "counts": {
     "fairway": 1,
@@ -365,8 +365,8 @@
     }
    },
    "elevation_ft": [
-    207,
-    346
+    224.2,
+    328.7
    ],
    "counts": {
     "fairway": 1,
@@ -399,8 +399,8 @@
     }
    },
    "elevation_ft": [
-    188,
-    325
+    196.8,
+    293.4
    ],
    "counts": {
     "fairway": 1,
@@ -433,8 +433,8 @@
     }
    },
    "elevation_ft": [
-    181,
-    299
+    188.1,
+    293.2
    ],
    "counts": {
     "fairway": 1,
@@ -467,8 +467,8 @@
     }
    },
    "elevation_ft": [
-    205,
-    287
+    208.0,
+    263.6
    ],
    "counts": {
     "fairway": 1,
@@ -501,8 +501,8 @@
     }
    },
    "elevation_ft": [
-    182,
-    287
+    202.8,
+    287.2
    ],
    "counts": {
     "fairway": 1,
@@ -535,8 +535,8 @@
     }
    },
    "elevation_ft": [
-    135,
-    291
+    165.4,
+    267.8
    ],
    "counts": {
     "fairway": 1,
@@ -569,8 +569,8 @@
     }
    },
    "elevation_ft": [
-    145,
-    295
+    175.2,
+    269.9
    ],
    "counts": {
     "fairway": 1,
@@ -603,8 +603,8 @@
     }
    },
    "elevation_ft": [
-    198,
-    298
+    217.1,
+    296.0
    ],
    "counts": {
     "fairway": 1,
@@ -637,8 +637,8 @@
     }
    },
    "elevation_ft": [
-    230,
-    323
+    231.5,
+    319.6
    ],
    "counts": {
     "fairway": 1,
@@ -650,5 +650,7 @@
    },
    "osm_hole_way": "1137742535"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

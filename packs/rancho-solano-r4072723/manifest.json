@@ -3,7 +3,7 @@
  "course_id": "rancho-solano-r4072723",
  "name": "Rancho Solano Golf Course",
  "city": "Fairfield, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:41:46",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    250,
-    440
+    255.6,
+    328.9
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    185,
-    363
+    207.1,
+    288.5
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    148,
-    345
+    161.2,
+    268.1
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    144,
-    316
+    146.8,
+    267.5
    ],
    "counts": {
     "fairway": 1,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    186,
-    286
+    202.8,
+    267.1
    ],
    "counts": {
     "fairway": 1,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    207,
-    434
+    208.2,
+    311.7
    ],
    "counts": {
     "fairway": 1,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    257,
-    527
+    260.0,
+    517.4
    ],
    "counts": {
     "fairway": 1,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    299,
-    593
+    313.4,
+    493.9
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    247,
-    582
+    276.0,
+    416.0
    ],
    "counts": {
     "fairway": 1,
@@ -367,8 +367,8 @@
     }
    },
    "elevation_ft": [
-    215,
-    314
+    214.5,
+    306.0
    ],
    "counts": {
     "fairway": 1,
@@ -401,8 +401,8 @@
     }
    },
    "elevation_ft": [
-    194,
-    277
+    196.0,
+    231.1
    ],
    "counts": {
     "fairway": 1,
@@ -437,8 +437,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    187.0,
+    228.5
    ],
    "counts": {
     "fairway": 1,
@@ -473,8 +473,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    184.1,
+    312.9
    ],
    "counts": {
     "fairway": 1,
@@ -507,8 +507,8 @@
     }
    },
    "elevation_ft": [
-    188,
-    351
+    196.0,
+    337.2
    ],
    "counts": {
     "fairway": 1,
@@ -543,8 +543,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    209.2,
+    260.1
    ],
    "counts": {
     "fairway": 1,
@@ -577,8 +577,8 @@
     }
    },
    "elevation_ft": [
-    219,
-    320
+    231.8,
+    300.6
    ],
    "counts": {
     "fairway": 1,
@@ -611,8 +611,8 @@
     }
    },
    "elevation_ft": [
-    223,
-    339
+    230.1,
+    322.9
    ],
    "counts": {
     "fairway": 1,
@@ -645,8 +645,8 @@
     }
    },
    "elevation_ft": [
-    216,
-    338
+    222.7,
+    327.7
    ],
    "counts": {
     "fairway": 1,
@@ -658,5 +658,7 @@
    },
    "osm_hole_way": "1229096475"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

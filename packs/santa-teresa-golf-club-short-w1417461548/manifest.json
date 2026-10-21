@@ -3,7 +3,7 @@
  "course_id": "santa-teresa-golf-club-short-w1417461548",
  "name": "Santa Teresa Golf Club Short Course",
  "city": "San Jose, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:39:59",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    203,
-    269
+    206.5,
+    272.8
    ],
    "counts": {
     "fairway": 1,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    203,
-    295
+    203.2,
+    268.4
    ],
    "counts": {
     "fairway": 1,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    207,
-    268
+    207.4,
+    267.1
    ],
    "counts": {
     "fairway": 1,
@@ -169,8 +169,8 @@
     }
    },
    "elevation_ft": [
-    203,
-    222
+    203.2,
+    217.9
    ],
    "counts": {
     "fairway": 1,
@@ -203,8 +203,8 @@
     }
    },
    "elevation_ft": [
-    204,
-    267
+    207.7,
+    251.4
    ],
    "counts": {
     "fairway": 2,
@@ -239,8 +239,8 @@
     }
    },
    "elevation_ft": [
-    207,
-    426
+    211.8,
+    282.7
    ],
    "counts": {
     "fairway": 1,
@@ -273,8 +273,8 @@
     }
    },
    "elevation_ft": [
-    209,
-    363
+    216.6,
+    312.1
    ],
    "counts": {
     "fairway": 1,
@@ -309,8 +309,8 @@
     }
    },
    "elevation_ft": [
-    212,
-    355
+    213.3,
+    309.6
    ],
    "counts": {
     "fairway": 1,
@@ -345,8 +345,8 @@
     }
    },
    "elevation_ft": [
-    203,
-    304
+    209.0,
+    255.6
    ],
    "counts": {
     "fairway": 1,
@@ -381,8 +381,8 @@
     }
    },
    "elevation_ft": [
-    215,
-    379
+    215.2,
+    339.3
    ],
    "counts": {
     "fairway": 1,
@@ -447,8 +447,8 @@
     }
    },
    "elevation_ft": [
-    216,
-    341
+    216.3,
+    328.3
    ],
    "counts": {
     "fairway": 1,
@@ -484,8 +484,8 @@
     }
    },
    "elevation_ft": [
-    213,
-    342
+    213.9,
+    341.6
    ],
    "counts": {
     "fairway": 1,
@@ -540,8 +540,8 @@
     }
    },
    "elevation_ft": [
-    207,
-    343
+    210.0,
+    335.8
    ],
    "counts": {
     "fairway": 1,
@@ -553,5 +553,7 @@
    },
    "osm_hole_way": "803485450"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

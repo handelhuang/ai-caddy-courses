@@ -3,7 +3,7 @@
  "course_id": "lincoln-park-r2142043",
  "name": "Lincoln Park Golf Course",
  "city": "34th Avenue, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:50:23",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    235,
-    326
+    240.7,
+    323.6
    ],
    "counts": {
     "fairway": 2,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    270,
-    373
+    273.5,
+    374.3
    ],
    "counts": {
     "fairway": 1,
@@ -129,8 +129,8 @@
     }
    },
    "elevation_ft": [
-    -4,
-    346
+    177.3,
+    329.9
    ],
    "counts": {
     "fairway": 1,
@@ -163,8 +163,8 @@
     }
    },
    "elevation_ft": [
-    -4,
-    359
+    182.8,
+    344.8
    ],
    "counts": {
     "fairway": 1,
@@ -197,8 +197,8 @@
     }
    },
    "elevation_ft": [
-    2,
-    372
+    203.6,
+    361.4
    ],
    "counts": {
     "fairway": 1,
@@ -233,8 +233,8 @@
     }
    },
    "elevation_ft": [
-    314,
-    383
+    326.5,
+    382.9
    ],
    "counts": {
     "fairway": 1,
@@ -269,8 +269,8 @@
     }
    },
    "elevation_ft": [
-    271,
-    380
+    286.3,
+    380.4
    ],
    "counts": {
     "fairway": 1,
@@ -303,8 +303,8 @@
     }
    },
    "elevation_ft": [
-    247,
-    328
+    251.3,
+    316.2
    ],
    "counts": {
     "fairway": 1,
@@ -339,8 +339,8 @@
     }
    },
    "elevation_ft": [
-    247,
-    371
+    246.8,
+    371.1
    ],
    "counts": {
     "fairway": 1,
@@ -375,8 +375,8 @@
     }
    },
    "elevation_ft": [
-    328,
-    383
+    327.9,
+    382.9
    ],
    "counts": {
     "fairway": 2,
@@ -411,8 +411,8 @@
     }
    },
    "elevation_ft": [
-    284,
-    383
+    286.2,
+    377.5
    ],
    "counts": {
     "fairway": 1,
@@ -447,8 +447,8 @@
     }
    },
    "elevation_ft": [
-    273,
-    372
+    274.8,
+    371.6
    ],
    "counts": {
     "fairway": 1,
@@ -481,8 +481,8 @@
     }
    },
    "elevation_ft": [
-    50,
-    372
+    225.7,
+    372.1
    ],
    "counts": {
     "fairway": 1,
@@ -517,8 +517,8 @@
     }
    },
    "elevation_ft": [
-    159,
-    308
+    212.8,
+    307.2
    ],
    "counts": {
     "fairway": 1,
@@ -551,8 +551,8 @@
     }
    },
    "elevation_ft": [
-    72,
-    373
+    259.6,
+    372.5
    ],
    "counts": {
     "fairway": 1,
@@ -585,8 +585,8 @@
     }
    },
    "elevation_ft": [
-    1,
-    356
+    213.6,
+    356.5
    ],
    "counts": {
     "fairway": 1,
@@ -619,8 +619,8 @@
     }
    },
    "elevation_ft": [
-    -4,
-    311
+    99.4,
+    311.0
    ],
    "counts": {
     "fairway": 1,
@@ -653,8 +653,8 @@
     }
    },
    "elevation_ft": [
-    199,
-    276
+    201.6,
+    275.3
    ],
    "counts": {
     "fairway": 1,
@@ -666,5 +666,7 @@
    },
    "osm_hole_way": "688991987"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

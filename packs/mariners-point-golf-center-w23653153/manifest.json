@@ -3,7 +3,7 @@
  "course_id": "mariners-point-golf-center-w23653153",
  "name": "Mariners Point Golf Center",
  "city": "Foster City, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:02:56",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    4,
-    32
+    6.9,
+    30.5
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    4,
-    32
+    4.4,
+    32.5
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    32
+    -1.6,
+    32.3
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    32
+    -1.6,
+    29.6
    ],
    "counts": {
     "fairway": 1,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    29
+    -1.6,
+    29.0
    ],
    "counts": {
     "fairway": 2,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    29
+    -1.6,
+    29.1
    ],
    "counts": {
     "fairway": 2,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    32
+    -1.6,
+    32.4
    ],
    "counts": {
     "fairway": 1,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    32
+    11.1,
+    32.4
    ],
    "counts": {
     "fairway": 2,
@@ -331,8 +331,8 @@
     }
    },
    "elevation_ft": [
-    4,
-    32
+    7.8,
+    32.5
    ],
    "counts": {
     "fairway": 1,
@@ -344,5 +344,7 @@
    },
    "osm_hole_way": "804502255"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

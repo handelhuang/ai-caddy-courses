@@ -3,7 +3,7 @@
  "course_id": "deep-cliff-w25401721",
  "name": "Deep Cliff Golf Course",
  "city": "Cupertino, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:30:28",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    332,
-    397
+    332.6,
+    395.2
    ],
    "counts": {
     "fairway": 2,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    341,
-    576
+    341.7,
+    516.5
    ],
    "counts": {
     "fairway": 1,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    347,
-    656
+    347.3,
+    473.1
    ],
    "counts": {
     "fairway": 1,
@@ -163,8 +163,8 @@
     }
    },
    "elevation_ft": [
-    353,
-    581
+    354.0,
+    559.8
    ],
    "counts": {
     "fairway": 1,
@@ -197,8 +197,8 @@
     }
    },
    "elevation_ft": [
-    357,
-    538
+    357.8,
+    502.5
    ],
    "counts": {
     "fairway": 1,
@@ -231,8 +231,8 @@
     }
    },
    "elevation_ft": [
-    353,
-    529
+    353.8,
+    433.6
    ],
    "counts": {
     "fairway": 1,
@@ -267,8 +267,8 @@
     }
    },
    "elevation_ft": [
-    351,
-    494
+    351.3,
+    456.4
    ],
    "counts": {
     "fairway": 2,
@@ -303,8 +303,8 @@
     }
    },
    "elevation_ft": [
-    342,
-    509
+    343.5,
+    397.3
    ],
    "counts": {
     "fairway": 1,
@@ -337,8 +337,8 @@
     }
    },
    "elevation_ft": [
-    334,
-    403
+    339.2,
+    403.9
    ],
    "counts": {
     "fairway": 1,
@@ -371,8 +371,8 @@
     }
    },
    "elevation_ft": [
-    329,
-    401
+    331.6,
+    401.8
    ],
    "counts": {
     "fairway": 1,
@@ -407,8 +407,8 @@
     }
    },
    "elevation_ft": [
-    328,
-    395
+    331.5,
+    380.1
    ],
    "counts": {
     "fairway": 2,
@@ -441,8 +441,8 @@
     }
    },
    "elevation_ft": [
-    335,
-    420
+    335.4,
+    390.2
    ],
    "counts": {
     "fairway": 1,
@@ -477,8 +477,8 @@
     }
    },
    "elevation_ft": [
-    338,
-    397
+    338.4,
+    385.9
    ],
    "counts": {
     "fairway": 1,
@@ -511,8 +511,8 @@
     }
    },
    "elevation_ft": [
-    339,
-    439
+    344.2,
+    401.1
    ],
    "counts": {
     "fairway": 1,
@@ -547,8 +547,8 @@
     }
    },
    "elevation_ft": [
-    336,
-    445
+    336.0,
+    405.0
    ],
    "counts": {
     "fairway": 1,
@@ -581,8 +581,8 @@
     }
    },
    "elevation_ft": [
-    332,
-    387
+    332.8,
+    386.9
    ],
    "counts": {
     "fairway": 1,
@@ -617,8 +617,8 @@
     }
    },
    "elevation_ft": [
-    330,
-    372
+    331.5,
+    371.4
    ],
    "counts": {
     "fairway": 1,
@@ -651,8 +651,8 @@
     }
    },
    "elevation_ft": [
-    332,
-    400
+    332.4,
+    399.4
    ],
    "counts": {
     "fairway": 1,
@@ -664,5 +664,7 @@
    },
    "osm_hole_way": "825945188"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

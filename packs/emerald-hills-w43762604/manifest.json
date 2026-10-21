@@ -3,7 +3,7 @@
  "course_id": "emerald-hills-w43762604",
  "name": "Emerald Hills Golf Course",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:51:16",
  "verified": false,
  "sources": {
@@ -61,8 +61,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    498.2,
+    579.7
    ],
    "counts": {
     "fairway": 0,
@@ -98,8 +98,8 @@
     }
    },
    "elevation_ft": [
-    507,
-    698
+    507.2,
+    673.0
    ],
    "counts": {
     "fairway": 0,
@@ -134,8 +134,8 @@
     }
    },
    "elevation_ft": [
-    507,
-    638
+    507.2,
+    592.6
    ],
    "counts": {
     "fairway": 0,
@@ -170,8 +170,8 @@
     }
    },
    "elevation_ft": [
-    508,
-    627
+    507.7,
+    626.5
    ],
    "counts": {
     "fairway": 0,
@@ -206,8 +206,8 @@
     }
    },
    "elevation_ft": [
-    533,
-    676
+    535.1,
+    673.4
    ],
    "counts": {
     "fairway": 0,
@@ -242,8 +242,8 @@
     }
    },
    "elevation_ft": [
-    584,
-    692
+    589.3,
+    692.2
    ],
    "counts": {
     "fairway": 0,
@@ -279,8 +279,8 @@
     }
    },
    "elevation_ft": [
-    595,
-    710
+    593.9,
+    706.1
    ],
    "counts": {
     "fairway": 0,
@@ -316,8 +316,8 @@
     }
    },
    "elevation_ft": [
-    587,
-    697
+    587.3,
+    692.5
    ],
    "counts": {
     "fairway": 0,
@@ -353,8 +353,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    577.1,
+    676.4
    ],
    "counts": {
     "fairway": 0,
@@ -366,5 +366,7 @@
    },
    "osm_hole_way": "1279115316"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

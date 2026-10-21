@@ -3,7 +3,7 @@
  "course_id": "lake-chabot-w685482899",
  "name": "Lake Chabot Golf Course",
  "city": "Oakland, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:10:17",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    400,
-    486
+    399.4,
+    471.6
    ],
    "counts": {
     "fairway": 1,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    401,
-    520
+    417.4,
+    516.0
    ],
    "counts": {
     "fairway": 1,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    391,
-    535
+    429.8,
+    535.3
    ],
    "counts": {
     "fairway": 1,
@@ -168,8 +168,8 @@
     }
    },
    "elevation_ft": [
-    308,
-    532
+    361.5,
+    528.5
    ],
    "counts": {
     "fairway": 1,
@@ -204,8 +204,8 @@
     }
    },
    "elevation_ft": [
-    315,
-    523
+    345.6,
+    512.4
    ],
    "counts": {
     "fairway": 1,
@@ -240,8 +240,8 @@
     }
    },
    "elevation_ft": [
-    334,
-    536
+    370.3,
+    530.2
    ],
    "counts": {
     "fairway": 1,
@@ -276,8 +276,8 @@
     }
    },
    "elevation_ft": [
-    360,
-    530
+    378.2,
+    530.3
    ],
    "counts": {
     "fairway": 1,
@@ -310,8 +310,8 @@
     }
    },
    "elevation_ft": [
-    334,
-    515
+    374.3,
+    510.4
    ],
    "counts": {
     "fairway": 1,
@@ -346,8 +346,8 @@
     }
    },
    "elevation_ft": [
-    353,
-    502
+    353.0,
+    489.4
    ],
    "counts": {
     "fairway": 1,
@@ -382,8 +382,8 @@
     }
    },
    "elevation_ft": [
-    390,
-    539
+    389.4,
+    535.6
    ],
    "counts": {
     "fairway": 2,
@@ -418,8 +418,8 @@
     }
    },
    "elevation_ft": [
-    444,
-    595
+    453.3,
+    570.7
    ],
    "counts": {
     "fairway": 3,
@@ -452,8 +452,8 @@
     }
    },
    "elevation_ft": [
-    414,
-    564
+    444.5,
+    563.5
    ],
    "counts": {
     "fairway": 1,
@@ -488,8 +488,8 @@
     }
    },
    "elevation_ft": [
-    456,
-    657
+    474.9,
+    660.1
    ],
    "counts": {
     "fairway": 2,
@@ -524,8 +524,8 @@
     }
    },
    "elevation_ft": [
-    541,
-    680
+    581.2,
+    679.3
    ],
    "counts": {
     "fairway": 1,
@@ -560,8 +560,8 @@
     }
    },
    "elevation_ft": [
-    565,
-    679
+    568.1,
+    679.4
    ],
    "counts": {
     "fairway": 1,
@@ -596,8 +596,8 @@
     }
    },
    "elevation_ft": [
-    350,
-    679
+    515.3,
+    673.2
    ],
    "counts": {
     "fairway": 1,
@@ -632,8 +632,8 @@
     }
    },
    "elevation_ft": [
-    543,
-    679
+    597.4,
+    679.4
    ],
    "counts": {
     "fairway": 1,
@@ -668,8 +668,8 @@
     }
    },
    "elevation_ft": [
-    391,
-    700
+    404.2,
+    679.4
    ],
    "counts": {
     "fairway": 6,
@@ -681,5 +681,7 @@
    },
    "osm_hole_way": "685058905"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

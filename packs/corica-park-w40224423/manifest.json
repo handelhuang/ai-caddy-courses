@@ -3,7 +3,7 @@
  "course_id": "corica-park-w40224423",
  "name": "Corica Park Golf Course",
  "city": "Alameda, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:10:08",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    11
+    -1.0,
+    11.4
    ],
    "counts": {
     "fairway": 2,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    13
+    -1.1,
+    11.6
    ],
    "counts": {
     "fairway": 2,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    17
+    -1.0,
+    14.4
    ],
    "counts": {
     "fairway": 2,
@@ -168,8 +168,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    15
+    -0.2,
+    14.7
    ],
    "counts": {
     "fairway": 2,
@@ -202,8 +202,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    17
+    0.1,
+    17.6
    ],
    "counts": {
     "fairway": 1,
@@ -238,8 +238,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    14
+    0.7,
+    13.9
    ],
    "counts": {
     "fairway": 2,
@@ -272,8 +272,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    12
+    0.5,
+    11.3
    ],
    "counts": {
     "fairway": 2,
@@ -308,8 +308,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    13
+    0.0,
+    12.5
    ],
    "counts": {
     "fairway": 1,
@@ -345,8 +345,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    -0.7,
+    12.5
    ],
    "counts": {
     "fairway": 1,
@@ -379,8 +379,8 @@
     }
    },
    "elevation_ft": [
-    -10,
-    14
+    -2.1,
+    12.2
    ],
    "counts": {
     "fairway": 2,
@@ -413,8 +413,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    11
+    -2.1,
+    10.5
    ],
    "counts": {
     "fairway": 2,
@@ -447,8 +447,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    20
+    -2.2,
+    19.2
    ],
    "counts": {
     "fairway": 2,
@@ -481,8 +481,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    20
+    -1.4,
+    19.7
    ],
    "counts": {
     "fairway": 1,
@@ -515,8 +515,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    17
+    -2.5,
+    16.6
    ],
    "counts": {
     "fairway": 1,
@@ -549,8 +549,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    23
+    -0.9,
+    22.5
    ],
    "counts": {
     "fairway": 4,
@@ -585,8 +585,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    22
+    -0.1,
+    22.6
    ],
    "counts": {
     "fairway": 2,
@@ -621,8 +621,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    23
+    -0.9,
+    22.6
    ],
    "counts": {
     "fairway": 5,
@@ -655,8 +655,8 @@
     }
    },
    "elevation_ft": [
-    -10,
-    14
+    -2.1,
+    11.7
    ],
    "counts": {
     "fairway": 2,
@@ -668,5 +668,7 @@
    },
    "osm_hole_way": "1435145516"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

@@ -3,7 +3,7 @@
  "course_id": "castlewood-country-club-hill-r5150430",
  "name": "Castlewood Country Club - Hill Course",
  "city": "Pleasanton, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:04:54",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    407,
-    523
+    394.7,
+    521.8
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    444,
-    601
+    444.7,
+    601.3
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    473,
-    613
+    476.3,
+    612.4
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    466,
-    584
+    465.6,
+    592.2
    ],
    "counts": {
     "fairway": 2,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    483,
-    644
+    483.7,
+    628.3
    ],
    "counts": {
     "fairway": 1,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    470,
-    682
+    485.3,
+    650.0
    ],
    "counts": {
     "fairway": 1,
@@ -263,8 +263,8 @@
     }
    },
    "elevation_ft": [
-    356,
-    711
+    370.0,
+    664.5
    ],
    "counts": {
     "fairway": 1,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    350,
-    513
+    361.3,
+    519.3
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    434,
-    540
+    440.6,
+    543.1
    ],
    "counts": {
     "fairway": 1,
@@ -369,8 +369,8 @@
     }
    },
    "elevation_ft": [
-    468,
-    611
+    461.7,
+    602.8
    ],
    "counts": {
     "fairway": 2,
@@ -403,8 +403,8 @@
     }
    },
    "elevation_ft": [
-    479,
-    675
+    496.7,
+    663.2
    ],
    "counts": {
     "fairway": 1,
@@ -437,8 +437,8 @@
     }
    },
    "elevation_ft": [
-    573,
-    710
+    574.6,
+    704.2
    ],
    "counts": {
     "fairway": 1,
@@ -471,8 +471,8 @@
     }
    },
    "elevation_ft": [
-    572,
-    741
+    572.7,
+    736.3
    ],
    "counts": {
     "fairway": 1,
@@ -507,8 +507,8 @@
     }
    },
    "elevation_ft": [
-    637,
-    807
+    655.9,
+    801.9
    ],
    "counts": {
     "fairway": 1,
@@ -543,8 +543,8 @@
     }
    },
    "elevation_ft": [
-    686,
-    939
+    698.3,
+    896.8
    ],
    "counts": {
     "fairway": 1,
@@ -579,8 +579,8 @@
     }
    },
    "elevation_ft": [
-    738,
-    1007
+    742.6,
+    916.3
    ],
    "counts": {
     "fairway": 2,
@@ -613,8 +613,8 @@
     }
    },
    "elevation_ft": [
-    566,
-    827
+    629.9,
+    807.6
    ],
    "counts": {
     "fairway": 1,
@@ -647,8 +647,8 @@
     }
    },
    "elevation_ft": [
-    445,
-    779
+    500.3,
+    757.3
    ],
    "counts": {
     "fairway": 2,
@@ -660,5 +660,7 @@
    },
    "osm_hole_way": "692275387"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

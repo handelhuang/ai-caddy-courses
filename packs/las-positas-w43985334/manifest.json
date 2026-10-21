@@ -3,7 +3,7 @@
  "course_id": "las-positas-w43985334",
  "name": "Las Positas Golf Course",
  "city": "Livermore, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:31:10",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    366,
-    385
+    366.4,
+    384.9
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    357,
-    379
+    361.3,
+    379.5
    ],
    "counts": {
     "fairway": 2,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    357,
-    377
+    358.1,
+    377.0
    ],
    "counts": {
     "fairway": 2,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    357,
-    375
+    356.7,
+    374.7
    ],
    "counts": {
     "fairway": 1,
@@ -198,8 +198,8 @@
     }
    },
    "elevation_ft": [
-    357,
-    377
+    358.1,
+    371.4
    ],
    "counts": {
     "fairway": 0,
@@ -232,8 +232,8 @@
     }
    },
    "elevation_ft": [
-    352,
-    379
+    358.0,
+    376.7
    ],
    "counts": {
     "fairway": 1,
@@ -268,8 +268,8 @@
     }
    },
    "elevation_ft": [
-    363,
-    380
+    362.8,
+    377.1
    ],
    "counts": {
     "fairway": 1,
@@ -304,8 +304,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    366.4,
+    379.2
    ],
    "counts": {
     "fairway": 1,
@@ -338,8 +338,8 @@
     }
    },
    "elevation_ft": [
-    366,
-    403
+    366.2,
+    397.5
    ],
    "counts": {
     "fairway": 2,
@@ -372,8 +372,8 @@
     }
    },
    "elevation_ft": [
-    367,
-    402
+    367.2,
+    384.8
    ],
    "counts": {
     "fairway": 2,
@@ -406,8 +406,8 @@
     }
    },
    "elevation_ft": [
-    367,
-    401
+    367.2,
+    387.1
    ],
    "counts": {
     "fairway": 1,
@@ -440,8 +440,8 @@
     }
    },
    "elevation_ft": [
-    367,
-    406
+    367.2,
+    402.6
    ],
    "counts": {
     "fairway": 1,
@@ -474,8 +474,8 @@
     }
    },
    "elevation_ft": [
-    367,
-    422
+    379.4,
+    407.1
    ],
    "counts": {
     "fairway": 1,
@@ -508,8 +508,8 @@
     }
    },
    "elevation_ft": [
-    375,
-    423
+    376.5,
+    410.3
    ],
    "counts": {
     "fairway": 1,
@@ -542,8 +542,8 @@
     }
    },
    "elevation_ft": [
-    375,
-    406
+    375.0,
+    402.7
    ],
    "counts": {
     "fairway": 1,
@@ -576,8 +576,8 @@
     }
    },
    "elevation_ft": [
-    374,
-    402
+    373.4,
+    394.0
    ],
    "counts": {
     "fairway": 1,
@@ -610,8 +610,8 @@
     }
    },
    "elevation_ft": [
-    373,
-    404
+    372.7,
+    392.3
    ],
    "counts": {
     "fairway": 2,
@@ -644,8 +644,8 @@
     }
    },
    "elevation_ft": [
-    372,
-    428
+    372.0,
+    403.1
    ],
    "counts": {
     "fairway": 1,
@@ -657,5 +657,7 @@
    },
    "osm_hole_way": "1211836779"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

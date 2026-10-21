@@ -3,7 +3,7 @@
  "course_id": "rancho-del-pueblo-w38834429",
  "name": "Rancho Del Pueblo Golf Course",
  "city": "San Jose, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:34:13",
  "verified": false,
  "sources": {
@@ -60,8 +60,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    101
+    90.3,
+    101.0
    ],
    "counts": {
     "fairway": 1,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    100
+    89.8,
+    98.5
    ],
    "counts": {
     "fairway": 1,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    101
+    90.4,
+    100.7
    ],
    "counts": {
     "fairway": 1,
@@ -169,8 +169,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    102
+    90.2,
+    102.0
    ],
    "counts": {
     "fairway": 1,
@@ -207,8 +207,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    90.9,
+    101.5
    ],
    "counts": {
     "fairway": 0,
@@ -245,8 +245,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    102
+    90.2,
+    101.0
    ],
    "counts": {
     "fairway": 1,
@@ -282,8 +282,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    100
+    90.7,
+    100.6
    ],
    "counts": {
     "fairway": 1,
@@ -319,8 +319,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    101
+    89.8,
+    100.6
    ],
    "counts": {
     "fairway": 1,
@@ -355,8 +355,8 @@
     }
    },
    "elevation_ft": [
-    90,
-    101
+    90.0,
+    101.1
    ],
    "counts": {
     "fairway": 1,
@@ -368,5 +368,7 @@
    },
    "osm_hole_way": "1449280186"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

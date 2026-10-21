@@ -3,7 +3,7 @@
  "course_id": "san-jose-municipal-w157782278",
  "name": "San Jose Municipal Golf Course",
  "city": "San Jose, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:18:20",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    54,
-    77
+    61.1,
+    77.0
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    61,
-    77
+    61.1,
+    77.1
    ],
    "counts": {
     "fairway": 2,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    56,
-    77
+    65.1,
+    75.1
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    45,
-    72
+    46.1,
+    71.2
    ],
    "counts": {
     "fairway": 1,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    39,
-    69
+    41.7,
+    69.2
    ],
    "counts": {
     "fairway": 1,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    42,
-    69
+    58.9,
+    69.0
    ],
    "counts": {
     "fairway": 1,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    61,
-    72
+    61.6,
+    70.2
    ],
    "counts": {
     "fairway": 1,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    62,
-    74
+    61.5,
+    76.5
    ],
    "counts": {
     "fairway": 1,
@@ -331,8 +331,8 @@
     }
    },
    "elevation_ft": [
-    56,
-    77
+    61.5,
+    77.1
    ],
    "counts": {
     "fairway": 1,
@@ -367,8 +367,8 @@
     }
    },
    "elevation_ft": [
-    54,
-    79
+    52.5,
+    78.4
    ],
    "counts": {
     "fairway": 1,
@@ -403,8 +403,8 @@
     }
    },
    "elevation_ft": [
-    67,
-    81
+    66.6,
+    81.5
    ],
    "counts": {
     "fairway": 1,
@@ -439,8 +439,8 @@
     }
    },
    "elevation_ft": [
-    67,
-    81
+    68.4,
+    81.2
    ],
    "counts": {
     "fairway": 0,
@@ -475,8 +475,8 @@
     }
    },
    "elevation_ft": [
-    67,
-    82
+    66.6,
+    81.4
    ],
    "counts": {
     "fairway": 2,
@@ -511,8 +511,8 @@
     }
    },
    "elevation_ft": [
-    67,
-    81
+    66.8,
+    81.5
    ],
    "counts": {
     "fairway": 1,
@@ -547,8 +547,8 @@
     }
    },
    "elevation_ft": [
-    61,
-    80
+    59.1,
+    79.8
    ],
    "counts": {
     "fairway": 1,
@@ -583,8 +583,8 @@
     }
    },
    "elevation_ft": [
-    52,
-    79
+    54.0,
+    78.9
    ],
    "counts": {
     "fairway": 1,
@@ -619,8 +619,8 @@
     }
    },
    "elevation_ft": [
-    55,
-    79
+    58.1,
+    79.7
    ],
    "counts": {
     "fairway": 0,
@@ -656,8 +656,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    46.6,
+    79.6
    ],
    "counts": {
     "fairway": 1,
@@ -669,5 +669,7 @@
    },
    "osm_hole_way": "1416810157"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

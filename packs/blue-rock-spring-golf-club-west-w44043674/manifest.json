@@ -3,7 +3,7 @@
  "course_id": "blue-rock-spring-golf-club-west-w44043674",
  "name": "Blue Rock Spring Golf Club - West Course",
  "city": "Vallejo, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:39:32",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    283,
-    570
+    295.3,
+    389.7
    ],
    "counts": {
     "fairway": 1,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    248.7,
+    404.6
    ],
    "counts": {
     "fairway": 1,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    287,
-    477
+    293.5,
+    370.3
    ],
    "counts": {
     "fairway": 1,
@@ -168,8 +168,8 @@
     }
    },
    "elevation_ft": [
-    282,
-    404
+    282.0,
+    352.2
    ],
    "counts": {
     "fairway": 1,
@@ -202,8 +202,8 @@
     }
    },
    "elevation_ft": [
-    224,
-    363
+    229.8,
+    287.8
    ],
    "counts": {
     "fairway": 1,
@@ -236,8 +236,8 @@
     }
    },
    "elevation_ft": [
-    230,
-    414
+    245.4,
+    393.7
    ],
    "counts": {
     "fairway": 1,
@@ -273,8 +273,8 @@
     }
    },
    "elevation_ft": [
-    283,
-    571
+    284.9,
+    453.0
    ],
    "counts": {
     "fairway": 1,
@@ -309,8 +309,8 @@
     }
    },
    "elevation_ft": [
-    282,
-    359
+    283.1,
+    341.3
    ],
    "counts": {
     "fairway": 1,
@@ -343,8 +343,8 @@
     }
    },
    "elevation_ft": [
-    280,
-    353
+    279.7,
+    352.5
    ],
    "counts": {
     "fairway": 1,
@@ -377,8 +377,8 @@
     }
    },
    "elevation_ft": [
-    280,
-    375
+    281.1,
+    374.6
    ],
    "counts": {
     "fairway": 1,
@@ -411,8 +411,8 @@
     }
    },
    "elevation_ft": [
-    282,
-    403
+    284.4,
+    363.6
    ],
    "counts": {
     "fairway": 1,
@@ -447,8 +447,8 @@
     }
    },
    "elevation_ft": [
-    286,
-    391
+    288.8,
+    388.9
    ],
    "counts": {
     "fairway": 2,
@@ -481,8 +481,8 @@
     }
    },
    "elevation_ft": [
-    301,
-    421
+    300.6,
+    421.3
    ],
    "counts": {
     "fairway": 1,
@@ -518,8 +518,8 @@
     }
    },
    "elevation_ft": [
-    306,
-    453
+    307.5,
+    453.0
    ],
    "counts": {
     "fairway": 1,
@@ -552,8 +552,8 @@
     }
    },
    "elevation_ft": [
-    204,
-    405
+    213.7,
+    347.8
    ],
    "counts": {
     "fairway": 1,
@@ -588,8 +588,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    213.7,
+    314.4
    ],
    "counts": {
     "fairway": 1,
@@ -622,8 +622,8 @@
     }
    },
    "elevation_ft": [
-    220,
-    352
+    219.9,
+    329.4
    ],
    "counts": {
     "fairway": 1,
@@ -658,8 +658,8 @@
     }
    },
    "elevation_ft": [
-    282,
-    469
+    282.3,
+    364.8
    ],
    "counts": {
     "fairway": 1,
@@ -671,5 +671,7 @@
    },
    "osm_hole_way": "1163679177"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

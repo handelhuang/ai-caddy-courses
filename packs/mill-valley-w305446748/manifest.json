@@ -3,7 +3,7 @@
  "course_id": "mill-valley-w305446748",
  "name": "Mill Valley Golf Course",
  "city": "Mill Valley",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:23:07",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    69,
-    282
+    73.0,
+    239.3
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    76,
-    304
+    87.2,
+    263.8
    ],
    "counts": {
     "fairway": 3,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    106,
-    271
+    106.2,
+    245.3
    ],
    "counts": {
     "fairway": 1,
@@ -163,8 +163,8 @@
     }
    },
    "elevation_ft": [
-    130,
-    473
+    130.8,
+    329.3
    ],
    "counts": {
     "fairway": 2,
@@ -199,8 +199,8 @@
     }
    },
    "elevation_ft": [
-    120,
-    339
+    121.1,
+    276.2
    ],
    "counts": {
     "fairway": 2,
@@ -235,8 +235,8 @@
     }
    },
    "elevation_ft": [
-    93,
-    230
+    98.8,
+    230.2
    ],
    "counts": {
     "fairway": 1,
@@ -269,8 +269,8 @@
     }
    },
    "elevation_ft": [
-    121,
-    281
+    122.9,
+    242.6
    ],
    "counts": {
     "fairway": 0,
@@ -303,8 +303,8 @@
     }
    },
    "elevation_ft": [
-    99,
-    341
+    100.9,
+    339.7
    ],
    "counts": {
     "fairway": 1,
@@ -337,8 +337,8 @@
     }
    },
    "elevation_ft": [
-    69,
-    238
+    71.8,
+    205.3
    ],
    "counts": {
     "fairway": 1,
@@ -350,5 +350,7 @@
    },
    "osm_hole_way": "686690807"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

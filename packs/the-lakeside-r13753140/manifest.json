@@ -3,7 +3,7 @@
  "course_id": "the-lakeside-r13753140",
  "name": "The Lakeside",
  "city": "Danville, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:29:56",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    731,
-    861
+    732.5,
+    815.8
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    742,
-    842
+    756.9,
+    838.8
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    670,
-    940
+    669.9,
+    839.9
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    626,
-    695
+    627.3,
+    667.8
    ],
    "counts": {
     "fairway": 1,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    627,
-    804
+    631.5,
+    811.1
    ],
    "counts": {
     "fairway": 2,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    626,
-    858
+    626.7,
+    860.2
    ],
    "counts": {
     "fairway": 1,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    629,
-    694
+    628.9,
+    710.9
    ],
    "counts": {
     "fairway": 1,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    640,
-    749
+    646.0,
+    738.5
    ],
    "counts": {
     "fairway": 1,
@@ -329,8 +329,8 @@
     }
    },
    "elevation_ft": [
-    668,
-    794
+    679.0,
+    739.5
    ],
    "counts": {
     "fairway": 1,
@@ -363,8 +363,8 @@
     }
    },
    "elevation_ft": [
-    706,
-    755
+    708.6,
+    743.0
    ],
    "counts": {
     "fairway": 1,
@@ -397,8 +397,8 @@
     }
    },
    "elevation_ft": [
-    708,
-    812
+    708.5,
+    797.4
    ],
    "counts": {
     "fairway": 1,
@@ -433,8 +433,8 @@
     }
    },
    "elevation_ft": [
-    750,
-    960
+    807.5,
+    947.3
    ],
    "counts": {
     "fairway": 1,
@@ -467,8 +467,8 @@
     }
    },
    "elevation_ft": [
-    786,
-    1024
+    789.4,
+    1004.7
    ],
    "counts": {
     "fairway": 1,
@@ -501,8 +501,8 @@
     }
    },
    "elevation_ft": [
-    739,
-    1070
+    749.9,
+    877.5
    ],
    "counts": {
     "fairway": 2,
@@ -535,8 +535,8 @@
     }
    },
    "elevation_ft": [
-    776,
-    1219
+    785.9,
+    1028.3
    ],
    "counts": {
     "fairway": 1,
@@ -569,8 +569,8 @@
     }
    },
    "elevation_ft": [
-    804,
-    993
+    804.2,
+    994.1
    ],
    "counts": {
     "fairway": 1,
@@ -603,8 +603,8 @@
     }
    },
    "elevation_ft": [
-    740,
-    992
+    757.8,
+    934.6
    ],
    "counts": {
     "fairway": 1,
@@ -637,8 +637,8 @@
     }
    },
    "elevation_ft": [
-    723,
-    937
+    726.7,
+    907.3
    ],
    "counts": {
     "fairway": 1,
@@ -650,5 +650,7 @@
    },
    "osm_hole_way": "1156547790"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

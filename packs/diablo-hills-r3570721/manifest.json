@@ -3,7 +3,7 @@
  "course_id": "diablo-hills-r3570721",
  "name": "Diablo Hills Golf Course",
  "city": "Walnut Creek, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:30:33",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    134,
-    228
+    154.1,
+    207.5
    ],
    "counts": {
     "fairway": 0,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    162,
-    278
+    179.1,
+    269.6
    ],
    "counts": {
     "fairway": 0,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    203,
-    286
+    214.5,
+    277.8
    ],
    "counts": {
     "fairway": 0,
@@ -168,8 +168,8 @@
     }
    },
    "elevation_ft": [
-    197,
-    286
+    200.0,
+    285.5
    ],
    "counts": {
     "fairway": 0,
@@ -205,8 +205,8 @@
     }
    },
    "elevation_ft": [
-    151,
-    291
+    168.5,
+    291.1
    ],
    "counts": {
     "fairway": 0,
@@ -242,8 +242,8 @@
     }
    },
    "elevation_ft": [
-    150,
-    214
+    150.3,
+    214.1
    ],
    "counts": {
     "fairway": 0,
@@ -278,8 +278,8 @@
     }
    },
    "elevation_ft": [
-    136,
-    211
+    136.6,
+    211.3
    ],
    "counts": {
     "fairway": 0,
@@ -316,8 +316,8 @@
     }
    },
    "elevation_ft": [
-    166,
-    285
+    185.2,
+    285.5
    ],
    "counts": {
     "fairway": 0,
@@ -352,8 +352,8 @@
     }
    },
    "elevation_ft": [
-    130,
-    235
+    134.3,
+    236.7
    ],
    "counts": {
     "fairway": 0,
@@ -365,5 +365,7 @@
    },
    "osm_hole_way": "1357135211"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

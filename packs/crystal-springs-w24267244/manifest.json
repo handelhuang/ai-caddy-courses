@@ -3,7 +3,7 @@
  "course_id": "crystal-springs-w24267244",
  "name": "Crystal Springs Golf Course",
  "city": "Burlingame, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:48:47",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    604,
-    687
+    612.6,
+    687.0
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    584,
-    700
+    584.1,
+    701.3
    ],
    "counts": {
     "fairway": 1,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    582,
-    685
+    580.3,
+    694.6
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    547,
-    665
+    565.4,
+    662.3
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    510,
-    665
+    532.9,
+    653.9
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    396,
-    654
+    441.5,
+    653.8
    ],
    "counts": {
     "fairway": 1,
@@ -263,8 +263,8 @@
     }
    },
    "elevation_ft": [
-    462,
-    623
+    482.2,
+    602.6
    ],
    "counts": {
     "fairway": 1,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    523,
-    649
+    526.7,
+    645.3
    ],
    "counts": {
     "fairway": 1,
@@ -331,8 +331,8 @@
     }
    },
    "elevation_ft": [
-    518,
-    680
+    525.0,
+    667.6
    ],
    "counts": {
     "fairway": 1,
@@ -365,8 +365,8 @@
     }
    },
    "elevation_ft": [
-    484,
-    686
+    507.0,
+    686.4
    ],
    "counts": {
     "fairway": 1,
@@ -399,8 +399,8 @@
     }
    },
    "elevation_ft": [
-    514,
-    622
+    534.8,
+    620.5
    ],
    "counts": {
     "fairway": 1,
@@ -433,8 +433,8 @@
     }
    },
    "elevation_ft": [
-    482,
-    650
+    521.6,
+    650.5
    ],
    "counts": {
     "fairway": 1,
@@ -467,8 +467,8 @@
     }
    },
    "elevation_ft": [
-    564,
-    650
+    572.6,
+    650.3
    ],
    "counts": {
     "fairway": 1,
@@ -501,8 +501,8 @@
     }
    },
    "elevation_ft": [
-    447,
-    650
+    466.8,
+    645.7
    ],
    "counts": {
     "fairway": 1,
@@ -535,8 +535,8 @@
     }
    },
    "elevation_ft": [
-    520,
-    608
+    540.2,
+    611.9
    ],
    "counts": {
     "fairway": 1,
@@ -569,8 +569,8 @@
     }
    },
    "elevation_ft": [
-    544,
-    628
+    562.6,
+    630.0
    ],
    "counts": {
     "fairway": 1,
@@ -603,8 +603,8 @@
     }
    },
    "elevation_ft": [
-    572,
-    628
+    576.1,
+    628.5
    ],
    "counts": {
     "fairway": 1,
@@ -637,8 +637,8 @@
     }
    },
    "elevation_ft": [
-    563,
-    687
+    588.8,
+    682.3
    ],
    "counts": {
     "fairway": 1,
@@ -650,5 +650,7 @@
    },
    "osm_hole_way": "820248205"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

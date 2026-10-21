@@ -3,7 +3,7 @@
  "course_id": "the-course-at-wente-vineyards-w255709753",
  "name": "The Course at Wente Vineyards",
  "city": "Livermore, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:28:44",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    519,
-    691
+    528.5,
+    667.6
    ],
    "counts": {
     "fairway": 1,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    535,
-    609
+    535.9,
+    573.0
    ],
    "counts": {
     "fairway": 2,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    540,
-    594
+    541.4,
+    582.8
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    536,
-    720
+    542.6,
+    610.8
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    522,
-    763
+    545.7,
+    691.3
    ],
    "counts": {
     "fairway": 1,
@@ -231,8 +231,8 @@
     }
    },
    "elevation_ft": [
-    558,
-    734
+    560.3,
+    716.7
    ],
    "counts": {
     "fairway": 2,
@@ -265,8 +265,8 @@
     }
    },
    "elevation_ft": [
-    528,
-    712
+    527.7,
+    711.6
    ],
    "counts": {
     "fairway": 1,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    513,
-    690
+    516.2,
+    661.8
    ],
    "counts": {
     "fairway": 2,
@@ -336,8 +336,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    511.0,
+    682.8
    ],
    "counts": {
     "fairway": 1,
@@ -370,8 +370,8 @@
     }
    },
    "elevation_ft": [
-    552,
-    819
+    598.6,
+    772.6
    ],
    "counts": {
     "fairway": 2,
@@ -404,8 +404,8 @@
     }
    },
    "elevation_ft": [
-    596,
-    815
+    629.1,
+    788.6
    ],
    "counts": {
     "fairway": 1,
@@ -438,8 +438,8 @@
     }
    },
    "elevation_ft": [
-    503,
-    804
+    548.3,
+    772.8
    ],
    "counts": {
     "fairway": 2,
@@ -472,8 +472,8 @@
     }
    },
    "elevation_ft": [
-    498,
-    754
+    525.7,
+    752.7
    ],
    "counts": {
     "fairway": 1,
@@ -506,8 +506,8 @@
     }
    },
    "elevation_ft": [
-    494,
-    622
+    497.9,
+    622.4
    ],
    "counts": {
     "fairway": 1,
@@ -540,8 +540,8 @@
     }
    },
    "elevation_ft": [
-    492,
-    705
+    495.9,
+    589.1
    ],
    "counts": {
     "fairway": 2,
@@ -574,8 +574,8 @@
     }
    },
    "elevation_ft": [
-    506,
-    733
+    505.5,
+    672.2
    ],
    "counts": {
     "fairway": 2,
@@ -608,8 +608,8 @@
     }
    },
    "elevation_ft": [
-    509,
-    580
+    508.7,
+    583.9
    ],
    "counts": {
     "fairway": 1,
@@ -642,8 +642,8 @@
     }
    },
    "elevation_ft": [
-    514,
-    539
+    513.7,
+    536.7
    ],
    "counts": {
     "fairway": 1,
@@ -655,5 +655,7 @@
    },
    "osm_hole_way": "759437280"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

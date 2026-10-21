@@ -3,7 +3,7 @@
  "course_id": "ruby-hill-r317360",
  "name": "Ruby Hill Country Club",
  "city": "Dr Pleasanton, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T06:22:26",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    474,
-    556
+    474.3,
+    555.4
    ],
    "counts": {
     "fairway": 1,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    432,
-    532
+    445.4,
+    500.2
    ],
    "counts": {
     "fairway": 1,
@@ -132,8 +132,8 @@
     }
    },
    "elevation_ft": [
-    427,
-    460
+    428.3,
+    459.2
    ],
    "counts": {
     "fairway": 1,
@@ -168,8 +168,8 @@
     }
    },
    "elevation_ft": [
-    419,
-    483
+    428.3,
+    471.6
    ],
    "counts": {
     "fairway": 1,
@@ -204,8 +204,8 @@
     }
    },
    "elevation_ft": [
-    419,
-    471
+    419.4,
+    470.5
    ],
    "counts": {
     "fairway": 1,
@@ -240,8 +240,8 @@
     }
    },
    "elevation_ft": [
-    419,
-    449
+    419.4,
+    448.6
    ],
    "counts": {
     "fairway": 1,
@@ -276,8 +276,8 @@
     }
    },
    "elevation_ft": [
-    419,
-    489
+    424.9,
+    486.0
    ],
    "counts": {
     "fairway": 1,
@@ -312,8 +312,8 @@
     }
    },
    "elevation_ft": [
-    462,
-    557
+    467.0,
+    535.3
    ],
    "counts": {
     "fairway": 1,
@@ -348,8 +348,8 @@
     }
    },
    "elevation_ft": [
-    496,
-    611
+    518.7,
+    574.4
    ],
    "counts": {
     "fairway": 1,
@@ -385,8 +385,8 @@
     }
    },
    "elevation_ft": [
-    453,
-    592
+    468.7,
+    556.0
    ],
    "counts": {
     "fairway": 1,
@@ -421,8 +421,8 @@
     }
    },
    "elevation_ft": [
-    438,
-    502
+    439.6,
+    493.5
    ],
    "counts": {
     "fairway": 1,
@@ -457,8 +457,8 @@
     }
    },
    "elevation_ft": [
-    432,
-    507
+    436.7,
+    490.1
    ],
    "counts": {
     "fairway": 1,
@@ -493,8 +493,8 @@
     }
    },
    "elevation_ft": [
-    455,
-    571
+    461.4,
+    560.9
    ],
    "counts": {
     "fairway": 2,
@@ -530,8 +530,8 @@
     }
    },
    "elevation_ft": [
-    504,
-    568
+    504.5,
+    563.0
    ],
    "counts": {
     "fairway": 1,
@@ -566,8 +566,8 @@
     }
    },
    "elevation_ft": [
-    496,
-    618
+    518.0,
+    611.6
    ],
    "counts": {
     "fairway": 2,
@@ -602,8 +602,8 @@
     }
    },
    "elevation_ft": [
-    564,
-    719
+    610.1,
+    676.9
    ],
    "counts": {
     "fairway": 1,
@@ -638,8 +638,8 @@
     }
    },
    "elevation_ft": [
-    620,
-    726
+    631.4,
+    717.2
    ],
    "counts": {
     "fairway": 1,
@@ -674,8 +674,8 @@
     }
    },
    "elevation_ft": [
-    523,
-    676
+    523.4,
+    675.9
    ],
    "counts": {
     "fairway": 2,
@@ -687,5 +687,7 @@
    },
    "osm_hole_way": "612069283"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

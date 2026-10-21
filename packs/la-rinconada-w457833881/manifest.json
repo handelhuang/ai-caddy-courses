@@ -3,7 +3,7 @@
  "course_id": "la-rinconada-w457833881",
  "name": "La Rinconada Country Club",
  "city": "",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:32:31",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    258,
-    367
+    266.0,
+    358.8
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    257,
-    341
+    261.3,
+    312.6
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    266,
-    352
+    265.5,
+    350.6
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    273,
-    391
+    273.6,
+    390.5
    ],
    "counts": {
     "fairway": 1,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    332,
-    391
+    338.1,
+    390.6
    ],
    "counts": {
     "fairway": 1,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    264,
-    382
+    274.5,
+    374.5
    ],
    "counts": {
     "fairway": 1,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    261,
-    341
+    271.3,
+    322.7
    ],
    "counts": {
     "fairway": 1,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    261,
-    361
+    268.3,
+    351.0
    ],
    "counts": {
     "fairway": 2,
@@ -329,8 +329,8 @@
     }
    },
    "elevation_ft": [
-    287,
-    379
+    287.4,
+    378.7
    ],
    "counts": {
     "fairway": 1,
@@ -363,8 +363,8 @@
     }
    },
    "elevation_ft": [
-    311,
-    383
+    310.6,
+    382.5
    ],
    "counts": {
     "fairway": 1,
@@ -397,8 +397,8 @@
     }
    },
    "elevation_ft": [
-    333,
-    382
+    340.1,
+    383.1
    ],
    "counts": {
     "fairway": 1,
@@ -431,8 +431,8 @@
     }
    },
    "elevation_ft": [
-    349,
-    401
+    348.8,
+    397.3
    ],
    "counts": {
     "fairway": 1,
@@ -467,8 +467,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    374.9,
+    409.9
    ],
    "counts": {
     "fairway": 1,
@@ -501,8 +501,8 @@
     }
    },
    "elevation_ft": [
-    341,
-    408
+    344.8,
+    404.3
    ],
    "counts": {
     "fairway": 1,
@@ -535,8 +535,8 @@
     }
    },
    "elevation_ft": [
-    340,
-    406
+    341.7,
+    401.6
    ],
    "counts": {
     "fairway": 1,
@@ -571,8 +571,8 @@
     }
    },
    "elevation_ft": [
-    353,
-    397
+    362.3,
+    397.2
    ],
    "counts": {
     "fairway": 1,
@@ -605,8 +605,8 @@
     }
    },
    "elevation_ft": [
-    352,
-    393
+    352.4,
+    392.7
    ],
    "counts": {
     "fairway": 1,
@@ -639,8 +639,8 @@
     }
    },
    "elevation_ft": [
-    340,
-    382
+    339.9,
+    381.0
    ],
    "counts": {
     "fairway": 1,
@@ -652,5 +652,7 @@
    },
    "osm_hole_way": "804528693"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

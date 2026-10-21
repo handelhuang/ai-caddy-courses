@@ -3,7 +3,7 @@
  "course_id": "stonetree-r3570852",
  "name": "StoneTree Golf Club",
  "city": "Novato, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:54:41",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    70
+    -1.9,
+    68.8
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    89
+    -3.4,
+    89.1
    ],
    "counts": {
     "fairway": 2,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    8
+    -2.7,
+    7.6
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    8
+    -2.6,
+    8.7
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    10
+    -2.7,
+    8.4
    ],
    "counts": {
     "fairway": 3,
@@ -231,8 +231,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    16
+    -2.6,
+    14.5
    ],
    "counts": {
     "fairway": 2,
@@ -267,8 +267,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    163
+    -0.9,
+    164.1
    ],
    "counts": {
     "fairway": 1,
@@ -301,8 +301,8 @@
     }
    },
    "elevation_ft": [
-    4,
-    158
+    3.7,
+    156.3
    ],
    "counts": {
     "fairway": 0,
@@ -335,8 +335,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    140
+    1.3,
+    154.3
    ],
    "counts": {
     "fairway": 2,
@@ -369,8 +369,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    29
+    -1.5,
+    26.6
    ],
    "counts": {
     "fairway": 0,
@@ -403,8 +403,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    29
+    -2.4,
+    13.9
    ],
    "counts": {
     "fairway": 2,
@@ -439,8 +439,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    87
+    -2.4,
+    14.7
    ],
    "counts": {
     "fairway": 2,
@@ -473,8 +473,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    106
+    3.6,
+    101.8
    ],
    "counts": {
     "fairway": 1,
@@ -507,8 +507,8 @@
     }
    },
    "elevation_ft": [
-    6,
-    189
+    8.5,
+    189.1
    ],
    "counts": {
     "fairway": 1,
@@ -543,8 +543,8 @@
     }
    },
    "elevation_ft": [
-    24,
-    177
+    28.1,
+    174.7
    ],
    "counts": {
     "fairway": 1,
@@ -577,8 +577,8 @@
     }
    },
    "elevation_ft": [
-    2,
-    190
+    1.9,
+    127.7
    ],
    "counts": {
     "fairway": 1,
@@ -611,8 +611,8 @@
     }
    },
    "elevation_ft": [
-    1,
-    115
+    1.3,
+    89.2
    ],
    "counts": {
     "fairway": 0,
@@ -645,8 +645,8 @@
     }
    },
    "elevation_ft": [
-    -3,
-    26
+    -2.6,
+    21.8
    ],
    "counts": {
     "fairway": 3,
@@ -658,5 +658,7 @@
    },
    "osm_hole_way": "697679473"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

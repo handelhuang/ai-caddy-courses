@@ -3,7 +3,7 @@
  "course_id": "coyote-creek-golf-club-valley-w1417622153",
  "name": "Coyote Creek Golf Club Valley Course",
  "city": "Morgan Hill, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:42:59",
  "verified": false,
  "sources": {
@@ -60,8 +60,8 @@
     }
    },
    "elevation_ft": [
-    321,
-    376
+    323.7,
+    351.2
    ],
    "counts": {
     "fairway": 1,
@@ -94,8 +94,8 @@
     }
    },
    "elevation_ft": [
-    298,
-    403
+    297.9,
+    374.1
    ],
    "counts": {
     "fairway": 1,
@@ -131,8 +131,8 @@
     }
    },
    "elevation_ft": [
-    365,
-    679
+    373.7,
+    514.7
    ],
    "counts": {
     "fairway": 2,
@@ -169,8 +169,8 @@
     }
    },
    "elevation_ft": [
-    372,
-    701
+    380.6,
+    574.2
    ],
    "counts": {
     "fairway": 1,
@@ -203,8 +203,8 @@
     }
    },
    "elevation_ft": [
-    275,
-    310
+    275.7,
+    309.3
    ],
    "counts": {
     "fairway": 1,
@@ -237,8 +237,8 @@
     }
    },
    "elevation_ft": [
-    281,
-    354
+    285.8,
+    332.4
    ],
    "counts": {
     "fairway": 2,
@@ -271,8 +271,8 @@
     }
    },
    "elevation_ft": [
-    293,
-    318
+    293.2,
+    314.8
    ],
    "counts": {
     "fairway": 1,
@@ -305,8 +305,8 @@
     }
    },
    "elevation_ft": [
-    293,
-    337
+    293.4,
+    337.5
    ],
    "counts": {
     "fairway": 1,
@@ -341,8 +341,8 @@
     }
    },
    "elevation_ft": [
-    323,
-    433
+    325.8,
+    368.9
    ],
    "counts": {
     "fairway": 2,
@@ -375,8 +375,8 @@
     }
    },
    "elevation_ft": [
-    319,
-    386
+    321.6,
+    369.7
    ],
    "counts": {
     "fairway": 1,
@@ -411,8 +411,8 @@
     }
    },
    "elevation_ft": [
-    316,
-    436
+    316.6,
+    387.7
    ],
    "counts": {
     "fairway": 1,
@@ -447,8 +447,8 @@
     }
    },
    "elevation_ft": [
-    320,
-    446
+    329.2,
+    386.4
    ],
    "counts": {
     "fairway": 2,
@@ -484,8 +484,8 @@
     }
    },
    "elevation_ft": [
-    318,
-    358
+    319.5,
+    347.4
    ],
    "counts": {
     "fairway": 1,
@@ -518,8 +518,8 @@
     }
    },
    "elevation_ft": [
-    272,
-    300
+    271.0,
+    299.2
    ],
    "counts": {
     "fairway": 1,
@@ -552,8 +552,8 @@
     }
    },
    "elevation_ft": [
-    284,
-    322
+    284.4,
+    318.3
    ],
    "counts": {
     "fairway": 1,
@@ -588,8 +588,8 @@
     }
    },
    "elevation_ft": [
-    302,
-    362
+    312.2,
+    357.9
    ],
    "counts": {
     "fairway": 1,
@@ -625,8 +625,8 @@
     }
    },
    "elevation_ft": [
-    294,
-    352
+    296.9,
+    351.2
    ],
    "counts": {
     "fairway": 2,
@@ -661,8 +661,8 @@
     }
    },
    "elevation_ft": [
-    293,
-    338
+    306.4,
+    330.1
    ],
    "counts": {
     "fairway": 2,
@@ -674,5 +674,7 @@
    },
    "osm_hole_way": "1188219259"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

@@ -3,7 +3,7 @@
  "course_id": "mcinnis-w265867895",
  "name": "McInnis Golf Course",
  "city": "San Rafael, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:24:10",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    -4,
-    51
+    0.1,
+    30.8
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    4,
-    30
+    7.7,
+    23.0
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    38
+    0.9,
+    22.9
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    27
+    0.1,
+    27.5
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    19
+    0.3,
+    18.6
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    62
+    0.3,
+    89.9
    ],
    "counts": {
     "fairway": 1,
@@ -263,8 +263,8 @@
     }
    },
    "elevation_ft": [
-    4,
-    102
+    8.2,
+    102.0
    ],
    "counts": {
     "fairway": 1,
@@ -299,8 +299,8 @@
     }
    },
    "elevation_ft": [
-    10,
-    143
+    9.9,
+    137.6
    ],
    "counts": {
     "fairway": 1,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    14,
-    150
+    11.1,
+    149.4
    ],
    "counts": {
     "fairway": 1,
@@ -346,5 +346,7 @@
    },
    "osm_hole_way": "1221886865"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

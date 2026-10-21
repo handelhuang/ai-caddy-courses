@@ -3,7 +3,7 @@
  "course_id": "tilden-park-w45146686",
  "name": "Tilden Park Golf Course",
  "city": "Berkeley, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:33:36",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    948,
-    1312
+    1019.9,
+    1266.4
    ],
    "counts": {
     "fairway": 1,
@@ -95,8 +95,8 @@
     }
    },
    "elevation_ft": [
-    1005,
-    1269
+    1022.1,
+    1270.5
    ],
    "counts": {
     "fairway": 1,
@@ -129,8 +129,8 @@
     }
    },
    "elevation_ft": [
-    851,
-    1278
+    912.0,
+    1201.1
    ],
    "counts": {
     "fairway": 2,
@@ -165,8 +165,8 @@
     }
    },
    "elevation_ft": [
-    886,
-    1006
+    912.3,
+    972.3
    ],
    "counts": {
     "fairway": 1,
@@ -199,8 +199,8 @@
     }
    },
    "elevation_ft": [
-    923,
-    1048
+    931.9,
+    1045.5
    ],
    "counts": {
     "fairway": 2,
@@ -233,8 +233,8 @@
     }
    },
    "elevation_ft": [
-    936,
-    1087
+    944.1,
+    1041.4
    ],
    "counts": {
     "fairway": 1,
@@ -267,8 +267,8 @@
     }
    },
    "elevation_ft": [
-    909,
-    1002
+    921.9,
+    998.2
    ],
    "counts": {
     "fairway": 1,
@@ -301,8 +301,8 @@
     }
    },
    "elevation_ft": [
-    886,
-    1138
+    924.7,
+    1040.4
    ],
    "counts": {
     "fairway": 1,
@@ -337,8 +337,8 @@
     }
    },
    "elevation_ft": [
-    950,
-    1229
+    978.4,
+    1093.2
    ],
    "counts": {
     "fairway": 3,
@@ -373,8 +373,8 @@
     }
    },
    "elevation_ft": [
-    964,
-    1215
+    992.2,
+    1085.8
    ],
    "counts": {
     "fairway": 2,
@@ -407,8 +407,8 @@
     }
    },
    "elevation_ft": [
-    979,
-    1091
+    976.3,
+    1061.4
    ],
    "counts": {
     "fairway": 1,
@@ -443,8 +443,8 @@
     }
    },
    "elevation_ft": [
-    994,
-    1162
+    991.6,
+    1130.1
    ],
    "counts": {
     "fairway": 2,
@@ -479,8 +479,8 @@
     }
    },
    "elevation_ft": [
-    970,
-    1318
+    1001.5,
+    1111.0
    ],
    "counts": {
     "fairway": 1,
@@ -513,8 +513,8 @@
     }
    },
    "elevation_ft": [
-    1000,
-    1427
+    1032.6,
+    1217.0
    ],
    "counts": {
     "fairway": 2,
@@ -549,8 +549,8 @@
     }
    },
    "elevation_ft": [
-    1025,
-    1427
+    1057.8,
+    1250.3
    ],
    "counts": {
     "fairway": 2,
@@ -583,8 +583,8 @@
     }
    },
    "elevation_ft": [
-    1069,
-    1301
+    1071.3,
+    1228.0
    ],
    "counts": {
     "fairway": 1,
@@ -619,8 +619,8 @@
     }
    },
    "elevation_ft": [
-    1021,
-    1453
+    1046.6,
+    1186.9
    ],
    "counts": {
     "fairway": 2,
@@ -653,8 +653,8 @@
     }
    },
    "elevation_ft": [
-    978,
-    1378
+    1021.5,
+    1164.8
    ],
    "counts": {
     "fairway": 1,
@@ -666,5 +666,7 @@
    },
    "osm_hole_way": "823636220"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

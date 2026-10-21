@@ -3,7 +3,7 @@
  "course_id": "rooster-run-w404432595",
  "name": "Rooster Run Golf Club",
  "city": "Petaluma, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:45:26",
  "verified": false,
  "sources": {
@@ -62,8 +62,8 @@
     }
    },
    "elevation_ft": [
-    85,
-    115
+    89.3,
+    116.1
    ],
    "counts": {
     "fairway": 0,
@@ -101,8 +101,8 @@
     }
    },
    "elevation_ft": [
-    71,
-    111
+    76.9,
+    103.7
    ],
    "counts": {
     "fairway": 0,
@@ -140,8 +140,8 @@
     }
    },
    "elevation_ft": [
-    75,
-    95
+    77.3,
+    93.1
    ],
    "counts": {
     "fairway": 0,
@@ -179,8 +179,8 @@
     }
    },
    "elevation_ft": [
-    71,
-    91
+    72.2,
+    91.7
    ],
    "counts": {
     "fairway": 0,
@@ -218,8 +218,8 @@
     }
    },
    "elevation_ft": [
-    67,
-    92
+    72.1,
+    89.5
    ],
    "counts": {
     "fairway": 0,
@@ -256,8 +256,8 @@
     }
    },
    "elevation_ft": [
-    74,
-    92
+    74.5,
+    89.4
    ],
    "counts": {
     "fairway": 0,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    70,
-    100
+    70.2,
+    96.1
    ],
    "counts": {
     "fairway": 0,
@@ -333,8 +333,8 @@
     }
    },
    "elevation_ft": [
-    76,
-    101
+    78.5,
+    98.5
    ],
    "counts": {
     "fairway": 0,
@@ -372,8 +372,8 @@
     }
    },
    "elevation_ft": [
-    75,
-    115
+    82.6,
+    107.7
    ],
    "counts": {
     "fairway": 0,
@@ -411,8 +411,8 @@
     }
    },
    "elevation_ft": [
-    78,
-    111
+    81.7,
+    106.3
    ],
    "counts": {
     "fairway": 0,
@@ -449,8 +449,8 @@
     }
    },
    "elevation_ft": [
-    82,
-    107
+    84.5,
+    106.8
    ],
    "counts": {
     "fairway": 0,
@@ -488,8 +488,8 @@
     }
    },
    "elevation_ft": [
-    89,
-    115
+    88.9,
+    113.1
    ],
    "counts": {
     "fairway": 0,
@@ -527,8 +527,8 @@
     }
    },
    "elevation_ft": [
-    89,
-    116
+    89.5,
+    115.7
    ],
    "counts": {
     "fairway": 0,
@@ -566,8 +566,8 @@
     }
    },
    "elevation_ft": [
-    82,
-    116
+    82.7,
+    115.6
    ],
    "counts": {
     "fairway": 0,
@@ -604,8 +604,8 @@
     }
    },
    "elevation_ft": [
-    79,
-    107
+    82.3,
+    102.2
    ],
    "counts": {
     "fairway": 0,
@@ -643,8 +643,8 @@
     }
    },
    "elevation_ft": [
-    88,
-    118
+    88.6,
+    113.4
    ],
    "counts": {
     "fairway": 0,
@@ -682,8 +682,8 @@
     }
    },
    "elevation_ft": [
-    92,
-    121
+    92.4,
+    115.6
    ],
    "counts": {
     "fairway": 0,
@@ -721,8 +721,8 @@
     }
    },
    "elevation_ft": [
-    86,
-    113
+    86.6,
+    114.2
    ],
    "counts": {
     "fairway": 0,
@@ -734,5 +734,7 @@
    },
    "osm_hole_way": "1211796459"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

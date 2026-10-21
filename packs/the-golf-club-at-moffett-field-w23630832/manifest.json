@@ -3,7 +3,7 @@
  "course_id": "the-golf-club-at-moffett-field-w23630832",
  "name": "The Golf Club at Moffett Field",
  "city": "Moffett Field, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:15:25",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    3,
-    20
+    4.0,
+    17.2
    ],
    "counts": {
     "fairway": 1,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    12
+    -0.3,
+    11.5
    ],
    "counts": {
     "fairway": 1,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    19
+    -1.9,
+    16.0
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    28
+    -1.9,
+    13.9
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    21
+    -2.2,
+    20.8
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    16
+    -1.9,
+    15.9
    ],
    "counts": {
     "fairway": 1,
@@ -263,8 +263,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    16
+    -1.1,
+    16.0
    ],
    "counts": {
     "fairway": 1,
@@ -297,8 +297,8 @@
     }
    },
    "elevation_ft": [
-    -1,
-    16
+    -0.9,
+    15.3
    ],
    "counts": {
     "fairway": 1,
@@ -331,8 +331,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    17
+    0.7,
+    17.1
    ],
    "counts": {
     "fairway": 1,
@@ -365,8 +365,8 @@
     }
    },
    "elevation_ft": [
-    3,
-    15
+    3.7,
+    14.1
    ],
    "counts": {
     "fairway": 1,
@@ -401,8 +401,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    21
+    -1.9,
+    21.5
    ],
    "counts": {
     "fairway": 2,
@@ -435,8 +435,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    28
+    -1.3,
+    28.1
    ],
    "counts": {
     "fairway": 1,
@@ -471,8 +471,8 @@
     }
    },
    "elevation_ft": [
-    1,
-    17
+    1.4,
+    17.4
    ],
    "counts": {
     "fairway": 1,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    1,
-    17
+    3.3,
+    17.3
    ],
    "counts": {
     "fairway": 1,
@@ -539,8 +539,8 @@
     }
    },
    "elevation_ft": [
-    1,
-    28
+    1.4,
+    23.0
    ],
    "counts": {
     "fairway": 1,
@@ -573,8 +573,8 @@
     }
    },
    "elevation_ft": [
-    -2,
-    28
+    -0.5,
+    28.2
    ],
    "counts": {
     "fairway": 1,
@@ -609,8 +609,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    -1.7,
+    21.7
    ],
    "counts": {
     "fairway": 1,
@@ -643,8 +643,8 @@
     }
    },
    "elevation_ft": [
-    2,
-    22
+    2.4,
+    22.3
    ],
    "counts": {
     "fairway": 1,
@@ -656,5 +656,7 @@
    },
    "osm_hole_way": "833614686"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }

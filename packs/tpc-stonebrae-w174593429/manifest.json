@@ -3,7 +3,7 @@
  "course_id": "tpc-stonebrae-w174593429",
  "name": "TPC Stonebrae",
  "city": "202, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:21:56",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    1259,
-    1438
+    1265.3,
+    1438.4
    ],
    "counts": {
     "fairway": 1,
@@ -96,8 +96,8 @@
     }
    },
    "elevation_ft": [
-    1159,
-    1416
+    1202.4,
+    1397.1
    ],
    "counts": {
     "fairway": 1,
@@ -130,8 +130,8 @@
     }
    },
    "elevation_ft": [
-    1263,
-    1351
+    1262.0,
+    1351.3
    ],
    "counts": {
     "fairway": 1,
@@ -166,8 +166,8 @@
     }
    },
    "elevation_ft": [
-    1162,
-    1321
+    1172.8,
+    1305.2
    ],
    "counts": {
     "fairway": 1,
@@ -202,8 +202,8 @@
     }
    },
    "elevation_ft": [
-    1124,
-    1301
+    1120.1,
+    1298.9
    ],
    "counts": {
     "fairway": 1,
@@ -238,8 +238,8 @@
     }
    },
    "elevation_ft": [
-    1154,
-    1416
+    1192.6,
+    1379.9
    ],
    "counts": {
     "fairway": 2,
@@ -274,8 +274,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    1259.5,
+    1358.0
    ],
    "counts": {
     "fairway": 1,
@@ -311,8 +311,8 @@
     }
    },
    "elevation_ft": [
-    1248,
-    1416
+    1275.9,
+    1401.4
    ],
    "counts": {
     "fairway": 1,
@@ -347,8 +347,8 @@
     }
    },
    "elevation_ft": [
-    1284,
-    1439
+    1296.8,
+    1438.5
    ],
    "counts": {
     "fairway": 1,
@@ -383,8 +383,8 @@
     }
    },
    "elevation_ft": [
-    1221,
-    1448
+    1228.7,
+    1448.4
    ],
    "counts": {
     "fairway": 2,
@@ -417,8 +417,8 @@
     }
    },
    "elevation_ft": [
-    1217,
-    1321
+    1227.8,
+    1312.9
    ],
    "counts": {
     "fairway": 1,
@@ -453,8 +453,8 @@
     }
    },
    "elevation_ft": [
-    1146,
-    1296
+    1152.9,
+    1296.6
    ],
    "counts": {
     "fairway": 2,
@@ -487,8 +487,8 @@
     }
    },
    "elevation_ft": [
-    1105,
-    1239
+    1116.4,
+    1228.3
    ],
    "counts": {
     "fairway": 1,
@@ -521,8 +521,8 @@
     }
    },
    "elevation_ft": [
-    1000,
-    1430
+    1139.2,
+    1345.9
    ],
    "counts": {
     "fairway": 1,
@@ -557,8 +557,8 @@
     }
    },
    "elevation_ft": [
-    1234,
-    1414
+    1241.2,
+    1389.7
    ],
    "counts": {
     "fairway": 1,
@@ -593,8 +593,8 @@
     }
    },
    "elevation_ft": [
-    1282,
-    1495
+    1352.1,
+    1486.7
    ],
    "counts": {
     "fairway": 1,
@@ -629,8 +629,8 @@
     }
    },
    "elevation_ft": [
-    1373,
-    1505
+    1386.7,
+    1501.8
    ],
    "counts": {
     "fairway": 1,
@@ -665,8 +665,8 @@
     }
    },
    "elevation_ft": [
-    1151,
-    1492
+    1401.7,
+    1505.1
    ],
    "counts": {
     "fairway": 2,
@@ -678,5 +678,7 @@
    },
    "osm_hole_way": "1182143447"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

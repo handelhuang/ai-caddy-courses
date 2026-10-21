@@ -3,7 +3,7 @@
  "course_id": "almaden-golf-and-r3569743",
  "name": "Almaden Golf and Country Club",
  "city": "San Jose, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:54:28",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    265,
-    360
+    289.3,
+    322.9
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    292,
-    364
+    292.5,
+    362.3
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    288,
-    399
+    300.5,
+    402.0
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    274,
-    395
+    275.4,
+    369.8
    ],
    "counts": {
     "fairway": 1,
@@ -197,8 +197,8 @@
     }
    },
    "elevation_ft": [
-    252,
-    301
+    252.3,
+    295.7
    ],
    "counts": {
     "fairway": 1,
@@ -233,8 +233,8 @@
     }
    },
    "elevation_ft": [
-    250,
-    272
+    250.2,
+    272.4
    ],
    "counts": {
     "fairway": 1,
@@ -269,8 +269,8 @@
     }
    },
    "elevation_ft": [
-    256,
-    295
+    258.1,
+    295.0
    ],
    "counts": {
     "fairway": 1,
@@ -303,8 +303,8 @@
     }
    },
    "elevation_ft": [
-    273,
-    306
+    277.5,
+    301.2
    ],
    "counts": {
     "fairway": 1,
@@ -339,8 +339,8 @@
     }
    },
    "elevation_ft": [
-    269,
-    326
+    284.0,
+    322.3
    ],
    "counts": {
     "fairway": 1,
@@ -373,8 +373,8 @@
     }
    },
    "elevation_ft": [
-    257,
-    323
+    278.7,
+    320.7
    ],
    "counts": {
     "fairway": 1,
@@ -409,8 +409,8 @@
     }
    },
    "elevation_ft": [
-    288,
-    328
+    292.8,
+    314.6
    ],
    "counts": {
     "fairway": 2,
@@ -446,8 +446,8 @@
     }
    },
    "elevation_ft": [
-    298,
-    349
+    297.8,
+    339.8
    ],
    "counts": {
     "fairway": 2,
@@ -480,8 +480,8 @@
     }
    },
    "elevation_ft": [
-    314,
-    372
+    316.6,
+    369.6
    ],
    "counts": {
     "fairway": 1,
@@ -516,8 +516,8 @@
     }
    },
    "elevation_ft": [
-    316,
-    459
+    337.2,
+    426.8
    ],
    "counts": {
     "fairway": 1,
@@ -552,8 +552,8 @@
     }
    },
    "elevation_ft": [
-    359,
-    432
+    363.4,
+    439.8
    ],
    "counts": {
     "fairway": 1,
@@ -588,8 +588,8 @@
     }
    },
    "elevation_ft": [
-    323,
-    511
+    345.9,
+    435.9
    ],
    "counts": {
     "fairway": 1,
@@ -624,8 +624,8 @@
     }
    },
    "elevation_ft": [
-    293,
-    406
+    297.9,
+    373.6
    ],
    "counts": {
     "fairway": 1,
@@ -658,8 +658,8 @@
     }
    },
    "elevation_ft": [
-    270,
-    364
+    291.5,
+    332.2
    ],
    "counts": {
     "fairway": 1,
@@ -671,5 +671,7 @@
    },
    "osm_hole_way": "1190272125"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

@@ -3,7 +3,7 @@
  "course_id": "golden-gate-park-w30903221",
  "name": "Golden Gate Park Golf Course",
  "city": "San Francisco, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:20:53",
  "verified": false,
  "sources": {
@@ -59,8 +59,8 @@
     }
    },
    "elevation_ft": [
-    57,
-    112
+    61.6,
+    112.3
    ],
    "counts": {
     "fairway": 1,
@@ -93,8 +93,8 @@
     }
    },
    "elevation_ft": [
-    63,
-    113
+    62.4,
+    112.3
    ],
    "counts": {
     "fairway": 2,
@@ -129,8 +129,8 @@
     }
    },
    "elevation_ft": [
-    59,
-    111
+    61.5,
+    110.9
    ],
    "counts": {
     "fairway": 2,
@@ -165,8 +165,8 @@
     }
    },
    "elevation_ft": [
-    64,
-    113
+    63.4,
+    111.9
    ],
    "counts": {
     "fairway": 2,
@@ -199,8 +199,8 @@
     }
    },
    "elevation_ft": [
-    53,
-    112
+    52.9,
+    112.5
    ],
    "counts": {
     "fairway": 4,
@@ -235,8 +235,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    49.0,
+    112.5
    ],
    "counts": {
     "fairway": 2,
@@ -269,8 +269,8 @@
     }
    },
    "elevation_ft": [
-    63,
-    112
+    66.2,
+    112.8
    ],
    "counts": {
     "fairway": 1,
@@ -303,8 +303,8 @@
     }
    },
    "elevation_ft": [
-    53,
-    104
+    52.8,
+    97.6
    ],
    "counts": {
     "fairway": 2,
@@ -337,8 +337,8 @@
     }
    },
    "elevation_ft": [
-    40,
-    97
+    43.0,
+    86.1
    ],
    "counts": {
     "fairway": 1,
@@ -350,5 +350,7 @@
    },
    "osm_hole_way": "1056933385"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

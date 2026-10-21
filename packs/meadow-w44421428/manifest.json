@@ -3,7 +3,7 @@
  "course_id": "meadow-w44421428",
  "name": "Meadow Club",
  "city": "Fairfax, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T04:23:10",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    590,
-    841
+    688.7,
+    822.2
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    667,
-    806
+    667.2,
+    805.7
    ],
    "counts": {
     "fairway": 1,
@@ -125,8 +125,8 @@
     }
    },
    "elevation_ft": [
-    667,
-    831
+    667.6,
+    823.4
    ],
    "counts": {
     "fairway": 1,
@@ -159,8 +159,8 @@
     }
    },
    "elevation_ft": [
-    668,
-    858
+    670.8,
+    857.9
    ],
    "counts": {
     "fairway": 2,
@@ -193,8 +193,8 @@
     }
    },
    "elevation_ft": [
-    661,
-    727
+    663.3,
+    726.9
    ],
    "counts": {
     "fairway": 1,
@@ -227,8 +227,8 @@
     }
    },
    "elevation_ft": [
-    658,
-    722
+    665.5,
+    719.7
    ],
    "counts": {
     "fairway": 1,
@@ -261,8 +261,8 @@
     }
    },
    "elevation_ft": [
-    685,
-    917
+    687.1,
+    798.6
    ],
    "counts": {
     "fairway": 2,
@@ -295,8 +295,8 @@
     }
    },
    "elevation_ft": [
-    723,
-    816
+    722.4,
+    807.1
    ],
    "counts": {
     "fairway": 1,
@@ -329,8 +329,8 @@
     }
    },
    "elevation_ft": [
-    596,
-    866
+    696.6,
+    806.5
    ],
    "counts": {
     "fairway": 1,
@@ -363,8 +363,8 @@
     }
    },
    "elevation_ft": [
-    704,
-    792
+    703.3,
+    769.2
    ],
    "counts": {
     "fairway": 2,
@@ -397,8 +397,8 @@
     }
    },
    "elevation_ft": [
-    710,
-    795
+    711.4,
+    769.3
    ],
    "counts": {
     "fairway": 2,
@@ -431,8 +431,8 @@
     }
    },
    "elevation_ft": [
-    686,
-    798
+    689.2,
+    759.3
    ],
    "counts": {
     "fairway": 2,
@@ -465,8 +465,8 @@
     }
    },
    "elevation_ft": [
-    658,
-    753
+    665.4,
+    762.9
    ],
    "counts": {
     "fairway": 1,
@@ -499,8 +499,8 @@
     }
    },
    "elevation_ft": [
-    657,
-    745
+    658.3,
+    711.4
    ],
    "counts": {
     "fairway": 1,
@@ -533,8 +533,8 @@
     }
    },
    "elevation_ft": [
-    660,
-    796
+    665.4,
+    786.2
    ],
    "counts": {
     "fairway": 1,
@@ -567,8 +567,8 @@
     }
    },
    "elevation_ft": [
-    666,
-    742
+    669.5,
+    723.4
    ],
    "counts": {
     "fairway": 1,
@@ -601,8 +601,8 @@
     }
    },
    "elevation_ft": [
-    666,
-    777
+    668.7,
+    741.5
    ],
    "counts": {
     "fairway": 2,
@@ -637,8 +637,8 @@
     }
    },
    "elevation_ft": [
-    0,
-    0
+    692.2,
+    768.2
    ],
    "counts": {
     "fairway": 2,
@@ -650,5 +650,7 @@
    },
    "osm_hole_way": "687690314"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:01Z",
+ "elevation_format": 2
 }

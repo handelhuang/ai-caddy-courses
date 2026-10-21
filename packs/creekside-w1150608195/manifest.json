@@ -3,7 +3,7 @@
  "course_id": "creekside-w1150608195",
  "name": "Creekside Golf Course",
  "city": "Walnut Creek, CA",
- "version": "2026.10.21.1",
+ "version": "2026.10.21.2",
  "built_at": "2026-10-21T05:32:46",
  "verified": false,
  "sources": {
@@ -57,8 +57,8 @@
     }
    },
    "elevation_ft": [
-    334,
-    382
+    340.3,
+    381.8
    ],
    "counts": {
     "fairway": 1,
@@ -91,8 +91,8 @@
     }
    },
    "elevation_ft": [
-    280,
-    356
+    283.1,
+    347.1
    ],
    "counts": {
     "fairway": 2,
@@ -127,8 +127,8 @@
     }
    },
    "elevation_ft": [
-    280,
-    330
+    282.1,
+    314.4
    ],
    "counts": {
     "fairway": 1,
@@ -161,8 +161,8 @@
     }
    },
    "elevation_ft": [
-    295,
-    347
+    298.5,
+    339.2
    ],
    "counts": {
     "fairway": 1,
@@ -195,8 +195,8 @@
     }
    },
    "elevation_ft": [
-    314,
-    347
+    322.2,
+    338.9
    ],
    "counts": {
     "fairway": 1,
@@ -229,8 +229,8 @@
     }
    },
    "elevation_ft": [
-    278,
-    318
+    280.4,
+    317.8
    ],
    "counts": {
     "fairway": 2,
@@ -266,8 +266,8 @@
     }
    },
    "elevation_ft": [
-    354,
-    459
+    357.3,
+    436.8
    ],
    "counts": {
     "fairway": 0,
@@ -300,8 +300,8 @@
     }
    },
    "elevation_ft": [
-    287,
-    347
+    288.2,
+    329.1
    ],
    "counts": {
     "fairway": 1,
@@ -334,8 +334,8 @@
     }
    },
    "elevation_ft": [
-    301,
-    333
+    301.7,
+    328.7
    ],
    "counts": {
     "fairway": 1,
@@ -431,8 +431,8 @@
     }
    },
    "elevation_ft": [
-    352,
-    429
+    355.3,
+    395.9
    ],
    "counts": {
     "fairway": 1,
@@ -468,8 +468,8 @@
     }
    },
    "elevation_ft": [
-    357,
-    445
+    357.4,
+    443.4
    ],
    "counts": {
     "fairway": 1,
@@ -505,8 +505,8 @@
     }
    },
    "elevation_ft": [
-    343,
-    434
+    343.3,
+    433.9
    ],
    "counts": {
     "fairway": 1,
@@ -518,5 +518,7 @@
    },
    "osm_hole_way": "1154655463"
   }
- ]
+ ],
+ "elevation_refreshed": "2026-10-21T16:52:13Z",
+ "elevation_format": 2
 }
