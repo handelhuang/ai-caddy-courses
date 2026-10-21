@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-21T16:52:32Z",
+ "updated": "2026-10-21T18:30:30Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -476,11 +476,11 @@
    "city": "",
    "lat": 37.429183,
    "lon": -122.434218,
-   "readiness": "Limited",
+   "readiness": "Ready",
    "par_source": "map",
-   "holes": 9,
+   "holes": 18,
    "version": "2026.10.21.1",
-   "bytes": 819,
+   "bytes": 504842,
    "osm": "relation/19305773"
   },
   {
@@ -489,11 +489,11 @@
    "city": "Half Moon Bay, CA",
    "lat": 37.435791,
    "lon": -122.43572,
-   "readiness": "Limited",
+   "readiness": "Ready",
    "par_source": "map",
-   "holes": 9,
+   "holes": 18,
    "version": "2026.10.21.1",
-   "bytes": 822,
+   "bytes": 536298,
    "osm": "relation/3567134"
   },
   {
