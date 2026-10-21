@@ -1,0 +1,21 @@
+{
+ "format": 1,
+ "updated": "2026-10-21T04:10:42Z",
+ "courses": [
+  {
+   "id": "boundary-oak-w31270695",
+   "name": "Boundary Oak Golf Course",
+   "city": "Walnut Creek, CA",
+   "lat": 37.925998,
+   "lon": -122.001227,
+   "readiness": "Ready",
+   "par_source": "map",
+   "holes": 18,
+   "version": "2026.10.21.1",
+   "bytes": 434732,
+   "osm": "way/31270695"
+  }
+ ],
+ "unavailable": [],
+ "attribution": "Map data (c) OpenStreetMap contributors, ODbL 1.0."
+}
