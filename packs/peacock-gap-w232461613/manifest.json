@@ -3,14 +3,14 @@
  "course_id": "peacock-gap-w232461613",
  "name": "Peacock Gap Golf Country Club",
  "city": "",
- "version": "2026.10.21.3",
- "built_at": "2026-10-21T05:35:39",
+ "version": "2026.10.22.1",
+ "built_at": "2026-10-22T21:14:44",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
   "elevation": "USGS 3DEP (public domain)",
   "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
-  "scorecard": "Pars estimated from hole length; the player confirms them"
+  "scorecard": "https://www.golfcore.org/courses/peacock-gap-golf-country-club/"
  },
  "readiness": "Ready",
  "readiness_counts": {
@@ -18,49 +18,94 @@
   "Usable with gaps": 0,
   "Limited": 0
  },
- "build_seconds": 88.4,
- "par": 70,
- "par_source": "estimated",
+ "build_seconds": 56.2,
+ "par": 71,
+ "par_source": "scorecard",
  "holes_count": 18,
  "osm": "way/232461613",
  "center": [
   37.992213,
   -122.466492
  ],
+ "club": null,
+ "hand_made": true,
  "tee_sets": [
   {
-   "name": "Default",
-   "yards": 6178,
-   "rating": null,
-   "slope": null
+   "name": "Black",
+   "yards": 6215,
+   "rating": 75.7,
+   "slope": 133
+  },
+  {
+   "name": "Blue",
+   "yards": 6007,
+   "rating": 69,
+   "slope": 122
+  },
+  {
+   "name": "White",
+   "yards": 5592,
+   "rating": 72.2,
+   "slope": 126
+  },
+  {
+   "name": "Red",
+   "yards": 4831,
+   "rating": 67.9,
+   "slope": 116
   }
  ],
  "holes": [
   {
    "hole": 1,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 7,
    "line_yards": 393,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 393-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.3,
-      -0.1
+      -24.1,
+      -2.1
      ],
-     "plays": 393,
+     "plays": 403,
      "error": 0,
-     "tee_box": "705282088"
+     "tee_box": "1546366914"
+    },
+    "Blue": {
+     "point": [
+      -24.1,
+      -2.1
+     ],
+     "plays": 403,
+     "error": 0,
+     "tee_box": "1546366914"
+    },
+    "White": {
+     "point": [
+      11.2,
+      26.4
+     ],
+     "plays": 364,
+     "error": 0,
+     "tee_box": "705281964"
+    },
+    "Red": {
+     "point": [
+      38.8,
+      52.9
+     ],
+     "plays": 330,
+     "error": -6,
+     "tee_box": "705281868"
     }
    },
    "elevation_ft": [
-    -1.1,
-    39.0
+    -1,
+    39
    ],
    "counts": {
     "fairway": 1,
@@ -75,28 +120,55 @@
   {
    "hole": 2,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 3,
    "line_yards": 411,
-   "score": 100,
+   "score": 96,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 411-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: Red (+84)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -0.2,
-      -0.0
+      0.3
      ],
      "plays": 411,
      "error": 0,
      "tee_box": "705282825"
+    },
+    "Blue": {
+     "point": [
+      1.1,
+      23.3
+     ],
+     "plays": 388,
+     "error": 0,
+     "tee_box": "705282826"
+    },
+    "White": {
+     "point": [
+      2.5,
+      49.4
+     ],
+     "plays": 362,
+     "error": 0,
+     "tee_box": "705282827"
+    },
+    "Red": {
+     "point": [
+      2.4,
+      55.0
+     ],
+     "plays": 356,
+     "error": 84,
+     "tee_box": "705282827"
     }
    },
    "elevation_ft": [
-    -1.3,
-    54.6
+    -1,
+    55
    ],
    "counts": {
     "fairway": 1,
@@ -111,28 +183,53 @@
   {
    "hole": 3,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 9,
    "line_yards": 164,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 164-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       0.3,
-      0.0
+      -4.2
      ],
-     "plays": 164,
+     "plays": 168,
      "error": 0,
      "tee_box": "708645683"
+    },
+    "Blue": {
+     "point": [
+      0.3,
+      -4.2
+     ],
+     "plays": 168,
+     "error": 0,
+     "tee_box": "708645683"
+    },
+    "White": {
+     "point": [
+      0.3,
+      13.8
+     ],
+     "plays": 150,
+     "error": 0,
+     "tee_box": "708645683"
+    },
+    "Red": {
+     "point": [
+      -0.2,
+      42.8
+     ],
+     "plays": 121,
+     "error": 0,
+     "tee_box": "708645684"
     }
    },
    "elevation_ft": [
-    -0.9,
-    44.1
+    -1,
+    44
    ],
    "counts": {
     "fairway": 1,
@@ -147,28 +244,53 @@
   {
    "hole": 4,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 13,
    "line_yards": 494,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 5 estimated from the 494-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      1.5,
-      0.2
+      1.7,
+      -2.2
      ],
-     "plays": 494,
+     "plays": 496,
      "error": 0,
      "tee_box": "708651190"
+    },
+    "Blue": {
+     "point": [
+      1.7,
+      -2.2
+     ],
+     "plays": 496,
+     "error": 0,
+     "tee_box": "708651190"
+    },
+    "White": {
+     "point": [
+      -2.9,
+      32.5
+     ],
+     "plays": 461,
+     "error": 0,
+     "tee_box": "708651191"
+    },
+    "Red": {
+     "point": [
+      2.7,
+      90.5
+     ],
+     "plays": 404,
+     "error": 0,
+     "tee_box": "708651192"
     }
    },
    "elevation_ft": [
-    -1.3,
-    36.5
+    -1,
+    36
    ],
    "counts": {
     "fairway": 1,
@@ -183,28 +305,53 @@
   {
    "hole": 5,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 1,
    "line_yards": 374,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 374-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -0.8,
-      0.2
+      -1.5,
+      -3.5
      ],
-     "plays": 374,
+     "plays": 378,
      "error": 0,
      "tee_box": "709048913"
+    },
+    "Blue": {
+     "point": [
+      -1.5,
+      -3.5
+     ],
+     "plays": 378,
+     "error": 0,
+     "tee_box": "709048913"
+    },
+    "White": {
+     "point": [
+      6.2,
+      21.5
+     ],
+     "plays": 352,
+     "error": 0,
+     "tee_box": "709048912"
+    },
+    "Red": {
+     "point": [
+      7.1,
+      75.5
+     ],
+     "plays": 299,
+     "error": -5,
+     "tee_box": "1546542779"
     }
    },
    "elevation_ft": [
-    -1.5,
-    15.5
+    -2,
+    16
    ],
    "counts": {
     "fairway": 1,
@@ -219,28 +366,53 @@
   {
    "hole": 6,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 11,
    "line_yards": 170,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 170-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.3,
-      0.0
+      0.4
      ],
      "plays": 170,
      "error": 0,
      "tee_box": "709049368"
+    },
+    "Blue": {
+     "point": [
+      -1.3,
+      0.4
+     ],
+     "plays": 170,
+     "error": 0,
+     "tee_box": "709049368"
+    },
+    "White": {
+     "point": [
+      -2.2,
+      24.4
+     ],
+     "plays": 146,
+     "error": 0,
+     "tee_box": "709049367"
+    },
+    "Red": {
+     "point": [
+      -2.3,
+      53.4
+     ],
+     "plays": 117,
+     "error": 0,
+     "tee_box": "709049366"
     }
    },
    "elevation_ft": [
-    -1.3,
-    48.3
+    -1,
+    48
    ],
    "counts": {
     "fairway": 1,
@@ -255,28 +427,53 @@
   {
    "hole": 7,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 15,
    "line_yards": 316,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 316-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.4,
-      0.0
+      -25.4,
+      25.8
      ],
-     "plays": 316,
+     "plays": 289,
+     "error": -7,
+     "tee_box": "1546327418"
+    },
+    "Blue": {
+     "point": [
+      -25.6,
+      35.3
+     ],
+     "plays": 280,
      "error": 0,
-     "tee_box": "1546560422"
+     "tee_box": "1546327418"
+    },
+    "White": {
+     "point": [
+      -28.0,
+      71.3
+     ],
+     "plays": 244,
+     "error": 0,
+     "tee_box": "1524276419"
+    },
+    "Red": {
+     "point": [
+      -20.5,
+      104.4
+     ],
+     "plays": 211,
+     "error": 0,
+     "tee_box": "1546327419"
     }
    },
    "elevation_ft": [
-    -1.2,
-    54.7
+    -1,
+    55
    ],
    "counts": {
     "fairway": 2,
@@ -290,29 +487,54 @@
   },
   {
    "hole": 8,
-   "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par": 5,
+   "par_estimated": false,
+   "hcp": 17,
    "line_yards": 470,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 470-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.9,
-      0.1
+      -1.0
      ],
-     "plays": 470,
+     "plays": 471,
      "error": 0,
      "tee_box": "1546355562"
+    },
+    "Blue": {
+     "point": [
+      -1.9,
+      -1.0
+     ],
+     "plays": 471,
+     "error": 0,
+     "tee_box": "1546355562"
+    },
+    "White": {
+     "point": [
+      -4.6,
+      19.2
+     ],
+     "plays": 451,
+     "error": 0,
+     "tee_box": "1524276421"
+    },
+    "Red": {
+     "point": [
+      -8.5,
+      74.3
+     ],
+     "plays": 396,
+     "error": 0,
+     "tee_box": "1546355563"
     }
    },
    "elevation_ft": [
-    -0.9,
-    37.7
+    -1,
+    38
    ],
    "counts": {
     "fairway": 1,
@@ -327,28 +549,53 @@
   {
    "hole": 9,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 5,
    "line_yards": 332,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 332-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -0.8,
-      -0.3
+      2.6,
+      -11.1
      ],
-     "plays": 332,
+     "plays": 343,
      "error": 0,
      "tee_box": "1524276423"
+    },
+    "Blue": {
+     "point": [
+      2.6,
+      -11.1
+     ],
+     "plays": 343,
+     "error": 0,
+     "tee_box": "1524276423"
+    },
+    "White": {
+     "point": [
+      -2.2,
+      4.1
+     ],
+     "plays": 327,
+     "error": 0,
+     "tee_box": "1524276423"
+    },
+    "Red": {
+     "point": [
+      -21.9,
+      32.6
+     ],
+     "plays": 294,
+     "error": 0,
+     "tee_box": "1546553496"
     }
    },
    "elevation_ft": [
-    -1.3,
-    27.0
+    -1,
+    27
    ],
    "counts": {
     "fairway": 1,
@@ -363,28 +610,53 @@
   {
    "hole": 10,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 18,
    "line_yards": 162,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 162-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      2.9,
-      0.0
+      -2.3,
+      30.3
      ],
-     "plays": 162,
+     "plays": 132,
      "error": 0,
-     "tee_box": "1546366914"
+     "tee_box": "1524276426"
+    },
+    "Blue": {
+     "point": [
+      -2.3,
+      30.3
+     ],
+     "plays": 132,
+     "error": 0,
+     "tee_box": "1524276426"
+    },
+    "White": {
+     "point": [
+      0.2,
+      41.9
+     ],
+     "plays": 120,
+     "error": -4,
+     "tee_box": "1546366913"
+    },
+    "Red": {
+     "point": [
+      0.2,
+      55.4
+     ],
+     "plays": 107,
+     "error": 2,
+     "tee_box": "1546366913"
     }
    },
    "elevation_ft": [
-    -1.0,
-    31.5
+    -1,
+    32
    ],
    "counts": {
     "fairway": 0,
@@ -399,28 +671,55 @@
   {
    "hole": 11,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 2,
    "line_yards": 405,
-   "score": 100,
+   "score": 96,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 405-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: Black (-26)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.4,
-      0.2
+      -1.8,
+      -3.1
      ],
-     "plays": 405,
-     "error": 0,
+     "plays": 408,
+     "error": -26,
      "tee_box": "1546366923"
+    },
+    "Blue": {
+     "point": [
+      6.6,
+      19.0
+     ],
+     "plays": 385,
+     "error": 0,
+     "tee_box": "1524276428"
+    },
+    "White": {
+     "point": [
+      8.3,
+      30.8
+     ],
+     "plays": 373,
+     "error": 0,
+     "tee_box": "1524276428"
+    },
+    "Red": {
+     "point": [
+      16.2,
+      85.3
+     ],
+     "plays": 318,
+     "error": 0,
+     "tee_box": "1546366922"
     }
    },
    "elevation_ft": [
-    -1.1,
-    43.6
+    -1,
+    44
    ],
    "counts": {
     "fairway": 1,
@@ -435,28 +734,53 @@
   {
    "hole": 12,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 8,
    "line_yards": 549,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 5 estimated from the 549-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.0,
-      -0.3
+      -2.4,
+      4.0
      ],
-     "plays": 549,
-     "error": 0,
+     "plays": 544,
+     "error": 2,
      "tee_box": "1546371363"
+    },
+    "Blue": {
+     "point": [
+      -11.9,
+      30.6
+     ],
+     "plays": 516,
+     "error": 0,
+     "tee_box": "1546371364"
+    },
+    "White": {
+     "point": [
+      -32.4,
+      75.5
+     ],
+     "plays": 467,
+     "error": 0,
+     "tee_box": "1524276430"
+    },
+    "Red": {
+     "point": [
+      -42.1,
+      122.5
+     ],
+     "plays": 419,
+     "error": 4,
+     "tee_box": "1546371365"
     }
    },
    "elevation_ft": [
-    -1.1,
-    35.2
+    -1,
+    35
    ],
    "counts": {
     "fairway": 1,
@@ -471,28 +795,53 @@
   {
    "hole": 13,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 6,
    "line_yards": 192,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 192-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.7,
-      0.0
+      0.1
      ],
      "plays": 192,
      "error": 0,
      "tee_box": "1546415537"
+    },
+    "Blue": {
+     "point": [
+      -1.7,
+      0.1
+     ],
+     "plays": 192,
+     "error": 0,
+     "tee_box": "1546415537"
+    },
+    "White": {
+     "point": [
+      -0.2,
+      23.1
+     ],
+     "plays": 169,
+     "error": 0,
+     "tee_box": "1524276433"
+    },
+    "Red": {
+     "point": [
+      3.5,
+      59.1
+     ],
+     "plays": 133,
+     "error": 0,
+     "tee_box": "1546415538"
     }
    },
    "elevation_ft": [
-    -1.0,
-    24.8
+    -1,
+    25
    ],
    "counts": {
     "fairway": 1,
@@ -507,28 +856,53 @@
   {
    "hole": 14,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 16,
    "line_yards": 483,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 5 estimated from the 483-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
+     "point": [
+      18.0,
+      -40.4
+     ],
+     "plays": 522,
+     "error": 0,
+     "tee_box": "1524276426"
+    },
+    "Blue": {
      "point": [
       1.2,
-      -0.1
+      -1.1
      ],
-     "plays": 483,
+     "plays": 484,
      "error": 0,
      "tee_box": "1546415552"
+    },
+    "White": {
+     "point": [
+      2.9,
+      18.8
+     ],
+     "plays": 464,
+     "error": 0,
+     "tee_box": "1524276435"
+    },
+    "Red": {
+     "point": [
+      -21.3,
+      90.7
+     ],
+     "plays": 394,
+     "error": 0,
+     "tee_box": "1546415553"
     }
    },
    "elevation_ft": [
-    -1.3,
-    24.8
+    -1,
+    28
    ],
    "counts": {
     "fairway": 1,
@@ -543,28 +917,53 @@
   {
    "hole": 15,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 12,
    "line_yards": 357,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 357-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       1.1,
-      0.1
+      0.6
      ],
-     "plays": 357,
+     "plays": 356,
      "error": 0,
      "tee_box": "1546415556"
+    },
+    "Blue": {
+     "point": [
+      1.1,
+      0.6
+     ],
+     "plays": 356,
+     "error": 0,
+     "tee_box": "1546415556"
+    },
+    "White": {
+     "point": [
+      -2.6,
+      39.5
+     ],
+     "plays": 317,
+     "error": 0,
+     "tee_box": "1524276437"
+    },
+    "Red": {
+     "point": [
+      -7.9,
+      68.1
+     ],
+     "plays": 288,
+     "error": 0,
+     "tee_box": "1546415557"
     }
    },
    "elevation_ft": [
-    -1.5,
-    25.6
+    -2,
+    26
    ],
    "counts": {
     "fairway": 1,
@@ -579,29 +978,53 @@
   {
    "hole": 16,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 10,
    "line_yards": 149,
-   "score": 90,
+   "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 149-yd hole line; please confirm",
-    "Elevation data missing or invalid"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       0.8,
-      0.0
+      0.4
      ],
      "plays": 149,
      "error": 0,
      "tee_box": "1524276440"
+    },
+    "Blue": {
+     "point": [
+      0.8,
+      0.4
+     ],
+     "plays": 149,
+     "error": 0,
+     "tee_box": "1524276440"
+    },
+    "White": {
+     "point": [
+      0.6,
+      24.4
+     ],
+     "plays": 125,
+     "error": 0,
+     "tee_box": "1524276439"
+    },
+    "Red": {
+     "point": [
+      0.6,
+      27.4
+     ],
+     "plays": 122,
+     "error": 0,
+     "tee_box": "1524276439"
     }
    },
    "elevation_ft": [
-    -1.5,
-    7.5
+    -2,
+    8
    ],
    "counts": {
     "fairway": 1,
@@ -616,29 +1039,55 @@
   {
    "hole": 17,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 14,
    "line_yards": 329,
    "score": 90,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 329-yd hole line; please confirm",
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.1,
-      0.2
+      -0.1,
+      6.3
      ],
-     "plays": 329,
+     "plays": 323,
      "error": 0,
      "tee_box": "1546419218"
+    },
+    "Blue": {
+     "point": [
+      2.5,
+      32.2
+     ],
+     "plays": 297,
+     "error": 0,
+     "tee_box": "1524276443"
+    },
+    "White": {
+     "point": [
+      2.5,
+      32.2
+     ],
+     "plays": 297,
+     "error": 0,
+     "tee_box": "1524276443"
+    },
+    "Red": {
+     "point": [
+      0.6,
+      86.1
+     ],
+     "plays": 244,
+     "error": -6,
+     "tee_box": "1546419220"
     }
    },
    "elevation_ft": [
-    -1.5,
-    7.5
+    -2,
+    8
    ],
    "counts": {
     "fairway": 2,
@@ -653,28 +1102,53 @@
   {
    "hole": 18,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 4,
    "line_yards": 428,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 428-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.2,
-      -0.2
+      -1.0,
+      -1.4
      ],
-     "plays": 428,
+     "plays": 429,
      "error": 0,
      "tee_box": "1546429514"
+    },
+    "Blue": {
+     "point": [
+      -11.5,
+      27.1
+     ],
+     "plays": 399,
+     "error": 0,
+     "tee_box": "1524276446"
+    },
+    "White": {
+     "point": [
+      -11.5,
+      27.1
+     ],
+     "plays": 399,
+     "error": 0,
+     "tee_box": "1524276446"
+    },
+    "Red": {
+     "point": [
+      -32.1,
+      72.0
+     ],
+     "plays": 351,
+     "error": 0,
+     "tee_box": "1546429515"
     }
    },
    "elevation_ft": [
-    -1.2,
-    24.5
+    -1,
+    24
    ],
    "counts": {
     "fairway": 1,
@@ -686,7 +1160,5 @@
    },
    "osm_hole_way": "1546429521"
   }
- ],
- "elevation_refreshed": "2026-10-21T19:37:25Z",
- "elevation_format": 2
+ ]
 }
