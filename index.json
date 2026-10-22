@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T21:18:34Z",
+ "updated": "2026-10-22T21:40:20Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -369,15 +369,15 @@
    "lat": 37.86708,
    "lon": -122.071103,
    "readiness": "Limited",
-   "par_source": "estimated",
-   "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 309430,
+   "par_source": "scorecard",
+   "holes": 9,
+   "version": "2026.10.22.1",
+   "bytes": 166562,
    "osm": "way/1150608195",
-   "review": "Creekside is 9 holes; holes 10 to 18 here are from another course",
+   "review": "holes 5, 7 and 9 aren't mapped yet",
    "quality": {
     "slope": "limited",
-    "gap_holes": 7
+    "gap_holes": 3
    }
   },
   {
@@ -580,7 +580,7 @@
    "version": "2026.10.21.3",
    "bytes": 236557,
    "osm": "way/24569234",
-   "review": "several holes may not match the scorecard",
+   "review": "holes 2, 3, 5 and 7 are shorter on the map than on the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
@@ -644,12 +644,11 @@
    "lat": 37.429183,
    "lon": -122.434218,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 504939,
+   "version": "2026.10.22.1",
+   "bytes": 509128,
    "osm": "relation/19305773",
-   "review": "several holes may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -712,13 +711,12 @@
    "city": "Oakland, CA",
    "lat": 37.74193,
    "lon": -122.121332,
-   "readiness": "Ready",
-   "par_source": "map",
+   "readiness": "Usable with gaps",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 521587,
+   "version": "2026.10.22.1",
+   "bytes": 629539,
    "osm": "way/685482899",
-   "review": "several holes may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -782,12 +780,12 @@
    "lat": 37.97348,
    "lon": -121.808938,
    "readiness": "Usable with gaps",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 451213,
+   "version": "2026.10.22.1",
+   "bytes": 451313,
    "osm": "way/31552224",
-   "review": "several holes may not match the scorecard",
+   "review": "hole 9 isn't mapped, and holes 2 and 8 are shorter on the map than on the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
@@ -1399,13 +1397,12 @@
    "city": "Menlo Park, CA",
    "lat": 37.424767,
    "lon": -122.220036,
-   "readiness": "Ready",
-   "par_source": "map",
+   "readiness": "Usable with gaps",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 731657,
+   "version": "2026.10.22.1",
+   "bytes": 740489,
    "osm": "relation/2222742",
-   "review": "several holes may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -1474,7 +1471,7 @@
    "version": "2026.10.21.3",
    "bytes": 579446,
    "osm": "way/35828614",
-   "review": "several holes may not match the scorecard",
+   "review": "the map seems to mix North and South course holes",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -1572,15 +1569,15 @@
    "lat": 37.772743,
    "lon": -121.934512,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 562355,
+   "version": "2026.10.22.1",
+   "bytes": 571010,
    "osm": "relation/1738254",
-   "review": "several holes may not match the scorecard",
+   "review": "hole 2 is longer on the map than on the scorecard",
    "quality": {
     "slope": "full",
-    "gap_holes": 0
+    "gap_holes": 1
    }
   },
   {
