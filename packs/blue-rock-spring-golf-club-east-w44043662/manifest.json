@@ -4,7 +4,7 @@
  "name": "Blue Rock Spring Golf Club - East Course",
  "city": "Vallejo, CA",
  "version": "2026.10.22.1",
- "built_at": "2026-10-22T21:08:14",
+ "built_at": "2026-10-22T21:52:47",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
@@ -18,7 +18,7 @@
   "Usable with gaps": 0,
   "Limited": 0
  },
- "build_seconds": 61.9,
+ "build_seconds": 16.6,
  "par": 70,
  "par_source": "scorecard",
  "holes_count": 18,
@@ -675,15 +675,15 @@
    "par": 3,
    "par_estimated": false,
    "hcp": 16,
-   "line_yards": 233,
+   "line_yards": 167,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
     "Blue": {
      "point": [
-      -1.4,
-      65.1
+      -0.0,
+      -0.9
      ],
      "plays": 168,
      "error": 0,
@@ -691,8 +691,8 @@
     },
     "White": {
      "point": [
-      3.3,
-      113.1
+      4.2,
+      47.1
      ],
      "plays": 120,
      "error": 0,
@@ -700,8 +700,8 @@
     },
     "Gold": {
      "point": [
-      3.3,
-      126.1
+      4.2,
+      60.1
      ],
      "plays": 107,
      "error": 0,
@@ -709,8 +709,8 @@
     },
     "Red": {
      "point": [
-      3.3,
-      124.1
+      4.2,
+      58.1
      ],
      "plays": 109,
      "error": 0,
@@ -725,11 +725,11 @@
     "fairway": 1,
     "bunkers_near_green": 2,
     "water": 1,
-    "woods": 20,
-    "canopy_trees": 20,
+    "woods": 16,
+    "canopy_trees": 16,
     "tee_boxes": 6
    },
-   "osm_hole_way": "1163679187"
+   "osm_hole_way": "hm11"
   },
   {
    "hole": 12,

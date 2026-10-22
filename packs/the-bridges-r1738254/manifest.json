@@ -4,7 +4,7 @@
  "name": "The Bridges Golf Club",
  "city": "",
  "version": "2026.10.22.1",
- "built_at": "2026-10-22T21:38:13",
+ "built_at": "2026-10-22T21:53:11",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
@@ -18,7 +18,7 @@
   "Usable with gaps": 0,
   "Limited": 0
  },
- "build_seconds": 50.9,
+ "build_seconds": 23.0,
  "par": 72,
  "par_source": "scorecard",
  "holes_count": 18,
@@ -137,7 +137,7 @@
    "par": 4,
    "par_estimated": false,
    "hcp": 1,
-   "line_yards": 530,
+   "line_yards": 442,
    "score": 90,
    "readiness": "Ready",
    "reasons": [
@@ -146,8 +146,8 @@
    "tees": {
     "Black": {
      "point": [
-      50.4,
-      66.1
+      26.6,
+      -20.3
      ],
      "plays": 452,
      "error": 0,
@@ -155,8 +155,8 @@
     },
     "Blue": {
      "point": [
-      23.7,
-      88.3
+      1.4,
+      3.8
      ],
      "plays": 438,
      "error": 1,
@@ -164,8 +164,8 @@
     },
     "White": {
      "point": [
-      56.9,
-      95.5
+      34.6,
+      8.8
      ],
      "plays": 422,
      "error": 0,
@@ -173,8 +173,8 @@
     },
     "Gold": {
      "point": [
-      60.6,
-      107.9
+      39.2,
+      20.9
      ],
      "plays": 409,
      "error": 0,
@@ -182,8 +182,8 @@
     },
     "Green": {
      "point": [
-      57.6,
-      124.5
+      36.9,
+      37.9
      ],
      "plays": 394,
      "error": 0,
@@ -191,8 +191,8 @@
     }
    },
    "elevation_ft": [
-    467,
-    591
+    474,
+    589
    ],
    "counts": {
     "fairway": 1,
@@ -202,7 +202,7 @@
     "canopy_trees": 10,
     "tee_boxes": 5
    },
-   "osm_hole_way": "827450897"
+   "osm_hole_way": "hm2"
   },
   {
    "hole": 3,

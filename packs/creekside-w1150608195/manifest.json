@@ -4,7 +4,7 @@
  "name": "Creekside Golf Course",
  "city": "Walnut Creek, CA",
  "version": "2026.10.22.1",
- "built_at": "2026-10-22T21:39:06",
+ "built_at": "2026-10-22T21:54:03",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
@@ -12,13 +12,13 @@
   "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
   "scorecard": "https://rossmoor.com/amenities-overview/golf/"
  },
- "readiness": "Limited",
+ "readiness": "Usable with gaps",
  "readiness_counts": {
-  "Ready": 5,
+  "Ready": 7,
   "Usable with gaps": 1,
-  "Limited": 3
+  "Limited": 1
  },
- "build_seconds": 11.8,
+ "build_seconds": 32.2,
  "par": 36,
  "par_source": "scorecard",
  "holes_count": 9,
@@ -381,12 +381,65 @@
   {
    "hole": 7,
    "par": 3,
-   "score": 0,
-   "readiness": "Limited",
+   "par_estimated": false,
+   "hcp": 9,
+   "line_yards": 107,
+   "score": 96,
+   "readiness": "Ready",
    "reasons": [
-    "Hole 7 has no hole line in OpenStreetMap"
+    "Tee yardage off by more than 10 yd: Blue (-15)"
    ],
-   "fallback": "distances unavailable until mapped"
+   "tees": {
+    "Blue": {
+     "point": [
+      0.0,
+      -6.5
+     ],
+     "plays": 114,
+     "error": -15,
+     "tee_box": "1240749497"
+    },
+    "White": {
+     "point": [
+      0.0,
+      -6.5
+     ],
+     "plays": 114,
+     "error": -2,
+     "tee_box": "1240749497"
+    },
+    "Red": {
+     "point": [
+      0.0,
+      5.1
+     ],
+     "plays": 102,
+     "error": 0,
+     "tee_box": "1240749497"
+    },
+    "Gold": {
+     "point": [
+      17.9,
+      13.1
+     ],
+     "plays": 94,
+     "error": 0,
+     "tee_box": "1240749498"
+    }
+   },
+   "elevation_ft": [
+    281,
+    315
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 6,
+    "water": 0,
+    "woods": 4,
+    "canopy_trees": 4,
+    "tee_boxes": 2
+   },
+   "osm_hole_way": "hm7"
   },
   {
    "hole": 8,
@@ -452,12 +505,63 @@
   {
    "hole": 9,
    "par": 4,
-   "score": 0,
-   "readiness": "Limited",
-   "reasons": [
-    "Hole 9 has no hole line in OpenStreetMap"
+   "par_estimated": false,
+   "hcp": 6,
+   "line_yards": 212,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Blue": {
+     "point": [
+      32.2,
+      -47.8
+     ],
+     "plays": 260,
+     "error": 0,
+     "tee_box": "1240749521"
+    },
+    "White": {
+     "point": [
+      26.5,
+      -25.8
+     ],
+     "plays": 238,
+     "error": 0,
+     "tee_box": "1240749520"
+    },
+    "Red": {
+     "point": [
+      26.5,
+      -12.8
+     ],
+     "plays": 225,
+     "error": 0,
+     "tee_box": "1240749520"
+    },
+    "Gold": {
+     "point": [
+      26.5,
+      -5.8
+     ],
+     "plays": 218,
+     "error": 0,
+     "tee_box": "1240749520"
+    }
+   },
+   "elevation_ft": [
+    301,
+    328
    ],
-   "fallback": "distances unavailable until mapped"
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 11,
+    "canopy_trees": 11,
+    "tee_boxes": 3
+   },
+   "osm_hole_way": "hm9"
   }
  ]
 }

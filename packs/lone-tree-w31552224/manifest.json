@@ -4,7 +4,7 @@
  "name": "Lone Tree Golf Course",
  "city": "",
  "version": "2026.10.22.1",
- "built_at": "2026-10-22T21:38:52",
+ "built_at": "2026-10-22T21:53:29",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
@@ -14,11 +14,11 @@
  },
  "readiness": "Usable with gaps",
  "readiness_counts": {
-  "Ready": 15,
+  "Ready": 16,
   "Usable with gaps": 2,
-  "Limited": 1
+  "Limited": 0
  },
- "build_seconds": 36.3,
+ "build_seconds": 17.4,
  "par": 72,
  "par_source": "scorecard",
  "holes_count": 18,
@@ -327,12 +327,36 @@
   {
    "hole": 9,
    "par": 4,
-   "score": 0,
-   "readiness": "Limited",
-   "reasons": [
-    "Hole 9 has no hole line in OpenStreetMap"
+   "par_estimated": false,
+   "hcp": 6,
+   "line_yards": 364,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Blue": {
+     "point": [
+      0.0,
+      -11.4
+     ],
+     "plays": 376,
+     "error": -3,
+     "tee_box": "1037816354"
+    }
+   },
+   "elevation_ft": [
+    164,
+    210
    ],
-   "fallback": "distances unavailable until mapped"
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 4,
+    "water": 0,
+    "woods": 20,
+    "canopy_trees": 20,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "hm9"
   },
   {
    "hole": 10,

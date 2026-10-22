@@ -3,14 +3,14 @@
  "course_id": "rancho-solano-r4072723",
  "name": "Rancho Solano Golf Course",
  "city": "Fairfield, CA",
- "version": "2026.10.21.3",
- "built_at": "2026-10-21T06:41:46",
+ "version": "2026.10.22.1",
+ "built_at": "2026-10-22T21:52:29",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
   "elevation": "USGS 3DEP (public domain)",
   "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
-  "scorecard": "OpenStreetMap hole tags"
+  "scorecard": "https://www.golfcore.org/courses/rancho-solano-gc/"
  },
  "readiness": "Ready",
  "readiness_counts": {
@@ -18,21 +18,47 @@
   "Usable with gaps": 0,
   "Limited": 0
  },
- "build_seconds": 298.8,
+ "build_seconds": 55.6,
  "par": 72,
- "par_source": "map",
+ "par_source": "scorecard",
  "holes_count": 18,
  "osm": "relation/4072723",
  "center": [
   38.289458,
   -122.076232
  ],
+ "club": null,
+ "hand_made": true,
  "tee_sets": [
   {
-   "name": "Default",
-   "yards": 6626,
+   "name": "Blue",
+   "yards": 6688,
+   "rating": 71.8,
+   "slope": 133
+  },
+  {
+   "name": "White",
+   "yards": 6269,
+   "rating": 70,
+   "slope": 128
+  },
+  {
+   "name": "championship",
+   "yards": 6109,
    "rating": null,
    "slope": null
+  },
+  {
+   "name": "Tournament",
+   "yards": 5978,
+   "rating": 68.9,
+   "slope": 126
+  },
+  {
+   "name": "Gold",
+   "yards": 5665,
+   "rating": 67.8,
+   "slope": 120
   }
  ],
  "holes": [
@@ -42,23 +68,61 @@
    "par_estimated": false,
    "hcp": 3,
    "line_yards": 502,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: championship (-13)"
+   ],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
       -1.0,
-      -0.2
+      -0.4
      ],
      "plays": 502,
      "error": 0,
      "tee_box": "1209273389"
+    },
+    "White": {
+     "point": [
+      8.2,
+      24.5
+     ],
+     "plays": 479,
+     "error": 0,
+     "tee_box": "1209273388"
+    },
+    "championship": {
+     "point": [
+      13.8,
+      59.3
+     ],
+     "plays": 446,
+     "error": -13,
+     "tee_box": "1209273390"
+    },
+    "Tournament": {
+     "point": [
+      12.2,
+      68.7
+     ],
+     "plays": 436,
+     "error": 0,
+     "tee_box": "1209273390"
+    },
+    "Gold": {
+     "point": [
+      12.9,
+      64.8
+     ],
+     "plays": 440,
+     "error": 0,
+     "tee_box": "1209273390"
     }
    },
    "elevation_ft": [
-    255.6,
-    328.9
+    256,
+    329
    ],
    "counts": {
     "fairway": 1,
@@ -80,19 +144,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      -2.0,
-      0.4
+      -1.6,
+      2.2
      ],
-     "plays": 350,
+     "plays": 348,
      "error": 0,
      "tee_box": "1209273403"
+    },
+    "White": {
+     "point": [
+      -21.9,
+      20.1
+     ],
+     "plays": 334,
+     "error": 0,
+     "tee_box": "1209273406"
+    },
+    "championship": {
+     "point": [
+      -3.6,
+      33.1
+     ],
+     "plays": 318,
+     "error": 0,
+     "tee_box": "1209273404"
+    },
+    "Tournament": {
+     "point": [
+      -1.6,
+      2.2
+     ],
+     "plays": 348,
+     "error": 0,
+     "tee_box": "1209273403"
+    },
+    "Gold": {
+     "point": [
+      -3.4,
+      34.0
+     ],
+     "plays": 317,
+     "error": 0,
+     "tee_box": "1209273404"
     }
    },
    "elevation_ft": [
-    207.1,
-    288.5
+    207,
+    288
    ],
    "counts": {
     "fairway": 1,
@@ -114,19 +214,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      -23.9,
-      -1.7
+      -23.8,
+      -4.3
      ],
-     "plays": 381,
+     "plays": 384,
      "error": 0,
      "tee_box": "1209273416"
+    },
+    "White": {
+     "point": [
+      -10.2,
+      16.7
+     ],
+     "plays": 364,
+     "error": 0,
+     "tee_box": "1209273417"
+    },
+    "championship": {
+     "point": [
+      -10.8,
+      25.3
+     ],
+     "plays": 355,
+     "error": 4,
+     "tee_box": "1209273417"
+    },
+    "Tournament": {
+     "point": [
+      -10.2,
+      16.7
+     ],
+     "plays": 364,
+     "error": 0,
+     "tee_box": "1209273417"
+    },
+    "Gold": {
+     "point": [
+      -22.6,
+      61.0
+     ],
+     "plays": 319,
+     "error": 0,
+     "tee_box": "1209273418"
     }
    },
    "elevation_ft": [
-    161.2,
-    268.1
+    161,
+    268
    ],
    "counts": {
     "fairway": 1,
@@ -148,19 +284,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.6,
-      -0.1
+      1.1,
+      3.8
      ],
-     "plays": 386,
+     "plays": 382,
      "error": 0,
      "tee_box": "1209273426"
+    },
+    "White": {
+     "point": [
+      3.2,
+      19.7
+     ],
+     "plays": 366,
+     "error": 0,
+     "tee_box": "1209273426"
+    },
+    "championship": {
+     "point": [
+      2.0,
+      41.3
+     ],
+     "plays": 345,
+     "error": -4,
+     "tee_box": "1209273427"
+    },
+    "Tournament": {
+     "point": [
+      1.6,
+      7.8
+     ],
+     "plays": 378,
+     "error": 0,
+     "tee_box": "1209273426"
+    },
+    "Gold": {
+     "point": [
+      3.1,
+      49.9
+     ],
+     "plays": 336,
+     "error": 0,
+     "tee_box": "1209273427"
     }
    },
    "elevation_ft": [
-    146.8,
-    267.5
+    147,
+    268
    ],
    "counts": {
     "fairway": 1,
@@ -182,19 +354,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
       1.1,
-      0.0
+      -4.8
      ],
-     "plays": 189,
+     "plays": 194,
      "error": 0,
      "tee_box": "1209273433"
+    },
+    "White": {
+     "point": [
+      10.1,
+      19.2
+     ],
+     "plays": 170,
+     "error": 0,
+     "tee_box": "1209273435"
+    },
+    "championship": {
+     "point": [
+      10.1,
+      16.9
+     ],
+     "plays": 172,
+     "error": -5,
+     "tee_box": "1209273435"
+    },
+    "Tournament": {
+     "point": [
+      -24.4,
+      59.2
+     ],
+     "plays": 130,
+     "error": 0,
+     "tee_box": "1209273434"
+    },
+    "Gold": {
+     "point": [
+      -24.4,
+      21.2
+     ],
+     "plays": 168,
+     "error": 0,
+     "tee_box": "1209273434"
     }
    },
    "elevation_ft": [
-    202.8,
-    267.1
+    203,
+    267
    ],
    "counts": {
     "fairway": 1,
@@ -216,19 +424,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.8,
-      -0.1
+      0.2,
+      -6.3
      ],
-     "plays": 364,
+     "plays": 370,
      "error": 0,
      "tee_box": "1209273442"
+    },
+    "White": {
+     "point": [
+      -2.4,
+      25.2
+     ],
+     "plays": 339,
+     "error": 0,
+     "tee_box": "1209273443"
+    },
+    "championship": {
+     "point": [
+      -2.3,
+      26.2
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": "1209273443"
+    },
+    "Tournament": {
+     "point": [
+      0.7,
+      -1.3
+     ],
+     "plays": 365,
+     "error": 0,
+     "tee_box": "1209273442"
+    },
+    "Gold": {
+     "point": [
+      -0.4,
+      44.1
+     ],
+     "plays": 320,
+     "error": 0,
+     "tee_box": "1209273443"
     }
    },
    "elevation_ft": [
-    208.2,
-    311.7
+    208,
+    312
    ],
    "counts": {
     "fairway": 1,
@@ -250,19 +494,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.4,
-      -0.1
+      -2.1,
+      -7.7
      ],
-     "plays": 472,
+     "plays": 479,
+     "error": -3,
+     "tee_box": "1209273449"
+    },
+    "White": {
+     "point": [
+      2.1,
+      5.1
+     ],
+     "plays": 466,
      "error": 0,
      "tee_box": "1209273449"
+    },
+    "championship": {
+     "point": [
+      9.3,
+      40.5
+     ],
+     "plays": 430,
+     "error": -10,
+     "tee_box": "1209273450"
+    },
+    "Tournament": {
+     "point": [
+      11.9,
+      48.2
+     ],
+     "plays": 422,
+     "error": 0,
+     "tee_box": "1209273450"
+    },
+    "Gold": {
+     "point": [
+      9.3,
+      40.5
+     ],
+     "plays": 430,
+     "error": -1,
+     "tee_box": "1209273450"
     }
    },
    "elevation_ft": [
-    260.0,
-    517.4
+    260,
+    517
    ],
    "counts": {
     "fairway": 1,
@@ -286,19 +566,55 @@
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
       -0.1,
-      0.0
+      -4.8
      ],
-     "plays": 212,
+     "plays": 217,
      "error": 0,
      "tee_box": "1209274641"
+    },
+    "White": {
+     "point": [
+      -5.4,
+      36.2
+     ],
+     "plays": 176,
+     "error": 0,
+     "tee_box": "1209274642"
+    },
+    "championship": {
+     "point": [
+      -0.1,
+      6.2
+     ],
+     "plays": 206,
+     "error": 8,
+     "tee_box": "1209274641"
+    },
+    "Tournament": {
+     "point": [
+      -4.8,
+      84.2
+     ],
+     "plays": 128,
+     "error": 0,
+     "tee_box": "1209274643"
+    },
+    "Gold": {
+     "point": [
+      -4.8,
+      77.3
+     ],
+     "plays": 135,
+     "error": 0,
+     "tee_box": "1209274643"
     }
    },
    "elevation_ft": [
-    313.4,
-    493.9
+    313,
+    494
    ],
    "counts": {
     "fairway": 1,
@@ -322,19 +638,55 @@
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.1,
-      -0.0
+      -12.8,
+      -28.4
      ],
-     "plays": 384,
+     "plays": 415,
+     "error": 0,
+     "tee_box": "1209274646"
+    },
+    "White": {
+     "point": [
+      -0.1,
+      -0.9
+     ],
+     "plays": 385,
      "error": 0,
      "tee_box": "1209274647"
+    },
+    "championship": {
+     "point": [
+      1.6,
+      4.8
+     ],
+     "plays": 379,
+     "error": 0,
+     "tee_box": "1209274647"
+    },
+    "Tournament": {
+     "point": [
+      -0.4,
+      -1.9
+     ],
+     "plays": 386,
+     "error": 0,
+     "tee_box": "1209274647"
+    },
+    "Gold": {
+     "point": [
+      4.1,
+      53.2
+     ],
+     "plays": 332,
+     "error": 0,
+     "tee_box": "1209274648"
     }
    },
    "elevation_ft": [
-    276.0,
-    416.0
+    276,
+    416
    ],
    "counts": {
     "fairway": 1,
@@ -352,23 +704,61 @@
    "par_estimated": false,
    "hcp": 8,
    "line_yards": 525,
-   "score": 100,
+   "score": 94,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Blue (-43), White (-37)"
+   ],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      1.4,
-      -0.7
+      -3.0,
+      -9.7
      ],
-     "plays": 525,
+     "plays": 535,
+     "error": -43,
+     "tee_box": "1229556804"
+    },
+    "White": {
+     "point": [
+      -3.0,
+      -9.7
+     ],
+     "plays": 535,
+     "error": -37,
+     "tee_box": "1229556804"
+    },
+    "championship": {
+     "point": [
+      0.1,
+      -3.4
+     ],
+     "plays": 528,
      "error": 0,
      "tee_box": "1229556804"
+    },
+    "Tournament": {
+     "point": [
+      -3.0,
+      -9.7
+     ],
+     "plays": 535,
+     "error": -1,
+     "tee_box": "1229556804"
+    },
+    "Gold": {
+     "point": [
+      24.6,
+      14.1
+     ],
+     "plays": 502,
+     "error": -3,
+     "tee_box": "1229556805"
     }
    },
    "elevation_ft": [
-    214.5,
-    306.0
+    214,
+    306
    ],
    "counts": {
     "fairway": 1,
@@ -386,23 +776,61 @@
    "par_estimated": false,
    "hcp": 2,
    "line_yards": 430,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: championship (-16)"
+   ],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
       -0.6,
-      -0.0
+      0.7
      ],
-     "plays": 430,
+     "plays": 429,
      "error": 0,
      "tee_box": "1229556817"
+    },
+    "White": {
+     "point": [
+      4.9,
+      53.9
+     ],
+     "plays": 376,
+     "error": 0,
+     "tee_box": "1229556818"
+    },
+    "championship": {
+     "point": [
+      4.9,
+      53.6
+     ],
+     "plays": 376,
+     "error": -16,
+     "tee_box": "1229556818"
+    },
+    "Tournament": {
+     "point": [
+      4.9,
+      54.9
+     ],
+     "plays": 375,
+     "error": 0,
+     "tee_box": "1229556818"
+    },
+    "Gold": {
+     "point": [
+      4.5,
+      64.9
+     ],
+     "plays": 365,
+     "error": 0,
+     "tee_box": "1229556818"
     }
    },
    "elevation_ft": [
-    196.0,
-    231.1
+    196,
+    231
    ],
    "counts": {
     "fairway": 1,
@@ -420,25 +848,59 @@
    "par_estimated": false,
    "hcp": 4,
    "line_yards": 235,
-   "score": 90,
+   "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Elevation data missing or invalid"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
       -0.9,
-      0.0
+      1.6
      ],
-     "plays": 235,
+     "plays": 233,
      "error": 0,
      "tee_box": "1229556825"
+    },
+    "White": {
+     "point": [
+      3.8,
+      37.6
+     ],
+     "plays": 197,
+     "error": 0,
+     "tee_box": "1229556826"
+    },
+    "championship": {
+     "point": [
+      3.8,
+      25.2
+     ],
+     "plays": 209,
+     "error": -4,
+     "tee_box": "1229556826"
+    },
+    "Tournament": {
+     "point": [
+      9.5,
+      88.6
+     ],
+     "plays": 146,
+     "error": 0,
+     "tee_box": "1229556827"
+    },
+    "Gold": {
+     "point": [
+      9.5,
+      81.6
+     ],
+     "plays": 153,
+     "error": 0,
+     "tee_box": "1229556827"
     }
    },
    "elevation_ft": [
-    187.0,
-    228.5
+    187,
+    228
    ],
    "counts": {
     "fairway": 1,
@@ -456,25 +918,59 @@
    "par_estimated": false,
    "hcp": 6,
    "line_yards": 400,
-   "score": 90,
+   "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Elevation data missing or invalid"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.2,
-      0.0
+      1.1,
+      -4.8
      ],
-     "plays": 400,
+     "plays": 405,
      "error": 0,
      "tee_box": "1229556833"
+    },
+    "White": {
+     "point": [
+      -3.4,
+      29.6
+     ],
+     "plays": 370,
+     "error": -2,
+     "tee_box": "1229556834"
+    },
+    "championship": {
+     "point": [
+      -3.4,
+      29.9
+     ],
+     "plays": 370,
+     "error": 0,
+     "tee_box": "1229556834"
+    },
+    "Tournament": {
+     "point": [
+      -4.5,
+      35.8
+     ],
+     "plays": 364,
+     "error": 0,
+     "tee_box": "1229556834"
+    },
+    "Gold": {
+     "point": [
+      -7.4,
+      78.0
+     ],
+     "plays": 322,
+     "error": 0,
+     "tee_box": "1229556835"
     }
    },
    "elevation_ft": [
-    184.1,
-    312.9
+    184,
+    313
    ],
    "counts": {
     "fairway": 1,
@@ -491,34 +987,70 @@
    "par": 4,
    "par_estimated": false,
    "hcp": 14,
-   "line_yards": 422,
-   "score": 100,
+   "line_yards": 361,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.7,
-      -0.1
+      16.5,
+      6.6
      ],
-     "plays": 422,
+     "plays": 353,
      "error": 0,
-     "tee_box": "1229557504"
+     "tee_box": "1229557505"
+    },
+    "White": {
+     "point": [
+      17.6,
+      15.5
+     ],
+     "plays": 344,
+     "error": 0,
+     "tee_box": "1229557505"
+    },
+    "championship": {
+     "point": [
+      18.9,
+      27.2
+     ],
+     "plays": 332,
+     "error": 10,
+     "tee_box": "1229557505"
+    },
+    "Tournament": {
+     "point": [
+      17.6,
+      15.5
+     ],
+     "plays": 344,
+     "error": 0,
+     "tee_box": "1229557505"
+    },
+    "Gold": {
+     "point": [
+      18.9,
+      27.2
+     ],
+     "plays": 332,
+     "error": 3,
+     "tee_box": "1229557505"
     }
    },
    "elevation_ft": [
-    196.0,
-    337.2
+    196,
+    298
    ],
    "counts": {
     "fairway": 1,
     "bunkers_near_green": 4,
     "water": 1,
-    "woods": 39,
-    "canopy_trees": 39,
+    "woods": 34,
+    "canopy_trees": 34,
     "tee_boxes": 3
    },
-   "osm_hole_way": "1229096471"
+   "osm_hole_way": "hm14"
   },
   {
    "hole": 15,
@@ -526,25 +1058,59 @@
    "par_estimated": false,
    "hcp": 18,
    "line_yards": 148,
-   "score": 90,
+   "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Elevation data missing or invalid"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
       2.0,
-      0.0
+      -8.5
      ],
-     "plays": 148,
+     "plays": 157,
+     "error": -1,
+     "tee_box": "1229557513"
+    },
+    "White": {
+     "point": [
+      2.0,
+      1.1
+     ],
+     "plays": 147,
      "error": 0,
      "tee_box": "1229557513"
+    },
+    "championship": {
+     "point": [
+      2.0,
+      5.1
+     ],
+     "plays": 143,
+     "error": 0,
+     "tee_box": "1229557513"
+    },
+    "Tournament": {
+     "point": [
+      -10.0,
+      27.1
+     ],
+     "plays": 121,
+     "error": 0,
+     "tee_box": "1229557514"
+    },
+    "Gold": {
+     "point": [
+      -10.0,
+      23.1
+     ],
+     "plays": 125,
+     "error": 0,
+     "tee_box": "1229557514"
     }
    },
    "elevation_ft": [
-    209.2,
-    260.1
+    209,
+    260
    ],
    "counts": {
     "fairway": 1,
@@ -566,19 +1132,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      0.2,
-      0.0
+      0.0,
+      1.5
      ],
-     "plays": 362,
+     "plays": 360,
      "error": 0,
      "tee_box": "1229557519"
+    },
+    "White": {
+     "point": [
+      -2.1,
+      18.4
+     ],
+     "plays": 343,
+     "error": 0,
+     "tee_box": "1229557519"
+    },
+    "championship": {
+     "point": [
+      -3.8,
+      32.3
+     ],
+     "plays": 329,
+     "error": 0,
+     "tee_box": "1229557519"
+    },
+    "Tournament": {
+     "point": [
+      -0.2,
+      3.5
+     ],
+     "plays": 358,
+     "error": 0,
+     "tee_box": "1229557519"
+    },
+    "Gold": {
+     "point": [
+      10.0,
+      74.5
+     ],
+     "plays": 289,
+     "error": -6,
+     "tee_box": "1229557520"
     }
    },
    "elevation_ft": [
-    231.8,
-    300.6
+    232,
+    301
    ],
    "counts": {
     "fairway": 1,
@@ -600,19 +1202,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      -1.1,
-      0.3
+      -1.6,
+      -1.9
      ],
-     "plays": 520,
+     "plays": 522,
      "error": 0,
      "tee_box": "1229557528"
+    },
+    "White": {
+     "point": [
+      14.9,
+      22.9
+     ],
+     "plays": 494,
+     "error": 0,
+     "tee_box": "1229557529"
+    },
+    "championship": {
+     "point": [
+      18.8,
+      39.2
+     ],
+     "plays": 477,
+     "error": 0,
+     "tee_box": "1229557529"
+    },
+    "Tournament": {
+     "point": [
+      27.0,
+      76.6
+     ],
+     "plays": 439,
+     "error": 0,
+     "tee_box": "1229557530"
+    },
+    "Gold": {
+     "point": [
+      26.5,
+      74.6
+     ],
+     "plays": 441,
+     "error": 0,
+     "tee_box": "1229557530"
     }
    },
    "elevation_ft": [
-    230.1,
-    322.9
+    230,
+    323
    ],
    "counts": {
     "fairway": 1,
@@ -634,19 +1272,55 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Blue": {
      "point": [
-      -0.4,
-      -0.1
+      1.6,
+      -12.0
      ],
-     "plays": 344,
+     "plays": 356,
+     "error": 0,
+     "tee_box": "1229557542"
+    },
+    "White": {
+     "point": [
+      -0.2,
+      -1.2
+     ],
+     "plays": 345,
+     "error": 0,
+     "tee_box": "1229557542"
+    },
+    "championship": {
+     "point": [
+      -3.4,
+      17.6
+     ],
+     "plays": 326,
+     "error": 0,
+     "tee_box": "1229557542"
+    },
+    "Tournament": {
+     "point": [
+      -1.4,
+      5.7
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": "1229557542"
+    },
+    "Gold": {
+     "point": [
+      -2.4,
+      11.6
+     ],
+     "plays": 332,
      "error": 0,
      "tee_box": "1229557542"
     }
    },
    "elevation_ft": [
-    222.7,
-    327.7
+    223,
+    328
    ],
    "counts": {
     "fairway": 1,
@@ -658,7 +1332,5 @@
    },
    "osm_hole_way": "1229096475"
   }
- ],
- "elevation_refreshed": "2026-10-21T19:37:25Z",
- "elevation_format": 2
+ ]
 }
