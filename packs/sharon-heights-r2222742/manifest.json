@@ -3,36 +3,56 @@
  "course_id": "sharon-heights-r2222742",
  "name": "Sharon Heights Golf Course",
  "city": "Menlo Park, CA",
- "version": "2026.10.21.3",
- "built_at": "2026-10-21T05:57:08",
+ "version": "2026.10.22.1",
+ "built_at": "2026-10-22T21:36:32",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
   "elevation": "USGS 3DEP (public domain)",
   "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
-  "scorecard": "OpenStreetMap hole tags"
+  "scorecard": "https://www.golflink.com/golf-courses/ca/menlo-park/sharon-heights-golf-country-club"
  },
- "readiness": "Ready",
+ "readiness": "Usable with gaps",
  "readiness_counts": {
-  "Ready": 18,
-  "Usable with gaps": 0,
+  "Ready": 17,
+  "Usable with gaps": 1,
   "Limited": 0
  },
- "build_seconds": 45.6,
+ "build_seconds": 50.6,
  "par": 72,
- "par_source": "map",
+ "par_source": "scorecard",
  "holes_count": 18,
  "osm": "relation/2222742",
  "center": [
   37.424767,
   -122.220036
  ],
+ "club": null,
+ "hand_made": true,
  "tee_sets": [
   {
-   "name": "Default",
-   "yards": 6548,
-   "rating": null,
-   "slope": null
+   "name": "Black",
+   "yards": 6863,
+   "rating": 73.9,
+   "slope": 140
+  },
+  {
+   "name": "Gold",
+   "yards": 6490,
+   "rating": 72.0,
+   "slope": 135
+  },
+  {
+   "name": "Blue",
+   "yards": 6085,
+   "rating": 70.2,
+   "slope": 131
+  },
+  {
+   "name": "White",
+   "yards": 5734,
+   "rating": 68.5,
+   "slope": 127
   }
  ],
  "holes": [
@@ -46,19 +66,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.1,
-      0.0
+      -2.3
      ],
-     "plays": 418,
-     "error": 0,
+     "plays": 420,
+     "error": -5,
      "tee_box": "1105080493"
+    },
+    "Gold": {
+     "point": [
+      -1.1,
+      2.5
+     ],
+     "plays": 415,
+     "error": 3,
+     "tee_box": "1105080493"
+    },
+    "Blue": {
+     "point": [
+      -0.7,
+      18.0
+     ],
+     "plays": 400,
+     "error": 4,
+     "tee_box": "1105080494"
+    },
+    "White": {
+     "point": [
+      3.3,
+      32.5
+     ],
+     "plays": 385,
+     "error": 3,
+     "tee_box": "1105080495"
     }
    },
    "elevation_ft": [
-    192.0,
-    314.3
+    192,
+    314
    ],
    "counts": {
     "fairway": 1,
@@ -76,23 +123,52 @@
    "par_estimated": false,
    "hcp": null,
    "line_yards": 153,
-   "score": 100,
+   "score": 96,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Black (-15)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.5,
-      0.0
+      -3.6
      ],
-     "plays": 153,
-     "error": 0,
+     "plays": 157,
+     "error": -15,
      "tee_box": "1105657851"
+    },
+    "Gold": {
+     "point": [
+      -1.5,
+      3.5
+     ],
+     "plays": 150,
+     "error": 1,
+     "tee_box": "1105657851"
+    },
+    "Blue": {
+     "point": [
+      0.3,
+      22.5
+     ],
+     "plays": 131,
+     "error": 0,
+     "tee_box": "1105657850"
+    },
+    "White": {
+     "point": [
+      1.7,
+      32.7
+     ],
+     "plays": 121,
+     "error": 5,
+     "tee_box": "1105657853"
     }
    },
    "elevation_ft": [
-    177.9,
-    241.4
+    178,
+    241
    ],
    "counts": {
     "fairway": 1,
@@ -114,19 +190,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.3,
-      0.5
+      -0.5,
+      2.6
      ],
-     "plays": 504,
+     "plays": 502,
      "error": 0,
      "tee_box": "1105655599"
+    },
+    "Gold": {
+     "point": [
+      5.3,
+      17.5
+     ],
+     "plays": 486,
+     "error": 0,
+     "tee_box": "1105655600"
+    },
+    "Blue": {
+     "point": [
+      20.1,
+      42.1
+     ],
+     "plays": 458,
+     "error": -2,
+     "tee_box": "1105655604"
+    },
+    "White": {
+     "point": [
+      0.4,
+      73.3
+     ],
+     "plays": 436,
+     "error": 1,
+     "tee_box": "1105277772"
     }
    },
    "elevation_ft": [
-    165.8,
-    304.3
+    166,
+    304
    ],
    "counts": {
     "fairway": 1,
@@ -144,25 +247,53 @@
    "par_estimated": false,
    "hcp": null,
    "line_yards": 320,
-   "score": 90,
-   "readiness": "Ready",
+   "score": 83,
+   "readiness": "Usable with gaps",
    "reasons": [
+    "Tee yardage off by more than 10 yd: Black (-37), Gold (-21)",
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
+     "point": [
+      39.6,
+      -12.9
+     ],
+     "plays": 333,
+     "error": -37,
+     "tee_box": "1105655591"
+    },
+    "Gold": {
+     "point": [
+      39.6,
+      -12.9
+     ],
+     "plays": 333,
+     "error": -21,
+     "tee_box": "1105655591"
+    },
+    "Blue": {
+     "point": [
+      39.6,
+      -6.7
+     ],
+     "plays": 327,
+     "error": 0,
+     "tee_box": "1105655591"
+    },
+    "White": {
      "point": [
       2.8,
-      0.0
+      6.3
      ],
-     "plays": 320,
-     "error": 0,
+     "plays": 314,
+     "error": 3,
      "tee_box": "1105655597"
     }
    },
    "elevation_ft": [
-    168.9,
-    278.8
+    169,
+    279
    ],
    "counts": {
     "fairway": 1,
@@ -180,23 +311,52 @@
    "par_estimated": false,
    "hcp": null,
    "line_yards": 565,
-   "score": 100,
+   "score": 96,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Black (-21)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.6,
-      -0.8
+      -0.0,
+      -3.8
+     ],
+     "plays": 569,
+     "error": -21,
+     "tee_box": "1105659931"
+    },
+    "Gold": {
+     "point": [
+      -1.8,
+      -0.5
      ],
      "plays": 565,
      "error": 0,
      "tee_box": "1105659931"
+    },
+    "Blue": {
+     "point": [
+      -10.8,
+      17.9
+     ],
+     "plays": 544,
+     "error": 0,
+     "tee_box": "1105659930"
+    },
+    "White": {
+     "point": [
+      -21.2,
+      37.8
+     ],
+     "plays": 522,
+     "error": 0,
+     "tee_box": "1105659929"
     }
    },
    "elevation_ft": [
-    166.1,
-    280.5
+    166,
+    280
    ],
    "counts": {
     "fairway": 1,
@@ -218,19 +378,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       1.8,
-      0.0
+      1.9
      ],
-     "plays": 152,
+     "plays": 150,
      "error": 0,
      "tee_box": "1105277772"
+    },
+    "Gold": {
+     "point": [
+      3.0,
+      18.9
+     ],
+     "plays": 133,
+     "error": 0,
+     "tee_box": "1105277771"
+    },
+    "Blue": {
+     "point": [
+      2.6,
+      37.9
+     ],
+     "plays": 114,
+     "error": 0,
+     "tee_box": "1105277770"
+    },
+    "White": {
+     "point": [
+      2.1,
+      51.9
+     ],
+     "plays": 100,
+     "error": 0,
+     "tee_box": "1105277769"
     }
    },
    "elevation_ft": [
-    176.8,
-    235.3
+    177,
+    235
    ],
    "counts": {
     "fairway": 1,
@@ -252,19 +439,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.6,
-      0.0
+      31.8,
+      6.5
      ],
-     "plays": 373,
+     "plays": 366,
+     "error": -1,
+     "tee_box": "1105657860"
+    },
+    "Gold": {
+     "point": [
+      -7.3,
+      24.1
+     ],
+     "plays": 348,
+     "error": -4,
+     "tee_box": "1105657863"
+    },
+    "Blue": {
+     "point": [
+      -7.3,
+      34.6
+     ],
+     "plays": 338,
      "error": 0,
-     "tee_box": "1105657861"
+     "tee_box": "1105657863"
+    },
+    "White": {
+     "point": [
+      -7.3,
+      45.5
+     ],
+     "plays": 327,
+     "error": 5,
+     "tee_box": "1105657863"
     }
    },
    "elevation_ft": [
-    191.3,
-    279.4
+    191,
+    279
    ],
    "counts": {
     "fairway": 2,
@@ -286,19 +500,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.2,
-      0.1
+      -1.1,
+      1.0
      ],
-     "plays": 429,
+     "plays": 428,
      "error": 0,
      "tee_box": "1105660268"
+    },
+    "Gold": {
+     "point": [
+      3.1,
+      21.8
+     ],
+     "plays": 407,
+     "error": 0,
+     "tee_box": "1105660267"
+    },
+    "Blue": {
+     "point": [
+      7.6,
+      60.6
+     ],
+     "plays": 368,
+     "error": 0,
+     "tee_box": "1105660266"
+    },
+    "White": {
+     "point": [
+      10.2,
+      89.5
+     ],
+     "plays": 339,
+     "error": 0,
+     "tee_box": "1105660264"
     }
    },
    "elevation_ft": [
-    182.7,
-    269.5
+    183,
+    270
    ],
    "counts": {
     "fairway": 1,
@@ -320,19 +561,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
+     "point": [
+      8.4,
+      -24.7
+     ],
+     "plays": 371,
+     "error": 0,
+     "tee_box": "1105657861"
+    },
+    "Gold": {
      "point": [
       0.8,
-      0.0
+      -5.7
      ],
-     "plays": 346,
+     "plays": 352,
      "error": 0,
      "tee_box": "1105657860"
+    },
+    "Blue": {
+     "point": [
+      0.8,
+      13.3
+     ],
+     "plays": 333,
+     "error": 0,
+     "tee_box": "1105657860"
+    },
+    "White": {
+     "point": [
+      2.1,
+      34.3
+     ],
+     "plays": 312,
+     "error": 0,
+     "tee_box": "1105657859"
     }
    },
    "elevation_ft": [
-    206.8,
-    314.1
+    207,
+    314
    ],
    "counts": {
     "fairway": 1,
@@ -354,19 +622,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.7,
-      0.2
+      2.2,
+      -4.3
      ],
-     "plays": 532,
-     "error": 0,
+     "plays": 537,
+     "error": -3,
      "tee_box": "1105080480"
+    },
+    "Gold": {
+     "point": [
+      -2.4,
+      12.2
+     ],
+     "plays": 520,
+     "error": 0,
+     "tee_box": "1105080479"
+    },
+    "Blue": {
+     "point": [
+      -11.4,
+      40.6
+     ],
+     "plays": 490,
+     "error": -1,
+     "tee_box": "1105080477"
+    },
+    "White": {
+     "point": [
+      -19.2,
+      56.2
+     ],
+     "plays": 473,
+     "error": -2,
+     "tee_box": "1105080476"
     }
    },
    "elevation_ft": [
-    224.2,
-    328.7
+    224,
+    329
    ],
    "counts": {
     "fairway": 1,
@@ -388,19 +683,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.3,
-      0.0
+      -4.7
      ],
-     "plays": 425,
+     "plays": 430,
      "error": 0,
      "tee_box": "1105655578"
+    },
+    "Gold": {
+     "point": [
+      -0.3,
+      16.3
+     ],
+     "plays": 409,
+     "error": 0,
+     "tee_box": "1105655579"
+    },
+    "Blue": {
+     "point": [
+      -0.5,
+      45.3
+     ],
+     "plays": 380,
+     "error": 0,
+     "tee_box": "1105655580"
+    },
+    "White": {
+     "point": [
+      -2.2,
+      77.0
+     ],
+     "plays": 348,
+     "error": -1,
+     "tee_box": "1105655577"
     }
    },
    "elevation_ft": [
-    196.8,
-    293.4
+    197,
+    293
    ],
    "counts": {
     "fairway": 1,
@@ -422,19 +744,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      1.4,
-      0.6
+      0.7,
+      2.4
      ],
-     "plays": 452,
+     "plays": 450,
      "error": 0,
      "tee_box": "1105080468"
+    },
+    "Gold": {
+     "point": [
+      -27.0,
+      44.0
+     ],
+     "plays": 401,
+     "error": 0,
+     "tee_box": "1105080470"
+    },
+    "Blue": {
+     "point": [
+      -37.7,
+      61.2
+     ],
+     "plays": 381,
+     "error": 0,
+     "tee_box": "1105080471"
+    },
+    "White": {
+     "point": [
+      -47.9,
+      79.7
+     ],
+     "plays": 360,
+     "error": 0,
+     "tee_box": "1105080472"
     }
    },
    "elevation_ft": [
-    188.1,
-    293.2
+    188,
+    293
    ],
    "counts": {
     "fairway": 1,
@@ -452,23 +801,52 @@
    "par_estimated": false,
    "hcp": null,
    "line_yards": 169,
-   "score": 100,
+   "score": 93,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Black (-44), Gold (-14)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.9,
-      0.0
+      -1.9
      ],
-     "plays": 169,
-     "error": 0,
+     "plays": 170,
+     "error": -44,
      "tee_box": "1105659926"
+    },
+    "Gold": {
+     "point": [
+      -1.9,
+      -1.9
+     ],
+     "plays": 170,
+     "error": -14,
+     "tee_box": "1105659926"
+    },
+    "Blue": {
+     "point": [
+      -1.6,
+      10.6
+     ],
+     "plays": 158,
+     "error": 0,
+     "tee_box": "1105659924"
+    },
+    "White": {
+     "point": [
+      -1.1,
+      28.6
+     ],
+     "plays": 140,
+     "error": 0,
+     "tee_box": "1105080474"
     }
    },
    "elevation_ft": [
-    208.0,
-    263.6
+    208,
+    264
    ],
    "counts": {
     "fairway": 1,
@@ -490,19 +868,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.5,
-      -0.1
+      0.3,
+      -1.7
      ],
-     "plays": 323,
+     "plays": 325,
      "error": 0,
      "tee_box": "1105655585"
+    },
+    "Gold": {
+     "point": [
+      2.0,
+      11.2
+     ],
+     "plays": 312,
+     "error": 0,
+     "tee_box": "1105655585"
+    },
+    "Blue": {
+     "point": [
+      2.6,
+      33.3
+     ],
+     "plays": 290,
+     "error": 0,
+     "tee_box": "1105655586"
+    },
+    "White": {
+     "point": [
+      3.5,
+      40.4
+     ],
+     "plays": 283,
+     "error": 6,
+     "tee_box": "1105655586"
     }
    },
    "elevation_ft": [
-    202.8,
-    287.2
+    203,
+    287
    ],
    "counts": {
     "fairway": 1,
@@ -524,19 +929,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -0.7,
-      -0.1
+      2.0,
+      -22.8
      ],
-     "plays": 409,
+     "plays": 432,
+     "error": 0,
+     "tee_box": "1105081757"
+    },
+    "Gold": {
+     "point": [
+      -0.5,
+      -1.9
+     ],
+     "plays": 411,
      "error": 0,
      "tee_box": "1105081758"
+    },
+    "Blue": {
+     "point": [
+      -2.4,
+      18.0
+     ],
+     "plays": 391,
+     "error": 0,
+     "tee_box": "1105081759"
+    },
+    "White": {
+     "point": [
+      -3.5,
+      39.0
+     ],
+     "plays": 370,
+     "error": 0,
+     "tee_box": "1105081760"
     }
    },
    "elevation_ft": [
-    165.4,
-    267.8
+    165,
+    268
    ],
    "counts": {
     "fairway": 1,
@@ -554,23 +986,52 @@
    "par_estimated": false,
    "hcp": null,
    "line_yards": 364,
-   "score": 100,
+   "score": 93,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Black (-34), Gold (-21)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       0.9,
-      0.0
+      -2.9
      ],
-     "plays": 364,
+     "plays": 367,
+     "error": -34,
+     "tee_box": "1105655591"
+    },
+    "Gold": {
+     "point": [
+      0.9,
+      -2.9
+     ],
+     "plays": 367,
+     "error": -21,
+     "tee_box": "1105655591"
+    },
+    "Blue": {
+     "point": [
+      0.9,
+      -1.2
+     ],
+     "plays": 365,
      "error": 0,
      "tee_box": "1105655591"
+    },
+    "White": {
+     "point": [
+      4.2,
+      12.8
+     ],
+     "plays": 351,
+     "error": 0,
+     "tee_box": "1105655592"
     }
    },
    "elevation_ft": [
-    175.2,
-    269.9
+    175,
+    270
    ],
    "counts": {
     "fairway": 1,
@@ -592,19 +1053,46 @@
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       0.8,
-      0.0
+      -2.6
      ],
-     "plays": 167,
+     "plays": 170,
      "error": 0,
      "tee_box": "1105081765"
+    },
+    "Gold": {
+     "point": [
+      2.3,
+      16.4
+     ],
+     "plays": 151,
+     "error": 0,
+     "tee_box": "1105081766"
+    },
+    "Blue": {
+     "point": [
+      4.1,
+      29.7
+     ],
+     "plays": 138,
+     "error": -1,
+     "tee_box": "1105081767"
+    },
+    "White": {
+     "point": [
+      6.8,
+      47.4
+     ],
+     "plays": 120,
+     "error": 0,
+     "tee_box": "1105081768"
     }
    },
    "elevation_ft": [
-    217.1,
-    296.0
+    217,
+    296
    ],
    "counts": {
     "fairway": 1,
@@ -622,23 +1110,52 @@
    "par_estimated": false,
    "hcp": null,
    "line_yards": 447,
-   "score": 100,
+   "score": 89,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Black (+36), Gold (-54), Blue (-29)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      1.0,
-      0.1
+      46.7,
+      -111.0
      ],
-     "plays": 447,
-     "error": 0,
+     "plays": 561,
+     "error": 36,
+     "tee_box": "1105659930"
+    },
+    "Gold": {
+     "point": [
+      1.2,
+      -2.8
+     ],
+     "plays": 450,
+     "error": -54,
+     "tee_box": "1105080506"
+    },
+    "Blue": {
+     "point": [
+      1.2,
+      -2.8
+     ],
+     "plays": 450,
+     "error": -29,
+     "tee_box": "1105080506"
+    },
+    "White": {
+     "point": [
+      1.2,
+      -2.8
+     ],
+     "plays": 450,
+     "error": -3,
      "tee_box": "1105080506"
     }
    },
    "elevation_ft": [
-    231.5,
-    319.6
+    201,
+    320
    ],
    "counts": {
     "fairway": 1,
@@ -650,7 +1167,5 @@
    },
    "osm_hole_way": "1137742535"
   }
- ],
- "elevation_refreshed": "2026-10-21T19:37:25Z",
- "elevation_format": 2
+ ]
 }

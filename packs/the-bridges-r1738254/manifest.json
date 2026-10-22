@@ -3,14 +3,14 @@
  "course_id": "the-bridges-r1738254",
  "name": "The Bridges Golf Club",
  "city": "",
- "version": "2026.10.21.3",
- "built_at": "2026-10-21T06:12:03",
+ "version": "2026.10.22.1",
+ "built_at": "2026-10-22T21:38:13",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
   "elevation": "USGS 3DEP (public domain)",
   "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
-  "scorecard": "OpenStreetMap hole tags"
+  "scorecard": "https://18birdies.com/golf-courses/club/8acf0f00-86ac-11e4-8c28-020000005b00/the-bridges-golf-club"
  },
  "readiness": "Ready",
  "readiness_counts": {
@@ -18,21 +18,47 @@
   "Usable with gaps": 0,
   "Limited": 0
  },
- "build_seconds": 68.6,
+ "build_seconds": 50.9,
  "par": 72,
- "par_source": "map",
+ "par_source": "scorecard",
  "holes_count": 18,
  "osm": "relation/1738254",
  "center": [
   37.772743,
   -121.934512
  ],
+ "club": null,
+ "hand_made": true,
  "tee_sets": [
   {
-   "name": "Default",
-   "yards": 6839,
-   "rating": null,
-   "slope": null
+   "name": "Black",
+   "yards": 6861,
+   "rating": 74,
+   "slope": 144
+  },
+  {
+   "name": "Blue",
+   "yards": 6531,
+   "rating": 72.5,
+   "slope": 138
+  },
+  {
+   "name": "White",
+   "yards": 6071,
+   "rating": 70.5,
+   "slope": 129
+  },
+  {
+   "name": "Gold",
+   "yards": 5571,
+   "rating": 68.4,
+   "slope": 123
+  },
+  {
+   "name": "Green",
+   "yards": 5075,
+   "rating": 71.2,
+   "slope": 127
   }
  ],
  "holes": [
@@ -40,25 +66,61 @@
    "hole": 1,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 5,
    "line_yards": 396,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      2.2,
-      -0.6
+      2.1,
+      -1.1
      ],
-     "plays": 396,
+     "plays": 397,
      "error": 0,
      "tee_box": "827450850"
+    },
+    "Blue": {
+     "point": [
+      13.7,
+      21.7
+     ],
+     "plays": 372,
+     "error": 0,
+     "tee_box": "827450849"
+    },
+    "White": {
+     "point": [
+      28.4,
+      49.9
+     ],
+     "plays": 341,
+     "error": 0,
+     "tee_box": "827450848"
+    },
+    "Gold": {
+     "point": [
+      35.8,
+      72.7
+     ],
+     "plays": 317,
+     "error": 0,
+     "tee_box": "827450847"
+    },
+    "Green": {
+     "point": [
+      51.0,
+      88.4
+     ],
+     "plays": 298,
+     "error": 0,
+     "tee_box": "827450846"
     }
    },
    "elevation_ft": [
-    494.1,
-    596.2
+    494,
+    596
    ],
    "counts": {
     "fairway": 1,
@@ -74,7 +136,7 @@
    "hole": 2,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 1,
    "line_yards": 530,
    "score": 90,
    "readiness": "Ready",
@@ -82,19 +144,55 @@
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.7,
-      -0.2
+      50.4,
+      66.1
      ],
-     "plays": 530,
+     "plays": 452,
      "error": 0,
-     "tee_box": "827450845"
+     "tee_box": "827450843"
+    },
+    "Blue": {
+     "point": [
+      23.7,
+      88.3
+     ],
+     "plays": 438,
+     "error": 1,
+     "tee_box": "827450844"
+    },
+    "White": {
+     "point": [
+      56.9,
+      95.5
+     ],
+     "plays": 422,
+     "error": 0,
+     "tee_box": "827450842"
+    },
+    "Gold": {
+     "point": [
+      60.6,
+      107.9
+     ],
+     "plays": 409,
+     "error": 0,
+     "tee_box": "827450842"
+    },
+    "Green": {
+     "point": [
+      57.6,
+      124.5
+     ],
+     "plays": 394,
+     "error": 0,
+     "tee_box": "827450841"
     }
    },
    "elevation_ft": [
-    466.7,
-    590.8
+    467,
+    591
    ],
    "counts": {
     "fairway": 1,
@@ -110,25 +208,61 @@
    "hole": 3,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 13,
    "line_yards": 366,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.8,
-      0.2
+      -0.0,
+      2.9
      ],
-     "plays": 366,
+     "plays": 363,
      "error": 0,
      "tee_box": "827450839"
+    },
+    "Blue": {
+     "point": [
+      -9.8,
+      24.1
+     ],
+     "plays": 340,
+     "error": 0,
+     "tee_box": "827450838"
+    },
+    "White": {
+     "point": [
+      -21.6,
+      44.5
+     ],
+     "plays": 317,
+     "error": 0,
+     "tee_box": "827450837"
+    },
+    "Gold": {
+     "point": [
+      -32.0,
+      69.5
+     ],
+     "plays": 290,
+     "error": 0,
+     "tee_box": "827450836"
+    },
+    "Green": {
+     "point": [
+      -42.0,
+      91.6
+     ],
+     "plays": 266,
+     "error": 0,
+     "tee_box": "827450835"
     }
    },
    "elevation_ft": [
-    466.2,
-    561.1
+    466,
+    561
    ],
    "counts": {
     "fairway": 1,
@@ -144,25 +278,61 @@
    "hole": 4,
    "par": 5,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 7,
    "line_yards": 518,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -0.4,
-      0.1
+      0.1,
+      1.7
      ],
-     "plays": 518,
-     "error": 0,
+     "plays": 517,
+     "error": 3,
      "tee_box": "827450834"
+    },
+    "Blue": {
+     "point": [
+      14.2,
+      11.7
+     ],
+     "plays": 503,
+     "error": 0,
+     "tee_box": "827450833"
+    },
+    "White": {
+     "point": [
+      26.5,
+      28.9
+     ],
+     "plays": 483,
+     "error": 0,
+     "tee_box": "827450832"
+    },
+    "Gold": {
+     "point": [
+      21.9,
+      52.2
+     ],
+     "plays": 462,
+     "error": 0,
+     "tee_box": "827450831"
+    },
+    "Green": {
+     "point": [
+      26.1,
+      91.7
+     ],
+     "plays": 423,
+     "error": 0,
+     "tee_box": "827450830"
     }
    },
    "elevation_ft": [
-    480.6,
-    578.0
+    481,
+    578
    ],
    "counts": {
     "fairway": 2,
@@ -178,25 +348,61 @@
    "hole": 5,
    "par": 3,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 11,
    "line_yards": 210,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       0.2,
-      0.0
+      -1.5
      ],
-     "plays": 210,
+     "plays": 212,
      "error": 0,
      "tee_box": "827450829"
+    },
+    "Blue": {
+     "point": [
+      9.5,
+      28.5
+     ],
+     "plays": 182,
+     "error": 0,
+     "tee_box": "827450828"
+    },
+    "White": {
+     "point": [
+      21.0,
+      53.5
+     ],
+     "plays": 157,
+     "error": 0,
+     "tee_box": "827450827"
+    },
+    "Gold": {
+     "point": [
+      26.3,
+      78.5
+     ],
+     "plays": 132,
+     "error": 0,
+     "tee_box": "827450826"
+    },
+    "Green": {
+     "point": [
+      27.5,
+      100.5
+     ],
+     "plays": 110,
+     "error": 0,
+     "tee_box": "827450825"
     }
    },
    "elevation_ft": [
-    507.5,
-    571.7
+    508,
+    572
    ],
    "counts": {
     "fairway": 1,
@@ -212,25 +418,61 @@
    "hole": 6,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 15,
    "line_yards": 370,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.3,
-      0.0
+      0.2,
+      1.6
      ],
-     "plays": 370,
+     "plays": 368,
      "error": 0,
      "tee_box": "827450824"
+    },
+    "Blue": {
+     "point": [
+      8.5,
+      32.1
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": "827450823"
+    },
+    "White": {
+     "point": [
+      22.9,
+      59.0
+     ],
+     "plays": 312,
+     "error": 0,
+     "tee_box": "827450822"
+    },
+    "Gold": {
+     "point": [
+      13.5,
+      88.5
+     ],
+     "plays": 282,
+     "error": 0,
+     "tee_box": "827450821"
+    },
+    "Green": {
+     "point": [
+      11.4,
+      124.5
+     ],
+     "plays": 246,
+     "error": 0,
+     "tee_box": "827450820"
     }
    },
    "elevation_ft": [
-    525.6,
-    635.3
+    526,
+    635
    ],
    "counts": {
     "fairway": 1,
@@ -246,25 +488,63 @@
    "hole": 7,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 17,
    "line_yards": 330,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Green (+18)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.8,
-      -0.0
+      0.6,
+      -4.2
      ],
-     "plays": 330,
+     "plays": 334,
      "error": 0,
      "tee_box": "827450819"
+    },
+    "Blue": {
+     "point": [
+      0.9,
+      3.8
+     ],
+     "plays": 326,
+     "error": 0,
+     "tee_box": "827450819"
+    },
+    "White": {
+     "point": [
+      30.3,
+      50.5
+     ],
+     "plays": 278,
+     "error": 0,
+     "tee_box": "827450818"
+    },
+    "Gold": {
+     "point": [
+      30.6,
+      58.2
+     ],
+     "plays": 270,
+     "error": 9,
+     "tee_box": "827450818"
+    },
+    "Green": {
+     "point": [
+      30.6,
+      58.2
+     ],
+     "plays": 270,
+     "error": 18,
+     "tee_box": "827450818"
     }
    },
    "elevation_ft": [
-    554.3,
-    658.9
+    554,
+    659
    ],
    "counts": {
     "fairway": 2,
@@ -280,25 +560,63 @@
    "hole": 8,
    "par": 5,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 3,
    "line_yards": 553,
-   "score": 100,
+   "score": 94,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Gold (+53), Green (+97)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.1,
-      0.0
+      1.2,
+      -4.3
      ],
-     "plays": 553,
+     "plays": 558,
      "error": 0,
      "tee_box": "827450816"
+    },
+    "Blue": {
+     "point": [
+      -17.1,
+      9.1
+     ],
+     "plays": 540,
+     "error": 0,
+     "tee_box": "827450815"
+    },
+    "White": {
+     "point": [
+      -38.1,
+      24.3
+     ],
+     "plays": 520,
+     "error": 0,
+     "tee_box": "827450814"
+    },
+    "Gold": {
+     "point": [
+      -41.8,
+      38.5
+     ],
+     "plays": 505,
+     "error": 53,
+     "tee_box": "827450814"
+    },
+    "Green": {
+     "point": [
+      -41.8,
+      38.5
+     ],
+     "plays": 505,
+     "error": 97,
+     "tee_box": "827450814"
     }
    },
    "elevation_ft": [
-    542.0,
-    732.7
+    542,
+    733
    ],
    "counts": {
     "fairway": 2,
@@ -314,25 +632,61 @@
    "hole": 9,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 9,
    "line_yards": 375,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.3,
-      0.0
+      0.2,
+      0.9
      ],
-     "plays": 375,
+     "plays": 374,
      "error": 0,
      "tee_box": "827450813"
+    },
+    "Blue": {
+     "point": [
+      -7.0,
+      12.5
+     ],
+     "plays": 362,
+     "error": 0,
+     "tee_box": "827450812"
+    },
+    "White": {
+     "point": [
+      1.2,
+      39.1
+     ],
+     "plays": 336,
+     "error": 0,
+     "tee_box": "827450811"
+    },
+    "Gold": {
+     "point": [
+      -9.6,
+      96.5
+     ],
+     "plays": 278,
+     "error": 0,
+     "tee_box": "827450810"
+    },
+    "Green": {
+     "point": [
+      -10.1,
+      105.5
+     ],
+     "plays": 269,
+     "error": 0,
+     "tee_box": "827450810"
     }
    },
    "elevation_ft": [
-    516.0,
-    606.3
+    516,
+    606
    ],
    "counts": {
     "fairway": 2,
@@ -348,25 +702,61 @@
    "hole": 10,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 16,
    "line_yards": 303,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.2,
-      0.0
+      0.0,
+      2.0
      ],
-     "plays": 303,
+     "plays": 301,
      "error": 0,
      "tee_box": "827729884"
+    },
+    "Blue": {
+     "point": [
+      -12.7,
+      16.8
+     ],
+     "plays": 285,
+     "error": 0,
+     "tee_box": "827729883"
+    },
+    "White": {
+     "point": [
+      -24.5,
+      42.8
+     ],
+     "plays": 258,
+     "error": 0,
+     "tee_box": "827729882"
+    },
+    "Gold": {
+     "point": [
+      -25.3,
+      50.7
+     ],
+     "plays": 250,
+     "error": 0,
+     "tee_box": "827729882"
+    },
+    "Green": {
+     "point": [
+      -25.6,
+      54.0
+     ],
+     "plays": 247,
+     "error": 1,
+     "tee_box": "827729882"
     }
    },
    "elevation_ft": [
-    513.5,
-    630.7
+    514,
+    631
    ],
    "counts": {
     "fairway": 2,
@@ -382,7 +772,7 @@
    "hole": 11,
    "par": 3,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 4,
    "line_yards": 224,
    "score": 90,
    "readiness": "Ready",
@@ -390,19 +780,55 @@
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       0.6,
-      0.0
+      0.5
      ],
-     "plays": 224,
+     "plays": 223,
      "error": 0,
      "tee_box": "827729878"
+    },
+    "Blue": {
+     "point": [
+      -1.5,
+      16.5
+     ],
+     "plays": 207,
+     "error": 0,
+     "tee_box": "827729877"
+    },
+    "White": {
+     "point": [
+      -2.1,
+      49.5
+     ],
+     "plays": 174,
+     "error": 0,
+     "tee_box": "827729876"
+    },
+    "Gold": {
+     "point": [
+      -2.1,
+      61.5
+     ],
+     "plays": 162,
+     "error": 0,
+     "tee_box": "827729876"
+    },
+    "Green": {
+     "point": [
+      -1.2,
+      83.5
+     ],
+     "plays": 140,
+     "error": 0,
+     "tee_box": "827729875"
     }
    },
    "elevation_ft": [
-    530.7,
-    615.4
+    531,
+    615
    ],
    "counts": {
     "fairway": 1,
@@ -418,25 +844,63 @@
    "hole": 12,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 10,
    "line_yards": 375,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Black (-18)"
+   ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.6,
-      0.1
+      1.5,
+      -5.4
      ],
-     "plays": 375,
+     "plays": 381,
+     "error": -18,
+     "tee_box": "827729874"
+    },
+    "Blue": {
+     "point": [
+      0.1,
+      3.4
+     ],
+     "plays": 372,
      "error": 0,
      "tee_box": "827729874"
+    },
+    "White": {
+     "point": [
+      0.6,
+      27.7
+     ],
+     "plays": 348,
+     "error": 0,
+     "tee_box": "827729873"
+    },
+    "Gold": {
+     "point": [
+      0.7,
+      51.0
+     ],
+     "plays": 325,
+     "error": 0,
+     "tee_box": "827729872"
+    },
+    "Green": {
+     "point": [
+      -40.5,
+      95.2
+     ],
+     "plays": 275,
+     "error": 0,
+     "tee_box": "827729871"
     }
    },
    "elevation_ft": [
-    538.2,
-    613.7
+    538,
+    614
    ],
    "counts": {
     "fairway": 2,
@@ -452,25 +916,61 @@
    "hole": 13,
    "par": 3,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 18,
    "line_yards": 150,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
       -1.4,
-      0.0
+      1.5
      ],
-     "plays": 150,
+     "plays": 148,
      "error": 0,
      "tee_box": "827729870"
+    },
+    "Blue": {
+     "point": [
+      6.4,
+      20.5
+     ],
+     "plays": 129,
+     "error": 0,
+     "tee_box": "827729869"
+    },
+    "White": {
+     "point": [
+      -13.5,
+      34.5
+     ],
+     "plays": 115,
+     "error": 0,
+     "tee_box": "827729868"
+    },
+    "Gold": {
+     "point": [
+      -38.1,
+      53.8
+     ],
+     "plays": 96,
+     "error": 0,
+     "tee_box": "827729867"
+    },
+    "Green": {
+     "point": [
+      -38.1,
+      57.5
+     ],
+     "plays": 92,
+     "error": 0,
+     "tee_box": "827729867"
     }
    },
    "elevation_ft": [
-    554.4,
-    631.1
+    554,
+    631
    ],
    "counts": {
     "fairway": 1,
@@ -486,169 +986,345 @@
    "hole": 14,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
-   "line_yards": 532,
-   "score": 85,
+   "hcp": 12,
+   "line_yards": 401,
+   "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Map par 5 differs from scorecard par 4",
-    "Tee yardage off by more than 10 yd: Default (-20)"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -0.6,
-      21.5
+      -1.7,
+      -0.5
      ],
-     "plays": 511,
-     "error": -20,
-     "tee_box": "1218905423"
+     "plays": 402,
+     "error": 0,
+     "tee_box": "827729865"
+    },
+    "Blue": {
+     "point": [
+      14.6,
+      10.2
+     ],
+     "plays": 387,
+     "error": 0,
+     "tee_box": "827729864"
+    },
+    "White": {
+     "point": [
+      9.7,
+      25.2
+     ],
+     "plays": 374,
+     "error": 0,
+     "tee_box": "827729863"
+    },
+    "Gold": {
+     "point": [
+      28.4,
+      46.7
+     ],
+     "plays": 348,
+     "error": 0,
+     "tee_box": "827729862"
+    },
+    "Green": {
+     "point": [
+      48.8,
+      78.1
+     ],
+     "plays": 312,
+     "error": 0,
+     "tee_box": "827729861"
     }
    },
    "elevation_ft": [
-    458.9,
-    604.2
+    552,
+    624
    ],
    "counts": {
     "fairway": 2,
-    "bunkers_near_green": 7,
-    "water": 1,
-    "woods": 18,
-    "canopy_trees": 18,
-    "tee_boxes": 2
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 9,
+    "canopy_trees": 9,
+    "tee_boxes": 7
    },
-   "osm_hole_way": "1218256909"
+   "osm_hole_way": "827450885"
   },
   {
    "hole": 15,
    "par": 5,
    "par_estimated": false,
-   "hcp": null,
-   "line_yards": 164,
+   "hcp": 8,
+   "line_yards": 559,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Map par 3 differs from scorecard par 5"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.1,
-      0.0
+      1.1,
+      -5.1
      ],
-     "plays": 164,
+     "plays": 564,
      "error": 0,
-     "tee_box": "1218905440"
+     "tee_box": "827729860"
+    },
+    "Blue": {
+     "point": [
+      4.2,
+      20.9
+     ],
+     "plays": 538,
+     "error": 0,
+     "tee_box": "827729859"
+    },
+    "White": {
+     "point": [
+      9.2,
+      50.9
+     ],
+     "plays": 508,
+     "error": 0,
+     "tee_box": "827729858"
+    },
+    "Gold": {
+     "point": [
+      19.1,
+      90.6
+     ],
+     "plays": 468,
+     "error": -1,
+     "tee_box": "827729857"
+    },
+    "Green": {
+     "point": [
+      20.3,
+      133.2
+     ],
+     "plays": 426,
+     "error": -4,
+     "tee_box": "827729856"
     }
    },
    "elevation_ft": [
-    493.2,
-    614.1
+    527,
+    627
    ],
    "counts": {
-    "fairway": 1,
-    "bunkers_near_green": 2,
+    "fairway": 3,
+    "bunkers_near_green": 1,
     "water": 0,
-    "woods": 21,
-    "canopy_trees": 21,
-    "tee_boxes": 4
+    "woods": 13,
+    "canopy_trees": 13,
+    "tee_boxes": 5
    },
-   "osm_hole_way": "1218256910"
+   "osm_hole_way": "827450884"
   },
   {
    "hole": 16,
    "par": 4,
    "par_estimated": false,
-   "hcp": null,
-   "line_yards": 364,
-   "score": 100,
-   "readiness": "Ready",
-   "reasons": [],
-   "tees": {
-    "Default": {
-     "point": [
-      0.6,
-      0.0
-     ],
-     "plays": 364,
-     "error": 0,
-     "tee_box": "1218905447"
-    }
-   },
-   "elevation_ft": [
-    509.1,
-    617.2
-   ],
-   "counts": {
-    "fairway": 1,
-    "bunkers_near_green": 2,
-    "water": 0,
-    "woods": 43,
-    "canopy_trees": 43,
-    "tee_boxes": 3
-   },
-   "osm_hole_way": "1218256911"
-  },
-  {
-   "hole": 17,
-   "par": 3,
-   "par_estimated": false,
-   "hcp": null,
-   "line_yards": 548,
+   "hcp": 2,
+   "line_yards": 466,
    "score": 90,
    "readiness": "Ready",
    "reasons": [
-    "Map par 5 differs from scorecard par 3",
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      -1.5,
-      0.2
+      -1.7,
+      2.4
      ],
-     "plays": 548,
+     "plays": 463,
      "error": 0,
-     "tee_box": "1218905456"
+     "tee_box": "827729855"
+    },
+    "Blue": {
+     "point": [
+      -7.7,
+      18.7
+     ],
+     "plays": 446,
+     "error": 0,
+     "tee_box": "827729854"
+    },
+    "White": {
+     "point": [
+      -3.4,
+      49.7
+     ],
+     "plays": 416,
+     "error": 0,
+     "tee_box": "827729853"
+    },
+    "Gold": {
+     "point": [
+      -19.5,
+      86.7
+     ],
+     "plays": 377,
+     "error": 0,
+     "tee_box": "827729852"
+    },
+    "Green": {
+     "point": [
+      -11.2,
+      123.3
+     ],
+     "plays": 342,
+     "error": 0,
+     "tee_box": "827729851"
     }
    },
    "elevation_ft": [
-    490.4,
-    638.0
+    507,
+    613
    ],
    "counts": {
     "fairway": 1,
     "bunkers_near_green": 0,
     "water": 0,
-    "woods": 17,
-    "canopy_trees": 17,
+    "woods": 9,
+    "canopy_trees": 9,
+    "tee_boxes": 8
+   },
+   "osm_hole_way": "827450883"
+  },
+  {
+   "hole": 17,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": 6,
+   "line_yards": 236,
+   "score": 97,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee yardage off by more than 10 yd: Green (+43)"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      -0.2,
+      3.9
+     ],
+     "plays": 232,
+     "error": 0,
+     "tee_box": "827729850"
+    },
+    "Blue": {
+     "point": [
+      19.8,
+      15.9
+     ],
+     "plays": 220,
+     "error": 0,
+     "tee_box": "827729849"
+    },
+    "White": {
+     "point": [
+      13.3,
+      42.9
+     ],
+     "plays": 193,
+     "error": 0,
+     "tee_box": "827729848"
+    },
+    "Gold": {
+     "point": [
+      20.1,
+      58.7
+     ],
+     "plays": 177,
+     "error": 0,
+     "tee_box": "827729847"
+    },
+    "Green": {
+     "point": [
+      20.1,
+      58.7
+     ],
+     "plays": 177,
+     "error": 43,
+     "tee_box": "827729847"
+    }
+   },
+   "elevation_ft": [
+    491,
+    563
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 12,
+    "canopy_trees": 12,
     "tee_boxes": 4
    },
-   "osm_hole_way": "1218256912"
+   "osm_hole_way": "827450882"
   },
   {
    "hole": 18,
    "par": 5,
    "par_estimated": false,
-   "hcp": null,
+   "hcp": 14,
    "line_yards": 552,
    "score": 100,
    "readiness": "Ready",
    "reasons": [],
    "tees": {
-    "Default": {
+    "Black": {
      "point": [
-      0.6,
-      0.2
+      2.4,
+      -4.8
      ],
-     "plays": 552,
+     "plays": 557,
      "error": 0,
      "tee_box": "827729846"
+    },
+    "Blue": {
+     "point": [
+      -1.1,
+      4.6
+     ],
+     "plays": 547,
+     "error": 0,
+     "tee_box": "827729846"
+    },
+    "White": {
+     "point": [
+      -14.4,
+      29.5
+     ],
+     "plays": 519,
+     "error": 0,
+     "tee_box": "827729845"
+    },
+    "Gold": {
+     "point": [
+      -26.8,
+      62.2
+     ],
+     "plays": 484,
+     "error": 0,
+     "tee_box": "827729844"
+    },
+    "Green": {
+     "point": [
+      -62.5,
+      97.9
+     ],
+     "plays": 438,
+     "error": 0,
+     "tee_box": "827729843"
     }
    },
    "elevation_ft": [
-    489.4,
-    599.0
+    489,
+    599
    ],
    "counts": {
     "fairway": 3,
@@ -660,7 +1336,5 @@
    },
    "osm_hole_way": "827450881"
   }
- ],
- "elevation_refreshed": "2026-10-21T19:37:25Z",
- "elevation_format": 2
+ ]
 }
