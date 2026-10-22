@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T21:40:20Z",
+ "updated": "2026-10-22T21:55:24Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -81,9 +81,8 @@
    "par_source": "scorecard",
    "holes": 18,
    "version": "2026.10.22.1",
-   "bytes": 540174,
+   "bytes": 537097,
    "osm": "way/44043662",
-   "review": "hole 11 is longer on the map than on the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -368,16 +367,16 @@
    "city": "Walnut Creek, CA",
    "lat": 37.86708,
    "lon": -122.071103,
-   "readiness": "Limited",
+   "readiness": "Usable with gaps",
    "par_source": "scorecard",
    "holes": 9,
    "version": "2026.10.22.1",
-   "bytes": 166562,
+   "bytes": 203232,
    "osm": "way/1150608195",
-   "review": "holes 5, 7 and 9 aren't mapped yet",
+   "review": "hole 5 isn't mapped yet",
    "quality": {
     "slope": "limited",
-    "gap_holes": 3
+    "gap_holes": 1
    }
   },
   {
@@ -783,12 +782,12 @@
    "par_source": "scorecard",
    "holes": 18,
    "version": "2026.10.22.1",
-   "bytes": 451313,
+   "bytes": 478310,
    "osm": "way/31552224",
-   "review": "hole 9 isn't mapped, and holes 2 and 8 are shorter on the map than on the scorecard",
+   "review": "holes 2 and 8 are shorter on the map than on the scorecard",
    "quality": {
     "slope": "full",
-    "gap_holes": 1
+    "gap_holes": 0
    }
   },
   {
@@ -1210,12 +1209,11 @@
    "lat": 38.289458,
    "lon": -122.076232,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 607497,
+   "version": "2026.10.22.1",
+   "bytes": 607326,
    "osm": "relation/4072723",
-   "review": "hole 14 is longer on the map than on the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
@@ -1572,9 +1570,8 @@
    "par_source": "scorecard",
    "holes": 18,
    "version": "2026.10.22.1",
-   "bytes": 571010,
+   "bytes": 564586,
    "osm": "relation/1738254",
-   "review": "hole 2 is longer on the map than on the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
