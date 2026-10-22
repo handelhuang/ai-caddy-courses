@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T22:13:25Z",
+ "updated": "2026-10-22T22:19:01Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -1469,6 +1469,7 @@
    "version": "2026.10.22.1",
    "bytes": 583389,
    "osm": "way/35828614",
+   "note": "Silverado South isn't available yet",
    "quality": {
     "slope": "full",
     "gap_holes": 0
