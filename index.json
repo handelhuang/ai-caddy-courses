@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T21:55:24Z",
+ "updated": "2026-10-22T21:58:55Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -80,7 +80,7 @@
    "readiness": "Ready",
    "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.22.1",
+   "version": "2026.10.22.2",
    "bytes": 537097,
    "osm": "way/44043662",
    "quality": {
@@ -370,7 +370,7 @@
    "readiness": "Usable with gaps",
    "par_source": "scorecard",
    "holes": 9,
-   "version": "2026.10.22.1",
+   "version": "2026.10.22.2",
    "bytes": 203232,
    "osm": "way/1150608195",
    "review": "hole 5 isn't mapped yet",
@@ -781,7 +781,7 @@
    "readiness": "Usable with gaps",
    "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.22.1",
+   "version": "2026.10.22.2",
    "bytes": 478310,
    "osm": "way/31552224",
    "review": "holes 2 and 8 are shorter on the map than on the scorecard",
@@ -1569,7 +1569,7 @@
    "readiness": "Ready",
    "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.22.1",
+   "version": "2026.10.22.2",
    "bytes": 564586,
    "osm": "relation/1738254",
    "quality": {
