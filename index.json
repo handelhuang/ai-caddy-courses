@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T20:08:41Z",
+ "updated": "2026-10-22T21:15:55Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -43,13 +43,12 @@
    "city": "Palo Alto, CA",
    "lat": 37.457408,
    "lon": -122.118914,
-   "readiness": "Ready",
-   "par_source": "map",
+   "readiness": "Usable with gaps",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 427088,
+   "version": "2026.10.22.1",
+   "bytes": 430909,
    "osm": "way/23631855",
-   "review": "hole 13 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -79,12 +78,11 @@
    "lat": 38.120492,
    "lon": -122.188831,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 538029,
+   "version": "2026.10.22.1",
+   "bytes": 540174,
    "osm": "way/44043662",
-   "review": "holes 2 and 7 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -216,12 +214,11 @@
    "lat": 37.632766,
    "lon": -121.896278,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 735784,
+   "version": "2026.10.22.1",
+   "bytes": 737944,
    "osm": "relation/5150430",
-   "review": "hole 4 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -560,12 +557,11 @@
    "lat": 38.005186,
    "lon": -122.220121,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 569630,
+   "version": "2026.10.22.1",
+   "bytes": 586418,
    "osm": "way/246119516",
-   "review": "hole 6 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -704,7 +700,6 @@
    "version": "2026.10.21.3",
    "bytes": 554044,
    "osm": "way/457833881",
-   "review": "hole 13 may not match the scorecard",
    "quality": {
     "slope": "limited",
     "gap_holes": 0
@@ -752,12 +747,11 @@
    "lat": 37.696746,
    "lon": -121.828563,
    "readiness": "Usable with gaps",
-   "par_source": "estimated",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 540811,
+   "version": "2026.10.22.1",
+   "bytes": 543350,
    "osm": "way/43985334",
-   "review": "hole 16 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -769,13 +763,12 @@
    "city": "34th Avenue, CA",
    "lat": 37.784188,
    "lon": -122.499148,
-   "readiness": "Ready",
-   "par_source": "map",
+   "readiness": "Usable with gaps",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 427731,
+   "version": "2026.10.22.1",
+   "bytes": 429204,
    "osm": "relation/2142043",
-   "review": "hole 8 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
@@ -822,13 +815,12 @@
    "city": "San Jose, CA",
    "lat": 37.301792,
    "lon": -121.832318,
-   "readiness": "Ready",
-   "par_source": "map",
+   "readiness": "Usable with gaps",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 573886,
+   "version": "2026.10.22.1",
+   "bytes": 578830,
    "osm": "way/26298053",
-   "review": "hole 4 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -841,12 +833,11 @@
    "lat": 38.064716,
    "lon": -122.566099,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 583613,
+   "version": "2026.10.22.1",
+   "bytes": 586635,
    "osm": "relation/19675221",
-   "review": "hole 18 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -876,13 +867,12 @@
    "city": "Foster City, CA",
    "lat": 37.573159,
    "lon": -122.282368,
-   "readiness": "Usable with gaps",
-   "par_source": "map",
+   "readiness": "Ready",
+   "par_source": "scorecard",
    "holes": 9,
-   "version": "2026.10.21.3",
-   "bytes": 203502,
+   "version": "2026.10.22.1",
+   "bytes": 204322,
    "osm": "way/23653153",
-   "review": "hole 4 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -1084,12 +1074,11 @@
    "lat": 37.992213,
    "lon": -122.466492,
    "readiness": "Ready",
-   "par_source": "estimated",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 424865,
+   "version": "2026.10.22.1",
+   "bytes": 427235,
    "osm": "way/232461613",
-   "review": "hole 10 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
@@ -1210,7 +1199,6 @@
    "version": "2026.10.21.3",
    "bytes": 121672,
    "osm": "way/38834429",
-   "review": "hole 1 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 0
@@ -1228,7 +1216,7 @@
    "version": "2026.10.21.3",
    "bytes": 607497,
    "osm": "relation/4072723",
-   "review": "hole 14 may not match the scorecard",
+   "review": "hole 14 is longer on the map than on the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
@@ -1674,7 +1662,6 @@
    "version": "2026.10.21.3",
    "bytes": 409717,
    "osm": "way/23630832",
-   "review": "hole 13 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 1
