@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T21:58:55Z",
+ "updated": "2026-10-22T22:13:25Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -1459,17 +1459,16 @@
   },
   {
    "id": "silverado-resort-w35828614",
-   "name": "Silverado Resort",
+   "name": "Silverado Resort \u2013 North Course",
    "city": "",
    "lat": 38.351407,
    "lon": -122.261338,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 579446,
+   "version": "2026.10.22.1",
+   "bytes": 583389,
    "osm": "way/35828614",
-   "review": "the map seems to mix North and South course holes",
    "quality": {
     "slope": "full",
     "gap_holes": 0
