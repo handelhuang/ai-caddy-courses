@@ -3,34 +3,60 @@
  "course_id": "the-golf-club-at-boulder-ridge-w37679515",
  "name": "The Golf Club at Boulder Ridge",
  "city": "San Jose, CA",
- "version": "2026.10.21.3",
- "built_at": "2026-10-21T04:29:42",
+ "version": "2026.10.22.1",
+ "built_at": "2026-10-22T20:00:55",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
   "elevation": "USGS 3DEP (public domain)",
   "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
-  "scorecard": "Pars estimated from hole length; the player confirms them"
+  "scorecard": "https://www.golfcore.org/courses/the-golf-club-at-boulder-ridge/"
  },
- "readiness": "Ready",
+ "readiness": "Usable with gaps",
  "readiness_counts": {
-  "Ready": 18,
-  "Usable with gaps": 0,
-  "Limited": 0
+  "Ready": 16,
+  "Usable with gaps": 1,
+  "Limited": 1
  },
- "build_seconds": 104.4,
- "par": 72,
- "par_source": "estimated",
+ "build_seconds": 64.1,
+ "par": 71,
+ "par_source": "scorecard",
  "holes_count": 18,
  "osm": "way/37679515",
  "center": [
   37.233221,
   -121.862556
  ],
+ "club": null,
+ "hand_made": true,
  "tee_sets": [
   {
-   "name": "Default",
-   "yards": 6781,
+   "name": "Obsidian",
+   "yards": 6518,
+   "rating": 72.2,
+   "slope": 136
+  },
+  {
+   "name": "Gold",
+   "yards": 6185,
+   "rating": 70.9,
+   "slope": 133
+  },
+  {
+   "name": "Silver",
+   "yards": 5819,
+   "rating": 69.3,
+   "slope": 129
+  },
+  {
+   "name": "Copper",
+   "yards": 5390,
+   "rating": 66.6,
+   "slope": 127
+  },
+  {
+   "name": "copper (l)",
+   "yards": 4929,
    "rating": null,
    "slope": null
   }
@@ -39,28 +65,62 @@
   {
    "hole": 1,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 17,
    "line_yards": 480,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 5 estimated from the 480-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      -0.0,
-      -0.0
+      0.5,
+      -3.8
      ],
-     "plays": 480,
+     "plays": 484,
      "error": 0,
      "tee_box": "1187969406"
+    },
+    "Gold": {
+     "point": [
+      -4.7,
+      10.6
+     ],
+     "plays": 469,
+     "error": 0,
+     "tee_box": "1187969408"
+    },
+    "Silver": {
+     "point": [
+      -13.2,
+      31.7
+     ],
+     "plays": 447,
+     "error": 0,
+     "tee_box": "1187969407"
+    },
+    "Copper": {
+     "point": [
+      -20.0,
+      55.0
+     ],
+     "plays": 423,
+     "error": 0,
+     "tee_box": "1188194958"
+    },
+    "copper (l)": {
+     "point": [
+      -31.5,
+      82.5
+     ],
+     "plays": 394,
+     "error": 7,
+     "tee_box": "1188194959"
     }
    },
    "elevation_ft": [
-    382.9,
-    510.7
+    383,
+    511
    ],
    "counts": {
     "fairway": 1,
@@ -75,29 +135,62 @@
   {
    "hole": 2,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 5,
    "line_yards": 208,
-   "score": 90,
+   "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 208-yd hole line; please confirm",
-    "Elevation data missing or invalid"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
       0.1,
-      0.0
+      3.1
      ],
-     "plays": 208,
+     "plays": 205,
      "error": 0,
      "tee_box": "1187980208"
+    },
+    "Gold": {
+     "point": [
+      3.6,
+      19.1
+     ],
+     "plays": 189,
+     "error": 0,
+     "tee_box": "1187980206"
+    },
+    "Silver": {
+     "point": [
+      11.6,
+      37.1
+     ],
+     "plays": 171,
+     "error": 0,
+     "tee_box": "1187980207"
+    },
+    "Copper": {
+     "point": [
+      11.2,
+      54.1
+     ],
+     "plays": 154,
+     "error": 0,
+     "tee_box": "1188194942"
+    },
+    "copper (l)": {
+     "point": [
+      6.7,
+      71.9
+     ],
+     "plays": 136,
+     "error": -5,
+     "tee_box": "1188194943"
     }
    },
    "elevation_ft": [
-    340.5,
-    452.6
+    340,
+    453
    ],
    "counts": {
     "fairway": 1,
@@ -112,28 +205,64 @@
   {
    "hole": 3,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 11,
    "line_yards": 527,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 5 estimated from the 527-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (+25)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      -0.2,
-      0.1
+      6.8,
+      8.5
      ],
-     "plays": 527,
+     "plays": 517,
      "error": 0,
-     "tee_box": "1187980202"
+     "tee_box": "1187980203"
+    },
+    "Gold": {
+     "point": [
+      18.9,
+      26.7
+     ],
+     "plays": 496,
+     "error": 0,
+     "tee_box": "1187980204"
+    },
+    "Silver": {
+     "point": [
+      27.9,
+      50.1
+     ],
+     "plays": 471,
+     "error": 0,
+     "tee_box": "1188194956"
+    },
+    "Copper": {
+     "point": [
+      67.8,
+      92.0
+     ],
+     "plays": 419,
+     "error": -7,
+     "tee_box": "1188194957"
+    },
+    "copper (l)": {
+     "point": [
+      69.1,
+      96.0
+     ],
+     "plays": 415,
+     "error": 25,
+     "tee_box": "1188194957"
     }
    },
    "elevation_ft": [
-    295.0,
-    534.6
+    295,
+    535
    ],
    "counts": {
     "fairway": 1,
@@ -147,65 +276,73 @@
   },
   {
    "hole": 4,
-   "par": 4,
-   "par_estimated": true,
-   "hcp": null,
-   "line_yards": 441,
-   "score": 100,
-   "readiness": "Ready",
+   "par": 3,
+   "score": 0,
+   "readiness": "Limited",
    "reasons": [
-    "Par 4 estimated from the 441-yd hole line; please confirm"
+    "Hole 4 has no hole line in OpenStreetMap"
    ],
-   "tees": {
-    "Default": {
-     "point": [
-      -0.1,
-      0.0
-     ],
-     "plays": 441,
-     "error": 0,
-     "tee_box": "1188191976"
-    }
-   },
-   "elevation_ft": [
-    324.0,
-    539.4
-   ],
-   "counts": {
-    "fairway": 2,
-    "bunkers_near_green": 1,
-    "water": 0,
-    "woods": 1,
-    "canopy_trees": 1,
-    "tee_boxes": 5
-   },
-   "osm_hole_way": "1187949836"
+   "fallback": "distances unavailable until mapped"
   },
   {
    "hole": 5,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 7,
    "line_yards": 374,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 374-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      0.1,
-      -0.0
+      -0.8,
+      -2.0
      ],
-     "plays": 374,
-     "error": 0,
+     "plays": 376,
+     "error": -3,
      "tee_box": "1188191983"
+    },
+    "Gold": {
+     "point": [
+      0.9,
+      1.9
+     ],
+     "plays": 372,
+     "error": 3,
+     "tee_box": "1188191983"
+    },
+    "Silver": {
+     "point": [
+      4.8,
+      19.8
+     ],
+     "plays": 354,
+     "error": 3,
+     "tee_box": "1188191984"
+    },
+    "Copper": {
+     "point": [
+      10.7,
+      42.2
+     ],
+     "plays": 331,
+     "error": 3,
+     "tee_box": "1188191985"
+    },
+    "copper (l)": {
+     "point": [
+      16.8,
+      70.4
+     ],
+     "plays": 303,
+     "error": 3,
+     "tee_box": "1188194952"
     }
    },
    "elevation_ft": [
-    279.1,
-    521.0
+    279,
+    521
    ],
    "counts": {
     "fairway": 1,
@@ -220,29 +357,65 @@
   {
    "hole": 6,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 3,
    "line_yards": 387,
-   "score": 90,
-   "readiness": "Ready",
+   "score": 84,
+   "readiness": "Usable with gaps",
    "reasons": [
-    "Par 4 estimated from the 387-yd hole line; please confirm",
+    "Tee yardage off by more than 10 yd: Copper (+43), copper (l) (-25)",
     "No bunkers mapped near the green (check whether there are any)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      0.1,
-      -0.0
+      0.8,
+      1.8
      ],
-     "plays": 387,
-     "error": 0,
+     "plays": 385,
+     "error": 5,
      "tee_box": "1188191992"
+    },
+    "Gold": {
+     "point": [
+      2.7,
+      25.4
+     ],
+     "plays": 362,
+     "error": 2,
+     "tee_box": "1188191993"
+    },
+    "Silver": {
+     "point": [
+      12.5,
+      39.3
+     ],
+     "plays": 346,
+     "error": 4,
+     "tee_box": "1188191994"
+    },
+    "Copper": {
+     "point": [
+      12.5,
+      39.3
+     ],
+     "plays": 346,
+     "error": 43,
+     "tee_box": "1188191994"
+    },
+    "copper (l)": {
+     "point": [
+      86.1,
+      110.7
+     ],
+     "plays": 252,
+     "error": -25,
+     "tee_box": "1188194951"
     }
    },
    "elevation_ft": [
-    257.2,
-    485.9
+    257,
+    486
    ],
    "counts": {
     "fairway": 1,
@@ -257,28 +430,62 @@
   {
    "hole": 7,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 13,
    "line_yards": 221,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 221-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
       -0.0,
-      0.0
+      2.3
      ],
-     "plays": 221,
+     "plays": 218,
      "error": 0,
      "tee_box": "1188192001"
+    },
+    "Gold": {
+     "point": [
+      -5.0,
+      23.8
+     ],
+     "plays": 197,
+     "error": 0,
+     "tee_box": "1188192002"
+    },
+    "Silver": {
+     "point": [
+      -3.6,
+      49.5
+     ],
+     "plays": 171,
+     "error": 0,
+     "tee_box": "1188192003"
+    },
+    "Copper": {
+     "point": [
+      -2.8,
+      73.2
+     ],
+     "plays": 148,
+     "error": 1,
+     "tee_box": "1188194948"
+    },
+    "copper (l)": {
+     "point": [
+      11.7,
+      96.7
+     ],
+     "plays": 124,
+     "error": -10,
+     "tee_box": "1188194949"
     }
    },
    "elevation_ft": [
-    254.6,
-    452.5
+    255,
+    452
    ],
    "counts": {
     "fairway": 1,
@@ -293,28 +500,64 @@
   {
    "hole": 8,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 1,
    "line_yards": 389,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 389-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (-24)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      -0.0,
-      0.0
+      -0.1,
+      -0.5
      ],
      "plays": 389,
      "error": 0,
      "tee_box": "1188193879"
+    },
+    "Gold": {
+     "point": [
+      1.2,
+      18.5
+     ],
+     "plays": 370,
+     "error": 0,
+     "tee_box": "1188193880"
+    },
+    "Silver": {
+     "point": [
+      6.9,
+      40.9
+     ],
+     "plays": 347,
+     "error": 0,
+     "tee_box": "1188193881"
+    },
+    "Copper": {
+     "point": [
+      10.2,
+      68.7
+     ],
+     "plays": 319,
+     "error": 0,
+     "tee_box": "1188194946"
+    },
+    "copper (l)": {
+     "point": [
+      17.1,
+      119.5
+     ],
+     "plays": 268,
+     "error": -24,
+     "tee_box": "1188194947"
     }
    },
    "elevation_ft": [
-    249.0,
-    441.7
+    249,
+    442
    ],
    "counts": {
     "fairway": 1,
@@ -329,28 +572,64 @@
   {
    "hole": 9,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 9,
    "line_yards": 374,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 374-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (-23)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
       0.2,
-      -0.0
+      0.6
      ],
-     "plays": 374,
+     "plays": 373,
      "error": 0,
      "tee_box": "1188193886"
+    },
+    "Gold": {
+     "point": [
+      30.1,
+      14.9
+     ],
+     "plays": 356,
+     "error": 0,
+     "tee_box": "1187980207"
+    },
+    "Silver": {
+     "point": [
+      0.9,
+      36.7
+     ],
+     "plays": 337,
+     "error": 0,
+     "tee_box": "1188193888"
+    },
+    "Copper": {
+     "point": [
+      -1.3,
+      55.9
+     ],
+     "plays": 318,
+     "error": 0,
+     "tee_box": "1188194944"
+    },
+    "copper (l)": {
+     "point": [
+      -8.5,
+      107.2
+     ],
+     "plays": 268,
+     "error": -23,
+     "tee_box": "1188194945"
     }
    },
    "elevation_ft": [
-    356.3,
-    497.0
+    356,
+    497
    ],
    "counts": {
     "fairway": 1,
@@ -365,28 +644,64 @@
   {
    "hole": 10,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 12,
    "line_yards": 380,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 380-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (-20)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      -0.4,
-      0.1
+      -0.8,
+      -1.0
      ],
-     "plays": 380,
+     "plays": 381,
      "error": 0,
      "tee_box": "1188194963"
+    },
+    "Gold": {
+     "point": [
+      2.7,
+      14.7
+     ],
+     "plays": 365,
+     "error": 0,
+     "tee_box": "1188194964"
+    },
+    "Silver": {
+     "point": [
+      8.7,
+      35.9
+     ],
+     "plays": 343,
+     "error": 0,
+     "tee_box": "1188194965"
+    },
+    "Copper": {
+     "point": [
+      19.9,
+      61.1
+     ],
+     "plays": 316,
+     "error": 0,
+     "tee_box": "1188194966"
+    },
+    "copper (l)": {
+     "point": [
+      39.9,
+      103.7
+     ],
+     "plays": 269,
+     "error": -20,
+     "tee_box": "1188194967"
     }
    },
    "elevation_ft": [
-    294.3,
-    481.7
+    294,
+    482
    ],
    "counts": {
     "fairway": 1,
@@ -401,28 +716,62 @@
   {
    "hole": 11,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 8,
    "line_yards": 217,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 217-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
       0.2,
-      0.0
+      -0.7
      ],
-     "plays": 217,
+     "plays": 218,
      "error": 0,
      "tee_box": "1188194968"
+    },
+    "Gold": {
+     "point": [
+      -26.3,
+      30.3
+     ],
+     "plays": 187,
+     "error": 0,
+     "tee_box": "1188194969"
+    },
+    "Silver": {
+     "point": [
+      -33.6,
+      42.9
+     ],
+     "plays": 174,
+     "error": -2,
+     "tee_box": "1188194970"
+    },
+    "Copper": {
+     "point": [
+      -39.6,
+      61.1
+     ],
+     "plays": 156,
+     "error": -3,
+     "tee_box": "1188194971"
+    },
+    "copper (l)": {
+     "point": [
+      -39.6,
+      65.3
+     ],
+     "plays": 152,
+     "error": 7,
+     "tee_box": "1188194971"
     }
    },
    "elevation_ft": [
-    262.7,
-    412.3
+    263,
+    412
    ],
    "counts": {
     "fairway": 1,
@@ -437,28 +786,62 @@
   {
    "hole": 12,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 2,
    "line_yards": 411,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 4 estimated from the 411-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      0.2,
-      -0.0
+      0.4,
+      1.4
      ],
-     "plays": 411,
+     "plays": 410,
      "error": 0,
      "tee_box": "1188197741"
+    },
+    "Gold": {
+     "point": [
+      -1.6,
+      22.8
+     ],
+     "plays": 389,
+     "error": 0,
+     "tee_box": "1188197742"
+    },
+    "Silver": {
+     "point": [
+      0.7,
+      43.7
+     ],
+     "plays": 368,
+     "error": 0,
+     "tee_box": "1188197743"
+    },
+    "Copper": {
+     "point": [
+      2.7,
+      64.6
+     ],
+     "plays": 347,
+     "error": 0,
+     "tee_box": "1188197744"
+    },
+    "copper (l)": {
+     "point": [
+      3.3,
+      94.2
+     ],
+     "plays": 318,
+     "error": 1,
+     "tee_box": "1188197745"
     }
    },
    "elevation_ft": [
-    294.2,
-    495.2
+    294,
+    495
    ],
    "counts": {
     "fairway": 2,
@@ -473,28 +856,64 @@
   {
    "hole": 13,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 6,
    "line_yards": 367,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 367-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (+26)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      0.0,
-      -0.0
+      0.1,
+      2.2
      ],
-     "plays": 367,
-     "error": 0,
+     "plays": 365,
+     "error": 1,
      "tee_box": "1188197752"
+    },
+    "Gold": {
+     "point": [
+      -1.6,
+      20.9
+     ],
+     "plays": 346,
+     "error": 0,
+     "tee_box": "1188197753"
+    },
+    "Silver": {
+     "point": [
+      -0.7,
+      42.9
+     ],
+     "plays": 324,
+     "error": 0,
+     "tee_box": "1188197754"
+    },
+    "Copper": {
+     "point": [
+      2.7,
+      65.7
+     ],
+     "plays": 301,
+     "error": 0,
+     "tee_box": "1188197755"
+    },
+    "copper (l)": {
+     "point": [
+      2.7,
+      65.9
+     ],
+     "plays": 301,
+     "error": 26,
+     "tee_box": "1188197755"
     }
    },
    "elevation_ft": [
-    246.4,
-    445.4
+    246,
+    445
    ],
    "counts": {
     "fairway": 1,
@@ -509,28 +928,62 @@
   {
    "hole": 14,
    "par": 3,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 18,
    "line_yards": 163,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 3 estimated from the 163-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
       -0.1,
-      0.0
+      2.4
      ],
-     "plays": 163,
+     "plays": 160,
      "error": 0,
      "tee_box": "1188198696"
+    },
+    "Gold": {
+     "point": [
+      -7.0,
+      14.6
+     ],
+     "plays": 148,
+     "error": 1,
+     "tee_box": "1188198697"
+    },
+    "Silver": {
+     "point": [
+      -0.4,
+      37.3
+     ],
+     "plays": 125,
+     "error": 1,
+     "tee_box": "1188198698"
+    },
+    "Copper": {
+     "point": [
+      8.0,
+      53.9
+     ],
+     "plays": 109,
+     "error": 1,
+     "tee_box": "1188198699"
+    },
+    "copper (l)": {
+     "point": [
+      15.0,
+      63.6
+     ],
+     "plays": 99,
+     "error": 0,
+     "tee_box": "1188198700"
     }
    },
    "elevation_ft": [
-    240.0,
-    439.7
+    240,
+    440
    ],
    "counts": {
     "fairway": 1,
@@ -545,28 +998,64 @@
   {
    "hole": 15,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 10,
    "line_yards": 394,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 394-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (+26)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
       0.0,
-      -0.0
+      0.2
      ],
      "plays": 394,
      "error": 0,
      "tee_box": "1188198706"
+    },
+    "Gold": {
+     "point": [
+      -0.3,
+      16.3
+     ],
+     "plays": 378,
+     "error": 0,
+     "tee_box": "1188198707"
+    },
+    "Silver": {
+     "point": [
+      1.6,
+      34.2
+     ],
+     "plays": 360,
+     "error": 0,
+     "tee_box": "1188198708"
+    },
+    "Copper": {
+     "point": [
+      12.1,
+      53.8
+     ],
+     "plays": 340,
+     "error": 0,
+     "tee_box": "1188198709"
+    },
+    "copper (l)": {
+     "point": [
+      12.2,
+      56.4
+     ],
+     "plays": 337,
+     "error": 26,
+     "tee_box": "1188198709"
     }
    },
    "elevation_ft": [
-    324.6,
-    502.1
+    325,
+    502
    ],
    "counts": {
     "fairway": 1,
@@ -581,28 +1070,62 @@
   {
    "hole": 16,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 16,
    "line_yards": 495,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [
-    "Par 5 estimated from the 495-yd hole line; please confirm"
-   ],
+   "reasons": [],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      0.0,
-      -0.0
+      -4.3,
+      -30.2
      ],
-     "plays": 495,
-     "error": 0,
+     "plays": 525,
+     "error": -7,
+     "tee_box": "1188200676"
+    },
+    "Gold": {
+     "point": [
+      20.5,
+      -16.0
+     ],
+     "plays": 511,
+     "error": 7,
+     "tee_box": "1188200675"
+    },
+    "Silver": {
+     "point": [
+      0.1,
+      1.8
+     ],
+     "plays": 493,
+     "error": 7,
      "tee_box": "1188198717"
+    },
+    "Copper": {
+     "point": [
+      5.1,
+      40.2
+     ],
+     "plays": 454,
+     "error": -8,
+     "tee_box": "1188198719"
+    },
+    "copper (l)": {
+     "point": [
+      5.3,
+      72.7
+     ],
+     "plays": 422,
+     "error": 0,
+     "tee_box": "1188198720"
     }
    },
    "elevation_ft": [
-    339.3,
-    498.3
+    345,
+    498
    ],
    "counts": {
     "fairway": 1,
@@ -617,28 +1140,64 @@
   {
    "hole": 17,
    "par": 4,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 4,
    "line_yards": 433,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 4 estimated from the 433-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (-15)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      0.1,
-      -0.0
+      0.2,
+      0.9
      ],
-     "plays": 433,
+     "plays": 432,
      "error": 0,
      "tee_box": "1188197761"
+    },
+    "Gold": {
+     "point": [
+      1.0,
+      23.9
+     ],
+     "plays": 409,
+     "error": 0,
+     "tee_box": "1188197760"
+    },
+    "Silver": {
+     "point": [
+      -0.5,
+      46.2
+     ],
+     "plays": 387,
+     "error": 0,
+     "tee_box": "1188197759"
+    },
+    "Copper": {
+     "point": [
+      -0.3,
+      82.3
+     ],
+     "plays": 351,
+     "error": 0,
+     "tee_box": "1188197758"
+    },
+    "copper (l)": {
+     "point": [
+      3.2,
+      127.6
+     ],
+     "plays": 306,
+     "error": -15,
+     "tee_box": "1188197762"
     }
    },
    "elevation_ft": [
-    329.7,
-    487.7
+    330,
+    488
    ],
    "counts": {
     "fairway": 2,
@@ -653,28 +1212,64 @@
   {
    "hole": 18,
    "par": 5,
-   "par_estimated": true,
-   "hcp": null,
+   "par_estimated": false,
+   "hcp": 14,
    "line_yards": 520,
-   "score": 100,
+   "score": 97,
    "readiness": "Ready",
    "reasons": [
-    "Par 5 estimated from the 520-yd hole line; please confirm"
+    "Tee yardage off by more than 10 yd: copper (l) (-11)"
    ],
    "tees": {
-    "Default": {
+    "Obsidian": {
      "point": [
-      -0.0,
-      0.0
+      0.5,
+      2.2
      ],
-     "plays": 520,
-     "error": 0,
+     "plays": 517,
+     "error": 2,
      "tee_box": "1188200673"
+    },
+    "Gold": {
+     "point": [
+      0.1,
+      22.7
+     ],
+     "plays": 498,
+     "error": 3,
+     "tee_box": "1188200674"
+    },
+    "Silver": {
+     "point": [
+      41.2,
+      43.1
+     ],
+     "plays": 469,
+     "error": 2,
+     "tee_box": "1188198717"
+    },
+    "Copper": {
+     "point": [
+      31.1,
+      68.6
+     ],
+     "plays": 446,
+     "error": 0,
+     "tee_box": "1188200676"
+    },
+    "copper (l)": {
+     "point": [
+      12.1,
+      123.5
+     ],
+     "plays": 397,
+     "error": -11,
+     "tee_box": "1188200677"
     }
    },
    "elevation_ft": [
-    353.5,
-    495.2
+    354,
+    495
    ],
    "counts": {
     "fairway": 1,
@@ -686,7 +1281,5 @@
    },
    "osm_hole_way": "1187949850"
   }
- ],
- "elevation_refreshed": "2026-10-21T19:37:25Z",
- "elevation_format": 2
+ ]
 }
