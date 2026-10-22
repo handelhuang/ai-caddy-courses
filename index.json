@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T20:06:20Z",
+ "updated": "2026-10-22T20:08:41Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -1054,6 +1054,7 @@
    "version": "2026.10.22.1",
    "bytes": 747710,
    "osm": "way/296139046",
+   "review": "hole 4 may not match the scorecard",
    "quality": {
     "slope": "full",
     "gap_holes": 5
