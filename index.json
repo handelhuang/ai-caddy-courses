@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-21T19:37:49Z",
+ "updated": "2026-10-22T03:29:52Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -105,16 +105,16 @@
    }
   },
   {
-   "id": "boundary-oak-w31270695",
+   "id": "boundary-oak",
    "name": "Boundary Oak Golf Course",
    "city": "Walnut Creek, CA",
    "lat": 37.925998,
    "lon": -122.001227,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
    "version": "2026.10.21.3",
-   "bytes": 520056,
+   "bytes": 557816,
    "osm": "way/31270695",
    "quality": {
     "slope": "limited",
@@ -309,16 +309,16 @@
    }
   },
   {
-   "id": "corica-park-w40224423",
-   "name": "Corica Park Golf Course",
+   "id": "corica-south",
+   "name": "Corica Park \u2014 South Course",
    "city": "Alameda, CA",
    "lat": 37.737959,
    "lon": -122.232432,
    "readiness": "Ready",
-   "par_source": "map",
+   "par_source": "scorecard",
    "holes": 18,
    "version": "2026.10.21.3",
-   "bytes": 615681,
+   "bytes": 581296,
    "osm": "way/40224423",
    "quality": {
     "slope": "full",
@@ -476,6 +476,23 @@
    "quality": {
     "slope": "full",
     "gap_holes": 1
+   }
+  },
+  {
+   "id": "diamond-run",
+   "name": "Diamond Run Golf Club",
+   "city": "Sewickley, PA",
+   "lat": 40.561163,
+   "lon": -80.097941,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 18,
+   "version": "2026.10.21.3",
+   "bytes": 740554,
+   "osm": "relation/6352026",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
    }
   },
   {
