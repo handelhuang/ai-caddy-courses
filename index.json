@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T03:29:52Z",
+ "updated": "2026-10-22T16:43:05Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -837,19 +837,20 @@
   },
   {
    "id": "marina-w43985634",
-   "name": "Marina Golf Course",
+   "name": "Monarch Bay \u2013 Marina 9",
    "city": "San Leandro, CA",
    "lat": 37.69607,
    "lon": -122.184599,
-   "readiness": "Limited",
-   "par_source": "estimated",
-   "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 292521,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 9,
+   "version": "2026.10.22.1",
+   "bytes": 159094,
    "osm": "way/43985634",
+   "club": "Monarch Bay Golf Club",
    "quality": {
     "slope": "full",
-    "gap_holes": 4
+    "gap_holes": 0
    }
   },
   {
@@ -1000,23 +1001,6 @@
    "version": "2026.10.21.3",
    "bytes": 475753,
    "osm": "way/1417078425",
-   "quality": {
-    "slope": "full",
-    "gap_holes": 3
-   }
-  },
-  {
-   "id": "olympic-club-r3573537",
-   "name": "Olympic Club Golf Course",
-   "city": "San Francisco, CA",
-   "lat": 37.709063,
-   "lon": -122.493676,
-   "readiness": "Usable with gaps",
-   "par_source": "estimated",
-   "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 481492,
-   "osm": "relation/3573537",
    "quality": {
     "slope": "full",
     "gap_holes": 3
@@ -1721,19 +1705,20 @@
   },
   {
    "id": "tony-lema-w23631167",
-   "name": "Tony Lema Golf Course",
-   "city": "Monarch Bay Drive, CA",
+   "name": "Monarch Bay \u2013 Tony Lema Course",
+   "city": "San Leandro, CA",
    "lat": 37.686596,
    "lon": -122.17794,
-   "readiness": "Usable with gaps",
-   "par_source": "estimated",
+   "readiness": "Ready",
+   "par_source": "scorecard",
    "holes": 18,
-   "version": "2026.10.21.3",
-   "bytes": 529912,
+   "version": "2026.10.22.1",
+   "bytes": 559899,
    "osm": "way/23631167",
+   "club": "Monarch Bay Golf Club",
    "quality": {
     "slope": "full",
-    "gap_holes": 1
+    "gap_holes": 0
    }
   },
   {
