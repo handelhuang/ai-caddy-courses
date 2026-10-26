@@ -1,0 +1,1972 @@
+{
+ "format": 1,
+ "course_id": "desert-willow-mountain-view-r21320526",
+ "name": "Desert Willow \u2013 Mountain View Course",
+ "city": "Palm Desert, CA",
+ "version": "2026.10.26.2",
+ "built_at": "2026-10-26T23:23:12",
+ "verified": false,
+ "sources": {
+  "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
+  "elevation": "USGS 3DEP (public domain)",
+  "trees": "Meta and WRI High Resolution Canopy Height Maps, CC BY 4.0 (https://registry.opendata.aws/dataforgood-fb-forests/)",
+  "scorecard": "https://www.desertwillow.com/wp-content/uploads/sites/9291/2024/03/Desert_Willow_MOUNTAIN_VIEW_CA_6.26-Updated-2023.pdf"
+ },
+ "readiness": "Ready",
+ "readiness_counts": {
+  "Ready": 18,
+  "Usable with gaps": 0,
+  "Limited": 0
+ },
+ "build_seconds": 33.8,
+ "par": 72,
+ "par_source": "scorecard",
+ "holes_count": 18,
+ "osm": "relation/21320526",
+ "center": [
+  33.7615,
+  -116.365
+ ],
+ "club": "Desert Willow Golf Resort",
+ "hand_made": true,
+ "tee_sets": [
+  {
+   "name": "Black",
+   "yards": 6913,
+   "rating": 73.0,
+   "slope": 132
+  },
+  {
+   "name": "Purple",
+   "yards": 6507,
+   "rating": 71.2,
+   "slope": 128
+  },
+  {
+   "name": "Purple/White",
+   "yards": 6316,
+   "rating": 70.3,
+   "slope": 126
+  },
+  {
+   "name": "White",
+   "yards": 6128,
+   "rating": 69.4,
+   "slope": 124
+  },
+  {
+   "name": "White/Tan",
+   "yards": 5866,
+   "rating": 68.1,
+   "slope": 121
+  },
+  {
+   "name": "Tan",
+   "yards": 5573,
+   "rating": 66.6,
+   "slope": 117
+  },
+  {
+   "name": "Tan/Green",
+   "yards": 5290,
+   "rating": null,
+   "slope": null
+  },
+  {
+   "name": "Green",
+   "yards": 5040,
+   "rating": 64.0,
+   "slope": 110
+  }
+ ],
+ "holes": [
+  {
+   "hole": 1,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 3,
+   "line_yards": 343,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, Tan/Green, Green",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.0,
+      -76.1
+     ],
+     "plays": 419,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      0.0,
+      -56.1
+     ],
+     "plays": 399,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.0,
+      -26.1
+     ],
+     "plays": 369,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      0.0,
+      -26.1
+     ],
+     "plays": 369,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      -1.3,
+      -0.1
+     ],
+     "plays": 343,
+     "error": 0,
+     "tee_box": "1420849044"
+    },
+    "Tan": {
+     "point": [
+      -1.3,
+      -0.1
+     ],
+     "plays": 343,
+     "error": 0,
+     "tee_box": "1420849044"
+    },
+    "Tan/Green": {
+     "point": [
+      0.0,
+      42.9
+     ],
+     "plays": 300,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      0.0,
+      42.9
+     ],
+     "plays": 300,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    252,
+    282
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 1,
+    "woods": 35,
+    "canopy_trees": 35,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420849053"
+  },
+  {
+   "hole": 2,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 7,
+   "line_yards": 375,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      -0.0,
+      -15.1
+     ],
+     "plays": 390,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      -0.6,
+      14.0
+     ],
+     "plays": 361,
+     "error": -8,
+     "tee_box": "1420885120"
+    },
+    "Purple/White": {
+     "point": [
+      -0.6,
+      19.9
+     ],
+     "plays": 355,
+     "error": 0,
+     "tee_box": "1420885120"
+    },
+    "White": {
+     "point": [
+      -0.6,
+      19.9
+     ],
+     "plays": 355,
+     "error": 0,
+     "tee_box": "1420885120"
+    },
+    "White/Tan": {
+     "point": [
+      0.0,
+      52.9
+     ],
+     "plays": 322,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      0.0,
+      52.9
+     ],
+     "plays": 322,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      0.0,
+      80.9
+     ],
+     "plays": 294,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      0.0,
+      80.9
+     ],
+     "plays": 294,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    248,
+    279
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 20,
+    "canopy_trees": 20,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420885123"
+  },
+  {
+   "hole": 3,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 1,
+   "line_yards": 426,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.0,
+      -26.6
+     ],
+     "plays": 453,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      0.0,
+      -6.6
+     ],
+     "plays": 433,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.0,
+      8.4
+     ],
+     "plays": 418,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      0.0,
+      8.4
+     ],
+     "plays": 418,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      0.0,
+      50.4
+     ],
+     "plays": 376,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      0.0,
+      50.4
+     ],
+     "plays": 376,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      0.0,
+      50.4
+     ],
+     "plays": 376,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      0.0,
+      90.4
+     ],
+     "plays": 336,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    239,
+    272
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 34,
+    "canopy_trees": 34,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420885130"
+  },
+  {
+   "hole": 4,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 9,
+   "line_yards": 351,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      3.1,
+      -22.9
+     ],
+     "plays": 374,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      -0.3,
+      1.9
+     ],
+     "plays": 349,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      -17.3,
+      25.8
+     ],
+     "plays": 323,
+     "error": 0,
+     "tee_box": "1420885136"
+    },
+    "White": {
+     "point": [
+      -17.3,
+      25.8
+     ],
+     "plays": 323,
+     "error": 0,
+     "tee_box": "1420885136"
+    },
+    "White/Tan": {
+     "point": [
+      -6.2,
+      45.5
+     ],
+     "plays": 305,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -6.2,
+      45.5
+     ],
+     "plays": 305,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      -9.2,
+      67.3
+     ],
+     "plays": 283,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      -9.2,
+      67.3
+     ],
+     "plays": 283,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    239,
+    273
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 0,
+    "woods": 26,
+    "canopy_trees": 26,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420885137"
+  },
+  {
+   "hole": 5,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": 5,
+   "line_yards": 223,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.4,
+      -3.6
+     ],
+     "plays": 227,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      -3.3,
+      31.2
+     ],
+     "plays": 192,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      -12.1,
+      50.4
+     ],
+     "plays": 172,
+     "error": 0,
+     "tee_box": "1420885114"
+    },
+    "White": {
+     "point": [
+      -12.1,
+      50.4
+     ],
+     "plays": 172,
+     "error": 0,
+     "tee_box": "1420885114"
+    },
+    "White/Tan": {
+     "point": [
+      -7.8,
+      73.0
+     ],
+     "plays": 150,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -7.8,
+      73.0
+     ],
+     "plays": 150,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      -7.8,
+      73.0
+     ],
+     "plays": 150,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      -10.7,
+      100.9
+     ],
+     "plays": 122,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    241,
+    273
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 20,
+    "canopy_trees": 20,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420885115"
+  },
+  {
+   "hole": 6,
+   "par": 5,
+   "par_estimated": false,
+   "hcp": 11,
+   "line_yards": 425,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, Tan, Tan/Green, Green",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.0,
+      -51.2
+     ],
+     "plays": 476,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      0.0,
+      -30.2
+     ],
+     "plays": 455,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.0,
+      -30.2
+     ],
+     "plays": 455,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      0.2,
+      -4.2
+     ],
+     "plays": 429,
+     "error": 0,
+     "tee_box": "1420849040"
+    },
+    "White/Tan": {
+     "point": [
+      0.2,
+      -4.2
+     ],
+     "plays": 429,
+     "error": 0,
+     "tee_box": "1420849040"
+    },
+    "Tan": {
+     "point": [
+      0.0,
+      34.8
+     ],
+     "plays": 390,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      0.0,
+      68.8
+     ],
+     "plays": 356,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      0.0,
+      68.8
+     ],
+     "plays": 356,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    244,
+    275
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 0,
+    "water": 4,
+    "woods": 43,
+    "canopy_trees": 43,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420849042"
+  },
+  {
+   "hole": 7,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 13,
+   "line_yards": 335,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, White/Tan, Tan, Tan/Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      -12.4,
+      -53.5
+     ],
+     "plays": 390,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      -6.3,
+      -27.2
+     ],
+     "plays": 363,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      -6.3,
+      -27.2
+     ],
+     "plays": 363,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      -0.7,
+      -2.8
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      -0.7,
+      -2.8
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      5.6,
+      24.4
+     ],
+     "plays": 310,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      5.6,
+      24.4
+     ],
+     "plays": 310,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      22.7,
+      58.5
+     ],
+     "plays": 273,
+     "error": 0,
+     "tee_box": "1420849037"
+    }
+   },
+   "elevation_ft": [
+    236,
+    274
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 23,
+    "canopy_trees": 23,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420849038"
+  },
+  {
+   "hole": 8,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": 17,
+   "line_yards": 177,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, White/Tan"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.2,
+      -1.8
+     ],
+     "plays": 179,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      -1.9,
+      22.1
+     ],
+     "plays": 155,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      -1.9,
+      22.1
+     ],
+     "plays": 155,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      -2.6,
+      30.1
+     ],
+     "plays": 147,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      -2.6,
+      30.1
+     ],
+     "plays": 147,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -14.3,
+      47.2
+     ],
+     "plays": 129,
+     "error": 0,
+     "tee_box": "1420885174"
+    },
+    "Tan/Green": {
+     "point": [
+      -14.3,
+      47.2
+     ],
+     "plays": 129,
+     "error": 0,
+     "tee_box": "1420885174"
+    },
+    "Green": {
+     "point": [
+      -15.1,
+      57.3
+     ],
+     "plays": 119,
+     "error": 10,
+     "tee_box": "1420885174"
+    }
+   },
+   "elevation_ft": [
+    236,
+    268
+   ],
+   "counts": {
+    "fairway": 0,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 22,
+    "canopy_trees": 22,
+    "tee_boxes": 2
+   },
+   "osm_hole_way": "1420885175"
+  },
+  {
+   "hole": 9,
+   "par": 5,
+   "par_estimated": false,
+   "hcp": 15,
+   "line_yards": 504,
+   "score": 90,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, White/Tan, Tan, Tan/Green, Green",
+    "No bunkers mapped near the green (check whether there are any)"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      6.7,
+      -50.6
+     ],
+     "plays": 555,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      3.5,
+      -26.8
+     ],
+     "plays": 531,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      3.5,
+      -26.8
+     ],
+     "plays": 531,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      0.7,
+      -5.0
+     ],
+     "plays": 509,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      0.7,
+      -5.0
+     ],
+     "plays": 509,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -9.8,
+      74.3
+     ],
+     "plays": 429,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      -13.5,
+      102.1
+     ],
+     "plays": 401,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      -13.5,
+      102.1
+     ],
+     "plays": 401,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    234,
+    273
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 0,
+    "water": 3,
+    "woods": 24,
+    "canopy_trees": 24,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420885150"
+  },
+  {
+   "hole": 10,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 10,
+   "line_yards": 365,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, White/Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.0,
+      -44.9
+     ],
+     "plays": 410,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      0.0,
+      -22.9
+     ],
+     "plays": 388,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.0,
+      -22.9
+     ],
+     "plays": 388,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      0.0,
+      2.1
+     ],
+     "plays": 363,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      0.0,
+      2.1
+     ],
+     "plays": 363,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -2.3,
+      44.1
+     ],
+     "plays": 321,
+     "error": 0,
+     "tee_box": "1420885163"
+    },
+    "Tan/Green": {
+     "point": [
+      0.0,
+      70.1
+     ],
+     "plays": 295,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      0.0,
+      70.1
+     ],
+     "plays": 295,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    234,
+    263
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 2,
+    "woods": 26,
+    "canopy_trees": 26,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420885164"
+  },
+  {
+   "hole": 11,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": 4,
+   "line_yards": 226,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      -5.4,
+      24.9
+     ],
+     "plays": 200,
+     "error": 0,
+     "tee_box": "1420885165"
+    },
+    "Purple": {
+     "point": [
+      -10.4,
+      48.2
+     ],
+     "plays": 176,
+     "error": 3,
+     "tee_box": "1420885165"
+    },
+    "Purple/White": {
+     "point": [
+      -12.8,
+      68.4
+     ],
+     "plays": 156,
+     "error": 0,
+     "tee_box": "1420885167"
+    },
+    "White": {
+     "point": [
+      -12.8,
+      68.4
+     ],
+     "plays": 156,
+     "error": 0,
+     "tee_box": "1420885167"
+    },
+    "White/Tan": {
+     "point": [
+      -20.4,
+      95.4
+     ],
+     "plays": 128,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -20.4,
+      95.4
+     ],
+     "plays": 128,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      -20.4,
+      95.4
+     ],
+     "plays": 128,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      -22.9,
+      107.1
+     ],
+     "plays": 116,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    233,
+    252
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 1,
+    "woods": 20,
+    "canopy_trees": 20,
+    "tee_boxes": 3
+   },
+   "osm_hole_way": "1420885169"
+  },
+  {
+   "hole": 12,
+   "par": 5,
+   "par_estimated": false,
+   "hcp": 18,
+   "line_yards": 492,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [],
+   "tees": {
+    "Black": {
+     "point": [
+      -2.4,
+      -9.2
+     ],
+     "plays": 501,
+     "error": 0,
+     "tee_box": "1544621215"
+    },
+    "Purple": {
+     "point": [
+      1.0,
+      4.5
+     ],
+     "plays": 487,
+     "error": 0,
+     "tee_box": "1544621216"
+    },
+    "Purple/White": {
+     "point": [
+      1.0,
+      4.5
+     ],
+     "plays": 487,
+     "error": 0,
+     "tee_box": "1544621216"
+    },
+    "White": {
+     "point": [
+      0.8,
+      21.6
+     ],
+     "plays": 470,
+     "error": 0,
+     "tee_box": "1544621217"
+    },
+    "White/Tan": {
+     "point": [
+      0.8,
+      21.6
+     ],
+     "plays": 470,
+     "error": 0,
+     "tee_box": "1544621217"
+    },
+    "Tan": {
+     "point": [
+      -2.6,
+      48.2
+     ],
+     "plays": 444,
+     "error": 0,
+     "tee_box": "1544621218"
+    },
+    "Tan/Green": {
+     "point": [
+      -2.6,
+      48.2
+     ],
+     "plays": 444,
+     "error": 0,
+     "tee_box": "1544621218"
+    },
+    "Green": {
+     "point": [
+      -3.6,
+      85.5
+     ],
+     "plays": 407,
+     "error": 0,
+     "tee_box": "1544621219"
+    }
+   },
+   "elevation_ft": [
+    234,
+    254
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 37,
+    "canopy_trees": 37,
+    "tee_boxes": 5
+   },
+   "osm_hole_way": "1419890267"
+  },
+  {
+   "hole": 13,
+   "par": 3,
+   "par_estimated": false,
+   "hcp": 14,
+   "line_yards": 179,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "No tee boxes mapped near the start of the hole line; tees placed on the line",
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      1.6,
+      -19.5
+     ],
+     "plays": 199,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      0.1,
+      -1.5
+     ],
+     "plays": 181,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.1,
+      -1.5
+     ],
+     "plays": 181,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      -1.4,
+      17.4
+     ],
+     "plays": 162,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      -1.4,
+      17.4
+     ],
+     "plays": 162,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -3.2,
+      39.3
+     ],
+     "plays": 140,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      -3.2,
+      39.3
+     ],
+     "plays": 140,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      -4.8,
+      59.3
+     ],
+     "plays": 120,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    235,
+    257
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 2,
+    "water": 0,
+    "woods": 28,
+    "canopy_trees": 28,
+    "tee_boxes": 0
+   },
+   "osm_hole_way": "1419890263"
+  },
+  {
+   "hole": 14,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 2,
+   "line_yards": 410,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      3.4,
+      -37.6
+     ],
+     "plays": 448,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      1.4,
+      -15.7
+     ],
+     "plays": 426,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.2,
+      13.3
+     ],
+     "plays": 397,
+     "error": 0,
+     "tee_box": "1420027772"
+    },
+    "White": {
+     "point": [
+      0.2,
+      13.3
+     ],
+     "plays": 397,
+     "error": 0,
+     "tee_box": "1420027772"
+    },
+    "White/Tan": {
+     "point": [
+      -4.0,
+      44.0
+     ],
+     "plays": 366,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      -4.0,
+      44.0
+     ],
+     "plays": 366,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      -6.5,
+      71.9
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      -6.5,
+      71.9
+     ],
+     "plays": 338,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    234,
+    259
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 30,
+    "canopy_trees": 30,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420027778"
+  },
+  {
+   "hole": 15,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 6,
+   "line_yards": 382,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, White, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      4.5,
+      -44.0
+     ],
+     "plays": 426,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      2.2,
+      -22.1
+     ],
+     "plays": 404,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.0,
+      -0.2
+     ],
+     "plays": 382,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      0.0,
+      -0.2
+     ],
+     "plays": 382,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      4.6,
+      22.4
+     ],
+     "plays": 360,
+     "error": 0,
+     "tee_box": "1420027781"
+    },
+    "Tan": {
+     "point": [
+      4.6,
+      22.4
+     ],
+     "plays": 360,
+     "error": 0,
+     "tee_box": "1420027781"
+    },
+    "Tan/Green": {
+     "point": [
+      4.6,
+      22.4
+     ],
+     "plays": 360,
+     "error": 0,
+     "tee_box": "1420027781"
+    },
+    "Green": {
+     "point": [
+      -5.6,
+      54.5
+     ],
+     "plays": 327,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    234,
+    265
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 3,
+    "water": 0,
+    "woods": 33,
+    "canopy_trees": 33,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420027782"
+  },
+  {
+   "hole": 16,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 8,
+   "line_yards": 377,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      -1.8,
+      -8.5
+     ],
+     "plays": 386,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      2.4,
+      11.1
+     ],
+     "plays": 366,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      13.0,
+      29.1
+     ],
+     "plays": 346,
+     "error": -2,
+     "tee_box": "1420027754"
+    },
+    "White": {
+     "point": [
+      13.0,
+      29.1
+     ],
+     "plays": 346,
+     "error": -2,
+     "tee_box": "1420027754"
+    },
+    "White/Tan": {
+     "point": [
+      14.8,
+      67.8
+     ],
+     "plays": 308,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      14.8,
+      67.8
+     ],
+     "plays": 308,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      14.8,
+      67.8
+     ],
+     "plays": 308,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      19.7,
+      90.2
+     ],
+     "plays": 285,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    239,
+    269
+   ],
+   "counts": {
+    "fairway": 1,
+    "bunkers_near_green": 1,
+    "water": 1,
+    "woods": 29,
+    "canopy_trees": 29,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420027755"
+  },
+  {
+   "hole": 17,
+   "par": 4,
+   "par_estimated": false,
+   "hcp": 16,
+   "line_yards": 321,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, Purple, Purple/White, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      0.0,
+      -21.3
+     ],
+     "plays": 342,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      0.0,
+      3.7
+     ],
+     "plays": 317,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple/White": {
+     "point": [
+      0.0,
+      3.7
+     ],
+     "plays": 317,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White": {
+     "point": [
+      -3.0,
+      20.7
+     ],
+     "plays": 300,
+     "error": 0,
+     "tee_box": "1420027746"
+    },
+    "White/Tan": {
+     "point": [
+      -3.0,
+      20.7
+     ],
+     "plays": 300,
+     "error": 0,
+     "tee_box": "1420027746"
+    },
+    "Tan": {
+     "point": [
+      -3.0,
+      30.3
+     ],
+     "plays": 290,
+     "error": 6,
+     "tee_box": "1420027746"
+    },
+    "Tan/Green": {
+     "point": [
+      0.0,
+      70.7
+     ],
+     "plays": 250,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      0.0,
+      70.7
+     ],
+     "plays": 250,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    240,
+    266
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 2,
+    "water": 1,
+    "woods": 27,
+    "canopy_trees": 27,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1420027747"
+  },
+  {
+   "hole": 18,
+   "par": 5,
+   "par_estimated": false,
+   "hcp": 12,
+   "line_yards": 530,
+   "score": 100,
+   "readiness": "Ready",
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Black, White, White/Tan, Tan, Tan/Green, Green"
+   ],
+   "tees": {
+    "Black": {
+     "point": [
+      -1.3,
+      -8.3
+     ],
+     "plays": 538,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Purple": {
+     "point": [
+      4.9,
+      16.5
+     ],
+     "plays": 513,
+     "error": -6,
+     "tee_box": "1420847498"
+    },
+    "Purple/White": {
+     "point": [
+      4.9,
+      16.5
+     ],
+     "plays": 513,
+     "error": -6,
+     "tee_box": "1420847498"
+    },
+    "White": {
+     "point": [
+      6.1,
+      39.1
+     ],
+     "plays": 490,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "White/Tan": {
+     "point": [
+      6.1,
+      39.1
+     ],
+     "plays": 490,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan": {
+     "point": [
+      9.5,
+      60.8
+     ],
+     "plays": 468,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Tan/Green": {
+     "point": [
+      15.7,
+      100.4
+     ],
+     "plays": 428,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    },
+    "Green": {
+     "point": [
+      15.7,
+      100.4
+     ],
+     "plays": 428,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
+    }
+   },
+   "elevation_ft": [
+    246,
+    275
+   ],
+   "counts": {
+    "fairway": 2,
+    "bunkers_near_green": 2,
+    "water": 4,
+    "woods": 42,
+    "canopy_trees": 42,
+    "tee_boxes": 1
+   },
+   "osm_hole_way": "1558626994"
+  }
+ ]
+}
