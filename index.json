@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-22T22:19:01Z",
+ "updated": "2026-10-26T23:40:58Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -425,6 +425,44 @@
    "version": "2026.10.21.3",
    "bytes": 393872,
    "osm": "way/25401721",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
+  },
+  {
+   "id": "desert-willow-firecliff-r21320526",
+   "name": "Desert Willow \u2013 Firecliff Course",
+   "city": "Palm Desert, CA",
+   "lat": 33.7695,
+   "lon": -116.366,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 18,
+   "version": "2026.10.26.2",
+   "bytes": 582799,
+   "osm": "relation/21320526",
+   "club": "Desert Willow Golf Resort",
+   "note": "Greens rebuilt in 2024, after the last elevation survey: no putt-side advice",
+   "quality": {
+    "slope": "limited",
+    "gap_holes": 0
+   }
+  },
+  {
+   "id": "desert-willow-mountain-view-r21320526",
+   "name": "Desert Willow \u2013 Mountain View Course",
+   "city": "Palm Desert, CA",
+   "lat": 33.7615,
+   "lon": -116.365,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 18,
+   "version": "2026.10.26.2",
+   "bytes": 533618,
+   "osm": "relation/21320526",
+   "club": "Desert Willow Golf Resort",
+   "note": "Most tees are placed from card yardages, not mapped tee boxes",
    "quality": {
     "slope": "full",
     "gap_holes": 0
