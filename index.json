@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-26T23:40:58Z",
+ "updated": "2026-11-10T21:00:00Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -2070,6 +2070,13 @@
    "lon": -122.610265,
    "reason": "Too little of the course is mapped",
    "osm": "way/404432595"
+  },
+  {
+   "name": "Westin Mission Hills Resort - Pete Dye Course",
+   "lat": 33.797004,
+   "lon": -116.415115,
+   "reason": "Too little of the course is mapped",
+   "osm": "relation/4082115"
   }
  ],
  "attribution": "Map data (c) OpenStreetMap contributors, ODbL 1.0. Elevation: USGS 3DEP. Trees: Meta and WRI canopy height, CC BY 4.0."
