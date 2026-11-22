@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-10T21:00:00Z",
+ "updated": "2026-11-22T17:28:07Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -119,6 +119,42 @@
    "osm": "way/31270695",
    "quality": {
     "slope": "limited",
+    "gap_holes": 0
+   }
+  },
+  {
+   "id": "brookside-koiner-r16307627",
+   "name": "Brookside \u2013 C.W. Koiner Course",
+   "city": "Pasadena, CA",
+   "lat": 34.1675,
+   "lon": -118.1715,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 18,
+   "version": "2026.11.22.1",
+   "bytes": 616460,
+   "osm": "relation/16307627",
+   "club": "Brookside Golf Club",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
+  },
+  {
+   "id": "brookside-nay-r16307627",
+   "name": "Brookside \u2013 E.O. Nay Course",
+   "city": "Pasadena, CA",
+   "lat": 34.1735,
+   "lon": -118.17,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 18,
+   "version": "2026.11.22.1",
+   "bytes": 510035,
+   "osm": "relation/16307627",
+   "club": "Brookside Golf Club",
+   "quality": {
+    "slope": "full",
     "gap_holes": 0
    }
   },
@@ -857,6 +893,24 @@
    "version": "2026.10.22.1",
    "bytes": 578830,
    "osm": "way/26298053",
+   "quality": {
+    "slope": "full",
+    "gap_holes": 0
+   }
+  },
+  {
+   "id": "los-verdes-w256916759",
+   "name": "Los Verdes Golf Course",
+   "city": "Rancho Palos Verdes, CA",
+   "lat": 33.7547,
+   "lon": -118.4002,
+   "readiness": "Ready",
+   "par_source": "scorecard",
+   "holes": 18,
+   "version": "2026.11.22.1",
+   "bytes": 645298,
+   "osm": "way/256916759",
+   "club": "Los Verdes Golf Course",
    "quality": {
     "slope": "full",
     "gap_holes": 0
