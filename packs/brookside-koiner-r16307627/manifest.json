@@ -4,7 +4,7 @@
  "name": "Brookside \u2013 C.W. Koiner Course",
  "city": "Pasadena, CA",
  "version": "2026.11.22.1",
- "built_at": "2026-11-22T17:07:27",
+ "built_at": "2026-11-22T17:39:33",
  "verified": false,
  "sources": {
   "geometry": "OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0",
@@ -18,7 +18,7 @@
   "Usable with gaps": 0,
   "Limited": 0
  },
- "build_seconds": 142.0,
+ "build_seconds": 159.1,
  "par": 72,
  "par_source": "scorecard",
  "holes_count": 18,
@@ -47,6 +47,12 @@
    "yards": 6389,
    "rating": 71.2,
    "slope": 126
+  },
+  {
+   "name": "Red",
+   "yards": 6000,
+   "rating": 69.4,
+   "slope": 121
   }
  ],
  "holes": [
@@ -84,6 +90,15 @@
       27.5
      ],
      "plays": 394,
+     "error": 0,
+     "tee_box": "1007448402"
+    },
+    "Red": {
+     "point": [
+      2.8,
+      19.5
+     ],
+     "plays": 402,
      "error": 0,
      "tee_box": "1007448402"
     }
@@ -138,6 +153,15 @@
      "plays": 463,
      "error": 0,
      "tee_box": "1007451633"
+    },
+    "Red": {
+     "point": [
+      -0.8,
+      34.9
+     ],
+     "plays": 439,
+     "error": 0,
+     "tee_box": "1007451633"
     }
    },
    "elevation_ft": [
@@ -190,6 +214,15 @@
      "plays": 455,
      "error": 0,
      "tee_box": "1007452329"
+    },
+    "Red": {
+     "point": [
+      -1.7,
+      35.1
+     ],
+     "plays": 421,
+     "error": 0,
+     "tee_box": "1007452328"
     }
    },
    "elevation_ft": [
@@ -240,6 +273,15 @@
       47.6
      ],
      "plays": 157,
+     "error": 0,
+     "tee_box": "1007473607"
+    },
+    "Red": {
+     "point": [
+      5.7,
+      64.6
+     ],
+     "plays": 140,
      "error": 0,
      "tee_box": "1007473607"
     }
@@ -294,6 +336,15 @@
      "plays": 339,
      "error": 0,
      "tee_box": "1007526301"
+    },
+    "Red": {
+     "point": [
+      0.2,
+      8.0
+     ],
+     "plays": 313,
+     "error": 0,
+     "tee_box": "1007526302"
     }
    },
    "elevation_ft": [
@@ -346,6 +397,15 @@
      "plays": 476,
      "error": 0,
      "tee_box": "1007568838"
+    },
+    "Red": {
+     "point": [
+      -2.0,
+      44.0
+     ],
+     "plays": 459,
+     "error": 0,
+     "tee_box": "1007568838"
     }
    },
    "elevation_ft": [
@@ -370,7 +430,9 @@
    "line_yards": 402,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Red"
+   ],
    "tees": {
     "Gold": {
      "point": [
@@ -398,6 +460,16 @@
      "plays": 385,
      "error": 9,
      "tee_box": "1007568842"
+    },
+    "Red": {
+     "point": [
+      10.0,
+      50.5
+     ],
+     "plays": 351,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
     }
    },
    "elevation_ft": [
@@ -450,6 +522,15 @@
      "plays": 158,
      "error": 0,
      "tee_box": "1007570353"
+    },
+    "Red": {
+     "point": [
+      -0.9,
+      8.4
+     ],
+     "plays": 140,
+     "error": 0,
+     "tee_box": "1007570353"
     }
    },
    "elevation_ft": [
@@ -474,7 +555,9 @@
    "line_yards": 436,
    "score": 100,
    "readiness": "Ready",
-   "reasons": [],
+   "reasons": [
+    "Tee box not mapped, placed on the hole line at the card yardage: Red"
+   ],
    "tees": {
     "Gold": {
      "point": [
@@ -502,6 +585,16 @@
      "plays": 420,
      "error": 0,
      "tee_box": "1007448407"
+    },
+    "Red": {
+     "point": [
+      -1.1,
+      82.9
+     ],
+     "plays": 353,
+     "error": 0,
+     "tee_box": null,
+     "from_card": true
     }
    },
    "elevation_ft": [
@@ -552,6 +645,15 @@
       6.7
      ],
      "plays": 291,
+     "error": 0,
+     "tee_box": "995997191"
+    },
+    "Red": {
+     "point": [
+      34.4,
+      13.7
+     ],
+     "plays": 284,
      "error": 0,
      "tee_box": "995997191"
     }
@@ -609,6 +711,15 @@
      "plays": 385,
      "error": 0,
      "tee_box": "1008013042"
+    },
+    "Red": {
+     "point": [
+      -0.8,
+      10.4
+     ],
+     "plays": 371,
+     "error": 0,
+     "tee_box": "1008013042"
     }
    },
    "elevation_ft": [
@@ -659,6 +770,15 @@
       10.4
      ],
      "plays": 434,
+     "error": 0,
+     "tee_box": "1008018922"
+    },
+    "Red": {
+     "point": [
+      -1.2,
+      24.3
+     ],
+     "plays": 420,
      "error": 0,
      "tee_box": "1008018922"
     }
@@ -716,6 +836,15 @@
      "plays": 389,
      "error": 0,
      "tee_box": "1008020714"
+    },
+    "Red": {
+     "point": [
+      -1.3,
+      10.0
+     ],
+     "plays": 383,
+     "error": 0,
+     "tee_box": "1008020714"
     }
    },
    "elevation_ft": [
@@ -768,6 +897,15 @@
      "plays": 287,
      "error": 0,
      "tee_box": "750312550"
+    },
+    "Red": {
+     "point": [
+      -16.5,
+      101.0
+     ],
+     "plays": 264,
+     "error": 0,
+     "tee_box": "750312549"
     }
    },
    "elevation_ft": [
@@ -822,6 +960,15 @@
       -2.4
      ],
      "plays": 474,
+     "error": 0,
+     "tee_box": "1008029217"
+    },
+    "Red": {
+     "point": [
+      1.1,
+      15.6
+     ],
+     "plays": 456,
      "error": 0,
      "tee_box": "1008029217"
     }
@@ -879,6 +1026,15 @@
      "plays": 393,
      "error": 0,
      "tee_box": "1008029220"
+    },
+    "Red": {
+     "point": [
+      9.9,
+      67.5
+     ],
+     "plays": 359,
+     "error": 0,
+     "tee_box": "1008029220"
     }
    },
    "elevation_ft": [
@@ -931,6 +1087,15 @@
      "plays": 164,
      "error": 0,
      "tee_box": "1008263034"
+    },
+    "Red": {
+     "point": [
+      -5.2,
+      73.3
+     ],
+     "plays": 114,
+     "error": 0,
+     "tee_box": "1008263035"
     }
    },
    "elevation_ft": [
@@ -982,6 +1147,15 @@
      ],
      "plays": 334,
      "error": 0,
+     "tee_box": "1008264054"
+    },
+    "Red": {
+     "point": [
+      -1.8,
+      12.9
+     ],
+     "plays": 332,
+     "error": 1,
      "tee_box": "1008264054"
     }
    },
