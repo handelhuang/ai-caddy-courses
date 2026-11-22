@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-22T17:42:24Z",
+ "updated": "2026-11-22T17:43:21Z",
  "courses": [
   {
    "id": "adobe-creek-r13725984",
@@ -132,7 +132,7 @@
    "par_source": "scorecard",
    "holes": 18,
    "version": "2026.11.22.1",
-   "bytes": 616460,
+   "bytes": 617251,
    "osm": "relation/16307627",
    "club": "Brookside Golf Club",
    "quality": {
@@ -150,7 +150,7 @@
    "par_source": "scorecard",
    "holes": 18,
    "version": "2026.11.22.1",
-   "bytes": 510035,
+   "bytes": 510769,
    "osm": "relation/16307627",
    "club": "Brookside Golf Club",
    "quality": {
